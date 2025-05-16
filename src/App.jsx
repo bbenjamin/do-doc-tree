@@ -13,8 +13,6 @@ import './App.css'
 function App() {
   const [count, setCount] = useState(0)
 
-  console.log(buildUrlTree(extending))
-
   return (
     <>
      <h1>Drupal Docs Tree View</h1>

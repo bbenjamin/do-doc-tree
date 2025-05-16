@@ -22,14 +22,14 @@ const ShowUrlTree = ({ tree, title = '', names }) => {
  * TreeNode component that recursively renders each node and its children
  */
 const TreeNode = ({ node, level, names }) => {
-  console.log('what names', names);
   const [isExpanded, setIsExpanded] = useState(false); // Auto-expand first two levels
   const [isSelected, setIsSelected] = useState(false);
-
+  console.log('IS EXPANDED', isExpanded)
   const hasChildren = node.children && node.children.length > 0;
-
+  console.log('has Children', hasChildren)
   const handleToggle = (e) => {
     e.stopPropagation();
+    console.log('IS EX', isExpanded)
     setIsExpanded(!isExpanded);
   };
 
@@ -51,17 +51,16 @@ const TreeNode = ({ node, level, names }) => {
       return node.url;
     }
   };
-  console.log(`${node.url} || ${!!names?.[node.url]}`)
-  console.dir(names)
+
 
   return (
     <div className="tree-node" style={{ marginLeft: `${level * 20}px` }}>
       <div
         className={`node-content ${isSelected ? 'selected' : ''}`}
-        onClick={handleSelect}
+        onClick={handleToggle}
       >
         {hasChildren && (
-          <span className="toggle-icon" onClick={handleToggle}>
+          <span className="toggle-icon" >
             {isExpanded ? '▼' : '▶'}
           </span>
         )}
