@@ -95,3 +95,58 @@ export function buildUrlTree(urlObject) {
     // console.log('linkColl', linksToName)
 
   }
+
+  /**
+ * Transforms a flat URL structure into a hierarchical tree structure
+ * by connecting links with their corresponding children 
+ * @param {Object} flatData - The flat object with URLs as keys and arrays of links as values
+ * @return {Object} - Hierarchical tree representation
+ */
+export function buildHierarchicalTree(flatData) {
+    // Create deep copy to avoid modifying the input
+    const result = JSON.parse(JSON.stringify(flatData));
+    
+    // Track URLs that have been used as children
+    const usedAsChildren = new Set();
+    
+    // First pass: Add children arrays to links that match root URLs
+    Object.keys(flatData).forEach(parentUrl => {
+      flatData[parentUrl].forEach(link => {
+        // If this link's href matches a root-level URL
+        if (flatData[link.href]) {
+          // Add its links as children
+          link.children = flatData[link.href];
+          // Mark this URL to be removed from root level
+          usedAsChildren.add(link.href);
+        } else {
+          // Initialize empty children array for leaf nodes
+          link.children = [];
+        }
+      });
+    });
+    console.log('usedAsChildren', usedAsChildren)
+    // Second pass: Remove URLs that have been used as children
+    usedAsChildren.forEach(url => {
+      delete result[url];
+    });
+    
+    return result;
+  }
+  
+  /**
+   * Transforms the hierarchical tree into a format suitable for visualization
+   * @param {Object} hierarchicalData - The hierarchical tree structure
+   * @return {Object} - A single root node with all content as children
+   */
+  export function prepareForVisualization(hierarchicalData) {
+    // Find the root URL (first one or most likely homepage)
+    const rootUrl = Object.keys(hierarchicalData)[0] || 
+      "https://www.drupal.org/docs/user_guide/en/index.html";
+    
+    // Create root node
+    return {
+      text: "Drupal User Guide",
+      href: rootUrl,
+      children: hierarchicalData[rootUrl] || []
+    };
+  }

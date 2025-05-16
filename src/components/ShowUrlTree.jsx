@@ -28,7 +28,6 @@ const TreeNode = ({ node, level, names }) => {
 
   const handleToggle = (e) => {
     e.stopPropagation();
-    console.log('IS EX', isExpanded)
     setIsExpanded(!isExpanded);
   };
 

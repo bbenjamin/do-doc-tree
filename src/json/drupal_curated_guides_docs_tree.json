@@ -1,0 +1,108 @@
+{
+    "https://www.drupal.org/docs/official_docs": [
+        {
+            "text": "Evaluator Guide",
+            "href": "https://drupal.org/docs/official_docs/en/_evaluator_guide.html"
+        },
+        {
+            "text": "Local Development Guide",
+            "href": "https://drupal.org/docs/official_docs/en/_local_development_guide.html"
+        },
+        {
+            "text": "Evaluator Guide",
+            "href": "https://drupal.org/docs/official_docs/evaluator-guide"
+        },
+        {
+            "text": "Local Development Guide",
+            "href": "https://drupal.org/docs/official_docs/local-development-guide"
+        },
+        {
+            "text": "Appendix",
+            "href": "https://drupal.org/docs/official_docs/appendix"
+        }
+    ],
+    "https://drupal.org/docs/official_docs/en/_evaluator_guide.html": [
+        {
+            "text": "Curated Guides",
+            "href": "https://drupal.org/docs/official_docs"
+        },
+        {
+            "text": "Evaluator Guide",
+            "href": "https://drupal.org/docs/official_docs/evaluator-guide"
+        },
+        {
+            "text": "Local Development Guide",
+            "href": "https://drupal.org/docs/official_docs/local-development-guide"
+        },
+        {
+            "text": "Appendix",
+            "href": "https://drupal.org/docs/official_docs/appendix"
+        }
+    ],
+    "https://drupal.org/docs/official_docs": [
+        {
+            "text": "Local Development Guide",
+            "href": "https://drupal.org/docs/official_docs/en/_local_development_guide.html"
+        },
+        {
+            "text": "Evaluator Guide",
+            "href": "https://drupal.org/docs/official_docs/evaluator-guide"
+        },
+        {
+            "text": "Local Development Guide",
+            "href": "https://drupal.org/docs/official_docs/local-development-guide"
+        },
+        {
+            "text": "Appendix",
+            "href": "https://drupal.org/docs/official_docs/appendix"
+        }
+    ],
+    "https://drupal.org/docs/official_docs/en/_local_development_guide.html": [
+        {
+            "text": "Evaluator Guide",
+            "href": "https://drupal.org/docs/official_docs/evaluator-guide"
+        },
+        {
+            "text": "Local Development Guide",
+            "href": "https://drupal.org/docs/official_docs/local-development-guide"
+        },
+        {
+            "text": "Appendix",
+            "href": "https://drupal.org/docs/official_docs/appendix"
+        }
+    ],
+    "https://drupal.org/docs/official_docs/evaluator-guide": [
+        {
+            "text": "Local Development Guide",
+            "href": "https://drupal.org/docs/official_docs/local-development-guide"
+        },
+        {
+            "text": "Appendix",
+            "href": "https://drupal.org/docs/official_docs/appendix"
+        }
+    ],
+    "https://drupal.org/docs/official_docs/local-development-guide": [
+        {
+            "text": "Appendix",
+            "href": "https://drupal.org/docs/official_docs/appendix"
+        }
+    ],
+    "https://drupal.org/docs/official_docs/appendix": [
+        {
+            "text": "the section called \u201cGuide-Wide Attributions\u201d",
+            "href": "https://drupal.org/docs/official_docs/en/_appendix.html"
+        },
+        {
+            "text": "the section called \u201cCopyright\u201d",
+            "href": "https://drupal.org/docs/official_docs/en/_appendix.html"
+        },
+        {
+            "text": "the section called \u201cGuide-Wide Attributions\u201d",
+            "href": "https://drupal.org/docs/official_docs/en/_appendix.html"
+        },
+        {
+            "text": "the section called \u201cCopyright\u201d",
+            "href": "https://drupal.org/docs/official_docs/en/_appendix.html"
+        }
+    ]
+}
