@@ -6,6 +6,7 @@ import { buildUrlTree, urlToLinkName } from './util/urlTree'
 import extending from './json/drupal_extending_docs_tree.json'
 import administering from './json/drupal_administering_docs_tree.json'
 import updating from './json/drupal_updating_docs_tree.json'
+import started from './json/drupal_getting_started_docs_tree.json'
 import ShowUrlTree from './components/ShowUrlTree'
 
 import './App.css'
@@ -16,7 +17,8 @@ function App() {
   return (
     <>
      <h1>Drupal Docs Tree View</h1>
-     <ShowUrlTree tree={buildUrlTree(extending)} title='Extending Drupal' names={urlToLinkName(extending)} />
+      <ShowUrlTree tree={buildUrlTree(started)} title='Getting Started' names={urlToLinkName(started)} />
+      <ShowUrlTree tree={buildUrlTree(extending)} title='Extending Drupal' names={urlToLinkName(extending)} />
      <ShowUrlTree tree={buildUrlTree(updating)} title='Updating Drupal' names={urlToLinkName(updating)}/>
      <ShowUrlTree tree={buildUrlTree(administering)} title='Administering Drupal' names={urlToLinkName(administering)} />
 

@@ -24,9 +24,8 @@ const ShowUrlTree = ({ tree, title = '', names }) => {
 const TreeNode = ({ node, level, names }) => {
   const [isExpanded, setIsExpanded] = useState(false); // Auto-expand first two levels
   const [isSelected, setIsSelected] = useState(false);
-  console.log('IS EXPANDED', isExpanded)
   const hasChildren = node.children && node.children.length > 0;
-  console.log('has Children', hasChildren)
+
   const handleToggle = (e) => {
     e.stopPropagation();
     console.log('IS EX', isExpanded)
