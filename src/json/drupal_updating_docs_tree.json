@@ -1,0 +1,288 @@
+{
+    "https://drupal.org/docs/updating-drupal": [
+        {
+            "text": "introduction",
+            "href": "https://drupal.org/docs/updating-drupal/overview-of-options"
+        },
+        {
+            "text": "Options for updating Drupal core",
+            "href": "https://drupal.org/docs/updating-drupal/options-for-updating-drupal-core"
+        },
+        {
+            "text": "Updating Drupal core via Composer",
+            "href": "https://drupal.org/docs/updating-drupal/updating-drupal-core-via-composer"
+        },
+        {
+            "text": "Updating Drupal core manually",
+            "href": "https://drupal.org/docs/updating-drupal/updating-drupal-core-manually"
+        },
+        {
+            "text": "Updating Modules and Themes using Composer",
+            "href": "https://drupal.org/docs/updating-drupal/updating-modules-and-themes-using-composer"
+        },
+        {
+            "text": "Migrating the Composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrating-the-composer-project-for-drupal-earlier-than-880"
+        },
+        {
+            "text": "Troubleshooting database updates",
+            "href": "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Deploying a Drupal update",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/overview-of-options": [
+        {
+            "text": "Before you begin",
+            "href": "https://drupal.org/docs/updating-drupal/options-for-updating-drupal-core"
+        },
+        {
+            "text": "Update Drupal Core",
+            "href": "https://drupal.org/docs/updating-drupal/options-for-updating-drupal-core"
+        },
+        {
+            "text": "Overview of options",
+            "href": "https://drupal.org/docs/updating-drupal/options-for-updating-drupal-core"
+        },
+        {
+            "text": "Update core via Composer",
+            "href": "https://drupal.org/docs/updating-drupal/updating-drupal-core-via-composer"
+        },
+        {
+            "text": "Update core manually",
+            "href": "https://drupal.org/docs/updating-drupal/updating-drupal-core-manually"
+        },
+        {
+            "text": "Update modules",
+            "href": "https://drupal.org/docs/updating-drupal/updating-modules-and-themes-using-composer"
+        },
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrating-the-composer-project-for-drupal-earlier-than-880"
+        },
+        {
+            "text": "Troubleshooting database updates",
+            "href": "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        },
+        {
+            "text": "Manual",
+            "href": "https://drupal.org/docs/updating-drupal/update-core-manually"
+        },
+        {
+            "text": "Composer",
+            "href": "https://drupal.org/docs/updating-drupal/update-drupal-core-via-composer"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/options-for-updating-drupal-core": [
+        {
+            "text": "Update core via Composer",
+            "href": "https://drupal.org/docs/updating-drupal/updating-drupal-core-via-composer"
+        },
+        {
+            "text": "Update core manually",
+            "href": "https://drupal.org/docs/updating-drupal/updating-drupal-core-manually"
+        },
+        {
+            "text": "Update modules",
+            "href": "https://drupal.org/docs/updating-drupal/updating-modules-and-themes-using-composer"
+        },
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrating-the-composer-project-for-drupal-earlier-than-880"
+        },
+        {
+            "text": "Troubleshooting database updates",
+            "href": "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        },
+        {
+            "text": "Manual",
+            "href": "https://drupal.org/docs/updating-drupal/update-core-manually"
+        },
+        {
+            "text": "Composer",
+            "href": "https://drupal.org/docs/updating-drupal/update-drupal-core-via-composer"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/updating-drupal-core-via-composer": [
+        {
+            "text": "Update core manually",
+            "href": "https://drupal.org/docs/updating-drupal/updating-drupal-core-manually"
+        },
+        {
+            "text": "Update modules",
+            "href": "https://drupal.org/docs/updating-drupal/updating-modules-and-themes-using-composer"
+        },
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrating-the-composer-project-for-drupal-earlier-than-880"
+        },
+        {
+            "text": "Troubleshooting database updates",
+            "href": "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        },
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrate-composer-project-for-drupal-earlier-than-880"
+        },
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrate-composer-project-for-drupal-earlier-than-880"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/updating-drupal-core-manually": [
+        {
+            "text": "Update modules",
+            "href": "https://drupal.org/docs/updating-drupal/updating-modules-and-themes-using-composer"
+        },
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrating-the-composer-project-for-drupal-earlier-than-880"
+        },
+        {
+            "text": "Troubleshooting database updates",
+            "href": "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/updating-modules-and-themes-using-composer": [
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrating-the-composer-project-for-drupal-earlier-than-880"
+        },
+        {
+            "text": "Troubleshooting database updates",
+            "href": "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/migrating-the-composer-project-for-drupal-earlier-than-880": [
+        {
+            "text": "Troubleshooting database updates",
+            "href": "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        },
+        {
+            "text": "standard update instructions",
+            "href": "https://drupal.org/docs/updating-drupal/update-drupal-core-via-composer"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/troubleshooting-database-updates": [
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        },
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        },
+        {
+            "text": "Known database update issues and workarounds",
+            "href": "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/known-database-update-issues-and-workarounds": [
+        {
+            "text": "Responding to critical security update advisories",
+            "href": "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories"
+        },
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/responding-to-critical-security-update-advisories": [
+        {
+            "text": "Drupal updates and deployments",
+            "href": "https://drupal.org/docs/updating-drupal/deploying-a-drupal-update"
+        }
+    ],
+    "https://drupal.org/docs/updating-drupal/update-drupal-core-via-composer": [
+        {
+            "text": "Migrate composer project for Drupal earlier than 8.8.0",
+            "href": "https://drupal.org/docs/updating-drupal/migrate-composer-project-for-drupal-earlier-than-880"
+        }
+    ]
+}
