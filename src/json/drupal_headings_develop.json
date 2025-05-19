@@ -1,5 +1,5 @@
 {
-    "https://www.drupal.org/docs/develop": [
+    "https://drupal.org/docs/develop": [
         {
             "text": "Local server setup",
             "href": "https://drupal.org/docs/develop/local-server-setup"
@@ -291,6 +291,10 @@
         {
             "text": "Gitpod",
             "href": "https://drupal.org/docs/develop/development-tools/drupalpod/gitpod"
+        },
+        {
+            "text": "Troubleshooting/FAQ",
+            "href": "https://drupal.org/docs/7/modules/drupalpod/troubleshootingfaq"
         }
     ],
     "https://drupal.org/docs/develop/development-tools/phpstan": [
@@ -1287,6 +1291,10 @@
         {
             "text": "Tours",
             "href": "https://drupal.org/docs/develop/user-interface-standards/tours"
+        },
+        {
+            "text": "Tour text standards",
+            "href": "https://drupal.org/docs/extending-drupal/contributed-modules/contributed-module-documentation/tour/tour-text-standards"
         }
     ],
     "https://drupal.org/docs/develop/theming-drupal": [
@@ -1319,12 +1327,48 @@
             "href": "https://drupal.org/docs/develop/theming-drupal/sub-theming-using-stablestable-9-as-a-base-theme"
         },
         {
+            "text": "Classy themes css selectors",
+            "href": "https://drupal.org/docs/8/theming-drupal-8/classy-themes-css-selectors"
+        },
+        {
             "text": "Using Single-Directory Components",
             "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components"
         },
         {
+            "text": "Including Default Image Styles With Your Theme",
+            "href": "https://drupal.org/docs/8/theming-drupal-8/including-default-image-styles-with-your-theme"
+        },
+        {
+            "text": "Including Partial Templates",
+            "href": "https://drupal.org/docs/8/theming-drupal-8/including-part-template"
+        },
+        {
+            "text": "Using attributes in templates",
+            "href": "https://drupal.org/docs/8/theming-drupal-8/using-attributes-in-templates"
+        },
+        {
+            "text": "Preprocessing and modifying attributes in a .theme file",
+            "href": "https://drupal.org/docs/8/theming-drupal-8/modifying-attributes-in-a-theme-file"
+        },
+        {
             "text": "Working with breakpoints in Drupal",
             "href": "https://drupal.org/docs/develop/theming-drupal/working-with-breakpoints-in-drupal"
+        },
+        {
+            "text": "Creating advanced theme settings",
+            "href": "https://drupal.org/docs/8/theming-drupal-8/creating-advanced-theme-settings"
+        },
+        {
+            "text": "Theming differences between Drupal 6, 7, 8, 9 & 10",
+            "href": "https://drupal.org/docs/8/theming-drupal-8/theming-differences-between-drupal-6-7-8"
+        },
+        {
+            "text": "Upgrading classes on 7.x themes to Drupal 8 or later",
+            "href": "https://drupal.org/docs/theming-drupal/upgrading-classes-on-7x-themes-to-drupal-8-or-later"
+        },
+        {
+            "text": "Drupal Twig conversion instructions (tpl.php to html.twig)",
+            "href": "https://drupal.org/docs/theming-drupal/drupal-twig-conversion-instructions-tplphp-to-htmltwig"
         },
         {
             "text": "Creating automation tools for custom themes (Gulpjs)",
@@ -1357,6 +1401,10 @@
             "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/twig-template-naming-conventions"
         },
         {
+            "text": "Comparison of PHPTemplate and Twig theming paradigms",
+            "href": "https://drupal.org/docs/theming-drupal/twig-in-drupal/comparison-of-phptemplate-and-twig-theming-paradigms"
+        },
+        {
             "text": "Discovering and Inspecting Variables in Twig Templates",
             "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/discovering-and-inspecting-variables-in-twig-templates"
         },
@@ -1369,6 +1417,10 @@
             "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/debugging-compiled-twig-templates"
         },
         {
+            "text": "Locating Template Files with Debugging",
+            "href": "https://drupal.org/docs/theming-drupal/twig-in-drupal/locating-template-files-with-debugging"
+        },
+        {
             "text": "Filters - Modifying Variables In Twig Templates",
             "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/filters-modifying-variables-in-twig-templates"
         },
@@ -1377,12 +1429,28 @@
             "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/functions-in-twig-templates"
         },
         {
+            "text": "Macros in Twig Templates",
+            "href": "https://drupal.org/docs/theming-drupal/twig-in-drupal/macros-in-twig-templates"
+        },
+        {
+            "text": "Twig best practices - preprocess functions and templates",
+            "href": "https://drupal.org/docs/theming-drupal/twig-in-drupal/twig-best-practices-preprocess-functions-and-templates"
+        },
+        {
             "text": "Create custom twig templates for custom module",
             "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/create-custom-twig-templates-for-custom-module"
         },
         {
             "text": "Extending templates",
             "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/extending-templates"
+        },
+        {
+            "text": "Profiling a Twig template",
+            "href": "https://drupal.org/docs/theming-drupal/twig-in-drupal/profiling-a-twig-template"
+        },
+        {
+            "text": "Using custom content types and fields with Twig",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/using-custom-content-types-and-fields-with-twig"
         }
     ],
     "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components": [
@@ -1449,6 +1517,14 @@
             "href": "https://drupal.org/docs/develop/creating-modules/create-a-custom-page-using-a-controller"
         },
         {
+            "text": "Creating custom blocks",
+            "href": "https://drupal.org/docs/creating-modules/creating-custom-blocks"
+        },
+        {
+            "text": "Creating custom field types, widgets, and formatters",
+            "href": "https://drupal.org/docs/creating-custom-modules/creating-custom-field-types-widgets-and-formatters"
+        },
+        {
             "text": "Subscribe to and dispatch events",
             "href": "https://drupal.org/docs/develop/creating-modules/subscribe-to-and-dispatch-events"
         },
@@ -1465,8 +1541,52 @@
             "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator"
         },
         {
+            "text": "Step by step tutorial: Hello World",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world"
+        },
+        {
             "text": "Understanding hooks",
             "href": "https://drupal.org/docs/develop/creating-modules/understanding-hooks"
+        }
+    ],
+    "https://drupal.org/docs/creating-modules/creating-custom-blocks": [
+        {
+            "text": "Create a custom block plugin",
+            "href": "https://drupal.org/docs/creating-modules/creating-custom-blocks/create-a-custom-block-plugin"
+        },
+        {
+            "text": "Add a Form to the Block Configuration",
+            "href": "https://drupal.org/docs/creating-modules/creating-custom-blocks/add-a-form-to-the-block-configuration"
+        },
+        {
+            "text": "Process the Block Config Form",
+            "href": "https://drupal.org/docs/8/creating-custom-modules/creating-custom-blocks/process-the-block-config-form"
+        },
+        {
+            "text": "Use Config in Block Display",
+            "href": "https://drupal.org/docs/creating-modules/creating-custom-blocks/use-config-in-block-display"
+        }
+    ],
+    "https://drupal.org/docs/creating-custom-modules/creating-custom-field-types-widgets-and-formatters": [
+        {
+            "text": "Overview: Creating a custom field",
+            "href": "https://drupal.org/docs/creating-custom-modules/creating-custom-field-types-widgets-and-formatters/overview-creating-a-custom-field"
+        },
+        {
+            "text": "Field types, widgets, and formatters are plugins",
+            "href": "https://drupal.org/docs/creating-custom-modules/creating-custom-field-types-widgets-and-formatters/field-types-widgets"
+        },
+        {
+            "text": "Create a custom field type",
+            "href": "https://drupal.org/docs/creating-custom-modules/creating-custom-field-types-widgets-and-formatters/create-a-custom-field-type"
+        },
+        {
+            "text": "Create a custom field widget",
+            "href": "https://drupal.org/docs/creating-custom-modules/creating-custom-field-types-widgets-and-formatters/create-a-custom-field-widget"
+        },
+        {
+            "text": "Create a custom field formatter",
+            "href": "https://drupal.org/docs/creating-custom-modules/creating-custom-field-types-widgets-and-formatters/create-a-custom-field-formatter"
         }
     ],
     "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator": [
@@ -1495,6 +1615,36 @@
             "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module"
         }
     ],
+    "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world": [
+        {
+            "text": "Tutorial introduction",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world/tutorial-introduction"
+        },
+        {
+            "text": "Prepare a Module skeleton",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world/prepare-a-module-skeleton"
+        },
+        {
+            "text": "Add a routing file",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world/add-a-routing-file"
+        },
+        {
+            "text": "Adding a basic controller",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world/adding-a-basic-controller"
+        },
+        {
+            "text": "Add a menu link",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world/add-a-menu-link"
+        },
+        {
+            "text": "Add a Default Configuration",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world/add-a-default-configuration"
+        },
+        {
+            "text": "Going further",
+            "href": "https://drupal.org/docs/creating-custom-modules/step-by-step-tutorial-hello-world/going-further"
+        }
+    ],
     "https://drupal.org/docs/develop/drupal-apis": [
         {
             "text": "Access policy API",
@@ -1509,28 +1659,112 @@
             "href": "https://drupal.org/docs/develop/drupal-apis/authentication-api"
         },
         {
+            "text": "Batch API",
+            "href": "https://drupal.org/docs/drupal-apis/batch-api"
+        },
+        {
+            "text": "Block API",
+            "href": "https://drupal.org/docs/drupal-apis/block-api"
+        },
+        {
             "text": "Cache API",
             "href": "https://drupal.org/docs/develop/drupal-apis/cache-api"
+        },
+        {
+            "text": "(deprecated) CKEditor 4 API (Drupal 8 and 9)",
+            "href": "https://drupal.org/docs/drupal-apis/deprecated-ckeditor-4-api-drupal-8-and-9"
+        },
+        {
+            "text": "CKEditor 5 API",
+            "href": "https://drupal.org/docs/drupal-apis/ckeditor-5-api"
+        },
+        {
+            "text": "Configuration API",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api"
         },
         {
             "text": "Database API",
             "href": "https://drupal.org/docs/develop/drupal-apis/database-api"
         },
         {
+            "text": "Entity API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api"
+        },
+        {
+            "text": "Filter API",
+            "href": "https://drupal.org/docs/drupal-apis/filter-api"
+        },
+        {
+            "text": "Form API",
+            "href": "https://drupal.org/docs/drupal-apis/form-api"
+        },
+        {
             "text": "JavaScript API",
             "href": "https://drupal.org/docs/develop/drupal-apis/javascript-api"
+        },
+        {
+            "text": "Layout API",
+            "href": "https://drupal.org/docs/drupal-apis/layout-api"
+        },
+        {
+            "text": "Logging API",
+            "href": "https://drupal.org/docs/drupal-apis/logging-api"
+        },
+        {
+            "text": "Menu API",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api"
+        },
+        {
+            "text": "Middleware API",
+            "href": "https://drupal.org/docs/drupal-apis/middleware-api"
+        },
+        {
+            "text": "Migrate API",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api"
+        },
+        {
+            "text": "Plugin API",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api"
         },
         {
             "text": "RESTful Web Services API",
             "href": "https://drupal.org/docs/develop/drupal-apis/restful-web-services-api"
         },
         {
+            "text": "Render API",
+            "href": "https://drupal.org/docs/drupal-apis/render-api"
+        },
+        {
+            "text": "Responses",
+            "href": "https://drupal.org/docs/drupal-apis/responses"
+        },
+        {
+            "text": "Routing system",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system"
+        },
+        {
             "text": "Runtime Assertions",
             "href": "https://drupal.org/docs/develop/drupal-apis/runtime-assertions"
         },
         {
+            "text": "Serialization API",
+            "href": "https://drupal.org/docs/drupal-apis/serialization-api"
+        },
+        {
+            "text": "Services and dependency injection",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection"
+        },
+        {
             "text": "State API",
             "href": "https://drupal.org/docs/develop/drupal-apis/state-api"
+        },
+        {
+            "text": "Text Editor API",
+            "href": "https://drupal.org/docs/drupal-apis/text-editor-api"
+        },
+        {
+            "text": "Tour API",
+            "href": "https://drupal.org/docs/drupal-apis/tour-api"
         },
         {
             "text": "Translation API (Code text)",
@@ -1539,6 +1773,10 @@
         {
             "text": "Typed Data API",
             "href": "https://drupal.org/docs/develop/drupal-apis/typed-data-api"
+        },
+        {
+            "text": "Update API",
+            "href": "https://drupal.org/docs/drupal-apis/update-api"
         },
         {
             "text": "Icon API",
@@ -1563,26 +1801,966 @@
             "href": "https://drupal.org/docs/develop/drupal-apis/ajax-api/ajax-dialog-boxes"
         }
     ],
+    "https://drupal.org/docs/develop/drupal-apis/authentication-api": [
+        {
+            "text": "Authentication API overview",
+            "href": "https://drupal.org/docs/8/api/authentication-api/overview"
+        },
+        {
+            "text": "Create a custom authentication provider",
+            "href": "https://drupal.org/docs/drupal-apis/authentication-api/create-a-custom-authentication-provider"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/batch-api": [
+        {
+            "text": "Batch API overview",
+            "href": "https://drupal.org/docs/drupal-apis/batch-api/batch-api-overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/block-api": [
+        {
+            "text": "Block API overview",
+            "href": "https://drupal.org/docs/drupal-apis/block-api/block-api-overview"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/cache-api": [
+        {
+            "text": "Cache API",
+            "href": "https://drupal.org/docs/8/api/cache-api/cache-api"
+        },
+        {
+            "text": "Cache tags",
+            "href": "https://drupal.org/docs/drupal-apis/cache-api/cache-tags"
+        },
+        {
+            "text": "Cache contexts",
+            "href": "https://drupal.org/docs/drupal-apis/cache-api/cache-contexts"
+        },
+        {
+            "text": "Cache max-age",
+            "href": "https://drupal.org/docs/drupal-apis/cache-api/cache-max-age"
+        },
+        {
+            "text": "Cache tags + Varnish",
+            "href": "https://drupal.org/docs/drupal-apis/cache-api/cache-tags-varnish"
+        },
+        {
+            "text": "CacheableDependencyInterface & friends",
+            "href": "https://drupal.org/docs/8/api/cache-api/cacheabledependencyinterface-friends"
+        },
+        {
+            "text": "CacheableResponseInterface",
+            "href": "https://drupal.org/docs/8/api/cache-api/cacheableresponseinterface"
+        },
+        {
+            "text": "Access checkers + cacheability",
+            "href": "https://drupal.org/docs/8/api/cache-api/access-checkers-cacheability"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/ckeditor-5-api": [
+        {
+            "text": "CKEditor 5 API overview",
+            "href": "https://drupal.org/docs/drupal-apis/ckeditor-5-api/overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/configuration-api": [
+        {
+            "text": "Configuration API overview",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-api-overview"
+        },
+        {
+            "text": "Overview of Configuration (vs. other types of information)",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/overview-of-configuration-vs-other-types-of-information"
+        },
+        {
+            "text": "Configuration Storage",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-storage"
+        },
+        {
+            "text": "Configuration override system",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-override-system"
+        },
+        {
+            "text": "Configuration schema/metadata",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-schemametadata"
+        },
+        {
+            "text": "Configuration entity dependencies",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-entity-dependencies"
+        },
+        {
+            "text": "Creating a configuration entity type",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/creating-a-configuration-entity-type"
+        },
+        {
+            "text": "Simple Configuration API",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/simple-configuration-api"
+        },
+        {
+            "text": "Working with Configuration Forms",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/working-with-configuration-forms"
+        }
+    ],
     "https://drupal.org/docs/develop/drupal-apis/database-api": [
+        {
+            "text": "Database API Overview",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/database-api-overview"
+        },
         {
             "text": "General Concepts",
             "href": "https://drupal.org/docs/develop/drupal-apis/database-api/general-concepts"
         },
         {
+            "text": "Database Configuration",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/database-configuration"
+        },
+        {
+            "text": "Instantiating a Database Connection Object",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/instantiating-a-database-connection-object"
+        },
+        {
+            "text": "Static Queries",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/static-queries"
+        },
+        {
+            "text": "Dynamic Queries",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries"
+        },
+        {
+            "text": "Result Sets",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/result-sets"
+        },
+        {
+            "text": "Fetching Into a Custom Class",
+            "href": "https://drupal.org/docs/8/api/database-api/fetching-into-a-custom-class"
+        },
+        {
+            "text": "Insert Queries",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/insert-queries"
+        },
+        {
+            "text": "Update Queries",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/update-queries"
+        },
+        {
+            "text": "Merge Queries",
+            "href": "https://drupal.org/docs/8/api/database-api/merge-queries"
+        },
+        {
+            "text": "Upsert Queries",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/upsert-queries"
+        },
+        {
+            "text": "Delete Queries",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/delete-queries"
+        },
+        {
             "text": "Database Transactions",
             "href": "https://drupal.org/docs/develop/drupal-apis/database-api/database-transactions"
+        },
+        {
+            "text": "Error Handling",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/error-handling"
+        },
+        {
+            "text": "Functions and Operators",
+            "href": "https://drupal.org/docs/drupal-apis/database-api/functions-and-operators"
+        }
+    ],
+    "https://drupal.org/docs/8/api/database-api/dynamic-queries": [
+        {
+            "text": "Introduction to Dynamic Queries",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/introduction-to-dynamic-queries"
+        },
+        {
+            "text": "Expressions",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/expressions"
+        },
+        {
+            "text": "Fields",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/fields"
+        },
+        {
+            "text": "Joins",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/joins"
+        },
+        {
+            "text": "Count Queries",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/count-queries"
+        },
+        {
+            "text": "Distinct",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/distinct"
+        },
+        {
+            "text": "Grouping",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/grouping"
+        },
+        {
+            "text": "Conditions",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/conditions"
+        },
+        {
+            "text": "Ordering and limiting",
+            "href": "https://drupal.org/docs/8/api/database-api/dynamic-queries/ordering-and-limiting"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/entity-api": [
+        {
+            "text": "Introduction to Entity API in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/introduction-to-entity-api-in-drupal-8"
+        },
+        {
+            "text": "Entity types",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-types"
+        },
+        {
+            "text": "Working with the Entity API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/working-with-the-entity-api"
+        },
+        {
+            "text": "Bundles",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/bundles"
+        },
+        {
+            "text": "Configuration Entity",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/configuration-entity"
+        },
+        {
+            "text": "Content Entity",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/content-entity"
+        },
+        {
+            "text": "Creating a custom content entity",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/creating-a-custom-content-entity"
+        },
+        {
+            "text": "Creating a custom content type in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/creating-a-custom-content-type-in-drupal-8"
+        },
+        {
+            "text": "Programming custom fields into your content type",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/programming-custom-fields-into-your-content-type"
+        },
+        {
+            "text": "Using the UI to export the code for your custom fields",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/using-the-ui-to-export-the-code-for-your-custom-fields"
+        },
+        {
+            "text": "Entity API implements Typed Data API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-api-implements-typed-data-api"
+        },
+        {
+            "text": "Entity validation API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api"
+        },
+        {
+            "text": "Access on entities (TBD)",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/access-on-entities-tbd"
+        },
+        {
+            "text": "Defining and using Content Entity Field definitions",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/defining-and-using-content-entity-field-definitions"
+        },
+        {
+            "text": "Entity Translation API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-translation-api"
+        },
+        {
+            "text": "Display Modes: View Modes and Form Modes",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/display-modes-view-modes-and-form-modes"
+        },
+        {
+            "text": "FieldTypes, FieldWidgets and FieldFormatters",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/fieldtypes-fieldwidgets-and-fieldformatters"
+        },
+        {
+            "text": "Dynamic/Virtual field values using computed field property classes",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/dynamicvirtual-field-values-using-computed-field-property-classes"
+        },
+        {
+            "text": "Handlers",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/handlers"
+        },
+        {
+            "text": "Making an entity revisionable",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/making-an-entity-revisionable"
+        },
+        {
+            "text": "Structure of an Entity annotation",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/structure-of-an-entity-annotation"
+        },
+        {
+            "text": "Creating a content entity type in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/creating-a-content-entity-type-in-drupal-8"
+        },
+        {
+            "text": "Making the content entity searchable",
+            "href": "https://drupal.org/docs/8/api/entity-api/making-the-content-entity-searchable"
+        },
+        {
+            "text": "Converting a content entity type to be revisionable and publishable",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/converting-a-content-entity-type-to-be-revisionable-and-publishable"
+        },
+        {
+            "text": "Link Templates",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/link-templates"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api": [
+        {
+            "text": "Entity Validation API overview",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api/entity-validation-api-overview"
+        },
+        {
+            "text": "Defining Constraints (Validations) on Entities and/or Fields.",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api/defining-constraints-validations-on-entities-andor-fields"
+        },
+        {
+            "text": "Supported validation constraints [TBD]",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api/supported-validation-constraints-tbd"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/filter-api": [
+        {
+            "text": "Filter API overview",
+            "href": "https://drupal.org/docs/8/api/filter-api/overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/form-api": [
+        {
+            "text": "Introduction to Form API",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/introduction-to-form-api"
+        },
+        {
+            "text": "ConfigFormBase with Simple Configuration API",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/configformbase-with-simple-configuration-api"
+        },
+        {
+            "text": "ConfirmFormBase To Confirm an Action",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/confirmformbase-to-confirm-an-action"
+        },
+        {
+            "text": "Form Render Elements",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/form-render-elements"
+        },
+        {
+            "text": "Conditional Form Fields",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/conditional-form-fields"
+        },
+        {
+            "text": "Form API Workflow",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/form-api-workflow"
         }
     ],
     "https://drupal.org/docs/develop/drupal-apis/javascript-api": [
         {
+            "text": "JavaScript API overview",
+            "href": "https://drupal.org/docs/drupal-apis/javascript-api/javascript-api-overview"
+        },
+        {
+            "text": "Accessibility tools for JavaScript in Drupal",
+            "href": "https://drupal.org/docs/drupal-apis/javascript-api/accessibility-tools-for-javascript-in-drupal"
+        },
+        {
+            "text": "Add JavaScript to Your Theme or Module",
+            "href": "https://drupal.org/docs/drupal-apis/javascript-api/add-javascript-to-your-theme-or-module"
+        },
+        {
             "text": "AJAX Forms",
             "href": "https://drupal.org/docs/develop/drupal-apis/javascript-api/ajax-forms"
+        },
+        {
+            "text": "Messages API",
+            "href": "https://drupal.org/docs/drupal-apis/javascript-api/messages-api"
+        },
+        {
+            "text": "Theming in JavaScript",
+            "href": "https://drupal.org/docs/drupal-apis/javascript-api/theming-in-javascript"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/layout-api": [
+        {
+            "text": "How to register layouts",
+            "href": "https://drupal.org/docs/drupal-apis/layout-api/how-to-register-layouts"
+        },
+        {
+            "text": "How to render layouts",
+            "href": "https://drupal.org/docs/8/api/layout-api/how-to-render-layouts"
+        },
+        {
+            "text": "How to upgrade from Layout Plugin",
+            "href": "https://drupal.org/docs/drupal-apis/layout-api/how-to-upgrade-from-layout-plugin"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/logging-api": [
+        {
+            "text": "Logging API",
+            "href": "https://drupal.org/docs/8/api/logging-api/overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/menu-api": [
+        {
+            "text": "Comparison of Menu API in Drupal 7 and 8",
+            "href": "https://drupal.org/docs/8/api/menu-api/comparison-of-menu-api-in-drupal-7-and-8"
+        },
+        {
+            "text": "Providing module-defined menu links",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-menu-links"
+        },
+        {
+            "text": "Providing module-defined local tasks",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-local-tasks"
+        },
+        {
+            "text": "Providing module-defined local actions",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-local-actions"
+        },
+        {
+            "text": "Providing module-defined contextual links",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-contextual-links"
+        },
+        {
+            "text": "User stories for Drupal's menu API",
+            "href": "https://drupal.org/docs/8/api/menu-api/user-stories-for-drupals-menu-api"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/middleware-api": [
+        {
+            "text": "Middleware API",
+            "href": "https://drupal.org/docs/8/api/middleware-api/overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/migrate-api": [
+        {
+            "text": "Migrate API overview",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-api-overview"
+        },
+        {
+            "text": "Migrate source plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins"
+        },
+        {
+            "text": "Migrate process plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins"
+        },
+        {
+            "text": "Migrate destination plugins & examples",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples"
+        },
+        {
+            "text": "Executing migrations",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/executing-migrations"
+        },
+        {
+            "text": "Writing migrations for contributed and custom modules",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/writing-migrations-for-contributed-and-custom-modules"
+        },
+        {
+            "text": "Migration Tests",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migration-tests"
+        },
+        {
+            "text": "Generating database fixtures for migration tests",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/generating-database-fixtures-for-migration-tests"
+        },
+        {
+            "text": "Debugging migrations",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/debugging-migrations"
+        },
+        {
+            "text": "Migrate field plugins",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-field-plugins"
+        },
+        {
+            "text": "Process Pipelines",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/process-pipelines"
+        }
+    ],
+    "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins": [
+        {
+            "text": "Overview of migrate source plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins/overview-of-migrate-source-plugins"
+        },
+        {
+            "text": "Modifying Source Plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins/modifying-source-plugins"
+        },
+        {
+            "text": "Migrating data from a CSV source",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins/migrating-data-from-a-csv-source"
+        },
+        {
+            "text": "Migrating data from a JCR source",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins/migrating-data-from-a-jcr-source"
+        },
+        {
+            "text": "Migrating data from a SQL source",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins/migrating-data-from-a-sql-source"
+        },
+        {
+            "text": "Migrating data from JSON, XML or SOAP source",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-source-plugins/migrating-data-from-json-xml-or-soap-source"
+        }
+    ],
+    "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins": [
+        {
+            "text": "Migrate process overview",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-process-overview"
+        },
+        {
+            "text": "Constant values",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process/constant-values"
+        },
+        {
+            "text": "List of Migrate process plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/list-of-migrate-process-plugins"
+        },
+        {
+            "text": "Process plugins from contrib modules",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules"
+        },
+        {
+            "text": "Writing a process plugin",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process/writing-a-process-plugin"
+        },
+        {
+            "text": "Chaining Migrations using migration_lookup",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/chaining-migrations-using-migration_lookup"
+        }
+    ],
+    "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules": [
+        {
+            "text": "Contrib process plugin: addressfield",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-other-contrib-modules/contrib-process-plugin-addressfield"
+        },
+        {
+            "text": "Contrib process plugin: entity_generate",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/contrib-process-plugin-entity_generate"
+        },
+        {
+            "text": "Contrib process plugin: geofield_latlon",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-other-contrib-modules/contrib-process-plugin-geofield_latlon"
+        },
+        {
+            "text": "Migrate Conditions",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions"
+        },
+        {
+            "text": "Other process plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/other-process-plugins"
+        }
+    ],
+    "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions": [
+        {
+            "text": "Migrate Conditions: Process Plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins"
+        },
+        {
+            "text": "Migrate Conditions: Condition Plugins",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins"
+        },
+        {
+            "text": "Handling Source Arrays",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/handling-source-arrays"
+        }
+    ],
+    "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins": [
+        {
+            "text": "Skip on Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins/skip-on-condition"
+        },
+        {
+            "text": "Evaluate Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins/evaluate-condition"
+        },
+        {
+            "text": "Filter on Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins/filter-on-condition"
+        },
+        {
+            "text": "First Meeting Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins/first-meeting-condition"
+        },
+        {
+            "text": "If Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins/if-condition"
+        },
+        {
+            "text": "Stop on Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins/stop-on-condition"
+        },
+        {
+            "text": "Switch on Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/migrate-conditions/migrate-conditions-process-plugins/switch-on-condition"
+        }
+    ],
+    "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins": [
+        {
+            "text": "All Elements",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/all-elements"
+        },
+        {
+            "text": "And Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/and-condition"
+        },
+        {
+            "text": "Callback",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/callback"
+        },
+        {
+            "text": "Contains",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/contains"
+        },
+        {
+            "text": "Default",
+            "href": "https://drupal.org/docs/contributed-modules/migrate-conditions/migrate-conditions-condition-plugins/default"
+        },
+        {
+            "text": "Empty",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/empty"
+        },
+        {
+            "text": "Entity Exists",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/entity-exists"
+        },
+        {
+            "text": "Equals",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/equals"
+        },
+        {
+            "text": "Greater Than",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/greater-than"
+        },
+        {
+            "text": "HTTP Status",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/http-status"
+        },
+        {
+            "text": "Has Element",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/has-element"
+        },
+        {
+            "text": "In Array",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/in-array"
+        },
+        {
+            "text": "In Migrate Map",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/in-migrate-map"
+        },
+        {
+            "text": "Is Null",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/is-null"
+        },
+        {
+            "text": "Is Stub",
+            "href": "https://drupal.org/docs/contributed-modules/migrate-conditions/migrate-conditions-condition-plugins/is-stub"
+        },
+        {
+            "text": "Isset",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/isset"
+        },
+        {
+            "text": "Less Than",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/less-than"
+        },
+        {
+            "text": "Matches",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/matches"
+        },
+        {
+            "text": "Older Than",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/older-than"
+        },
+        {
+            "text": "Or Condition",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-process-plugins/process-plugins-from-contrib-modules/migrate-conditions/migrate-conditions-condition-plugins/or-condition"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples": [
+        {
+            "text": "Migrating nodes",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-nodes"
+        },
+        {
+            "text": "Migrating taxonomy terms",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-taxonomy-terms"
+        },
+        {
+            "text": "Migrating users",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-users"
+        },
+        {
+            "text": "Migrating users - advanced password examples",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-users-advanced-password"
+        },
+        {
+            "text": "Migrating files and images with Migrate Files",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-files-and-images-with-migrate-files"
+        },
+        {
+            "text": "Migrating Media",
+            "href": "https://drupal.org/docs/8/api/migrate-api/migrate-destination-plugins-examples/migrating-media"
+        },
+        {
+            "text": "Migrating configuration",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-configuration"
+        },
+        {
+            "text": "Migrating Commerce 2 Product Variations",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-commerce-2-product-variations"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/migrate-api/migrate-field-plugins": [
+        {
+            "text": "Overview of migrate field plugins",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-field-plugins/overview-of-migrate-field-plugins"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/plugin-api": [
+        {
+            "text": "Plugin API overview",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/plugin-api-overview"
+        },
+        {
+            "text": "Why Plugins?",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/why-plugins"
+        },
+        {
+            "text": "Attribute-based plugins",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/attribute-based-plugins"
+        },
+        {
+            "text": "Create a custom attribute class",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/create-a-custom-attribute-class"
+        },
+        {
+            "text": "Annotations-based plugins",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/annotations-based-plugins"
+        },
+        {
+            "text": "Annotation-Based Plugins in Views",
+            "href": "https://drupal.org/docs/8/api/plugin-api/annotation-based-plugins-in-views"
+        },
+        {
+            "text": "Creating your own Plugin Manager",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/creating-your-own-plugin-manager"
+        },
+        {
+            "text": "Drupal Plugin discovery",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/drupal-plugin-discovery"
+        },
+        {
+            "text": "Discovery Decorators",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/discovery-decorators"
+        },
+        {
+            "text": "Plugin Definitions",
+            "href": "https://drupal.org/docs/8/api/plugin-api/plugin-definitions"
+        },
+        {
+            "text": "Plugin Contexts",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/plugin-contexts"
+        },
+        {
+            "text": "Plugin Derivatives",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/plugin-derivatives"
+        },
+        {
+            "text": "Create your own custom annotation class",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/create-your-own-custom-annotation-class"
+        },
+        {
+            "text": "Creating a plugin that can be defined in themes",
+            "href": "https://drupal.org/docs/8/api/plugin-api/creating-a-plugin-that-can-be-defined-in-themes"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/restful-web-services-api": [
+        {
+            "text": "RESTful Web Services API overview",
+            "href": "https://drupal.org/docs/drupal-apis/restful-web-services-api/restful-web-services-api-overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/render-api": [
+        {
+            "text": "Cacheability of render arrays",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/cacheability-of-render-arrays"
+        },
+        {
+            "text": "Bubbleable metadata",
+            "href": "https://drupal.org/docs/8/api/render-api/bubbleable-metadata"
+        },
+        {
+            "text": "Auto-placeholdering",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/auto-placeholdering"
+        },
+        {
+            "text": "Render arrays",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/render-arrays"
+        },
+        {
+            "text": "Render elements",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/render-elements"
+        },
+        {
+            "text": "The Drupal 8 render pipeline",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/the-drupal-8-render-pipeline"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/render-api/render-elements": [
+        {
+            "text": "What Are Render Elements?",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/render-elements/what-are-render-elements"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/responses": [
+        {
+            "text": "Responses overview",
+            "href": "https://drupal.org/docs/drupal-apis/responses/responses-overview"
+        },
+        {
+            "text": "CacheableResponseInterface",
+            "href": "https://drupal.org/docs/8/api/responses/cacheableresponseinterface"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/routing-system": [
+        {
+            "text": "Routing system overview",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/routing-system-overview"
+        },
+        {
+            "text": "Introductory Drupal routes and controllers example",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/introductory-drupal-routes-and-controllers-example"
+        },
+        {
+            "text": "Structure of routes",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/structure-of-routes"
+        },
+        {
+            "text": "Altering existing routes and adding new routes based on dynamic ones",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/altering-existing-routes-and-adding-new-routes-based-on-dynamic-ones"
+        },
+        {
+            "text": "Providing dynamic routes",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/providing-dynamic-routes"
+        },
+        {
+            "text": "Routing-related objects: Route, CurrentRouteMatch, RouteMatch, Url",
+            "href": "https://drupal.org/docs/8/api/routing-system/routing-related-objects-route-currentroutematch-routematch-url"
+        },
+        {
+            "text": "Underlying functionality of the routing system in Drupal",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/underlying-functionality-of-the-routing-system-in-drupal"
+        },
+        {
+            "text": "Access checking on routes",
+            "href": "https://drupal.org/docs/8/api/routing-system/access-checking-on-routes"
+        },
+        {
+            "text": "Parameters in routes",
+            "href": "https://drupal.org/docs/8/api/routing-system/parameters-in-routes"
+        }
+    ],
+    "https://drupal.org/docs/8/api/routing-system/access-checking-on-routes": [
+        {
+            "text": "Route access checking basics",
+            "href": "https://drupal.org/docs/8/api/routing-system/access-checking-on-routes/route-access-checking-basics"
+        },
+        {
+            "text": "Custom route access checking",
+            "href": "https://drupal.org/docs/8/api/routing-system/access-checking-on-routes/custom-route-access-checking"
+        },
+        {
+            "text": "Advanced route access checking",
+            "href": "https://drupal.org/docs/8/api/routing-system/access-checking-on-routes/advanced-route-access-checking"
+        },
+        {
+            "text": "CSRF access checking",
+            "href": "https://drupal.org/docs/8/api/routing-system/access-checking-on-routes/csrf-access-checking"
+        }
+    ],
+    "https://drupal.org/docs/8/api/routing-system/parameters-in-routes": [
+        {
+            "text": "Using parameters in routes",
+            "href": "https://drupal.org/docs/8/api/routing-system/parameters-in-routes/using-parameters-in-routes"
+        },
+        {
+            "text": "Parameter upcasting in routes",
+            "href": "https://drupal.org/docs/8/api/routing-system/parameters-in-routes/parameter-upcasting-in-routes"
+        },
+        {
+            "text": "Accessing raw parameter values",
+            "href": "https://drupal.org/docs/8/api/routing-system/parameters-in-routes/accessing-raw-parameter-values"
+        },
+        {
+            "text": "Validate route parameters",
+            "href": "https://drupal.org/docs/8/api/routing-system/parameters-in-routes/validate-route-parameters"
+        },
+        {
+            "text": "How upcasting parameters works",
+            "href": "https://drupal.org/docs/8/api/routing-system/parameters-in-routes/how-upcasting-parameters-works"
+        },
+        {
+            "text": "Implementing custom parameter converters",
+            "href": "https://drupal.org/docs/8/api/routing-system/parameters-in-routes/implementing-custom-parameter-converters"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/serialization-api": [
+        {
+            "text": "Serialization API overview",
+            "href": "https://drupal.org/docs/drupal-apis/serialization-api/serialization-api-overview"
+        },
+        {
+            "text": "How the Serializer works",
+            "href": "https://drupal.org/docs/8/api/serialization-api/how-the-serializer-works"
+        },
+        {
+            "text": "Adding new formats",
+            "href": "https://drupal.org/docs/drupal-apis/serialization-api/adding-new-formats"
+        },
+        {
+            "text": "Changing the way Serializer handles entities",
+            "href": "https://drupal.org/docs/8/api/serialization-api/changing-the-way-serializer-handles-entities"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/services-and-dependency-injection": [
+        {
+            "text": "Services and dependency injection in Drupal",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/services-and-dependency-injection-in-drupal"
+        },
+        {
+            "text": "Altering existing services, providing dynamic services",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/altering-existing-services-providing-dynamic-services"
+        },
+        {
+            "text": "Dependency Injection for a Form",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/dependency-injection-for-a-form"
+        },
+        {
+            "text": "Service Tags",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/service-tags"
+        },
+        {
+            "text": "Structure of a service file",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/structure-of-a-service-file"
         }
     ],
     "https://drupal.org/docs/develop/drupal-apis/state-api": [
         {
             "text": "State API overview",
             "href": "https://drupal.org/docs/develop/drupal-apis/state-api/state-api-overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/text-editor-api": [
+        {
+            "text": "Text Editor API overview",
+            "href": "https://drupal.org/docs/8/api/text-editor-api/overview"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/translation-api-code-text": [
+        {
+            "text": "Translation API overview",
+            "href": "https://drupal.org/docs/8/api/translation-api/overview"
         }
     ],
     "https://drupal.org/docs/develop/drupal-apis/typed-data-api": [
@@ -1593,6 +2771,36 @@
         {
             "text": "Data type plugins",
             "href": "https://drupal.org/docs/develop/drupal-apis/typed-data-api/data-type-plugins"
+        },
+        {
+            "text": "Data definitions",
+            "href": "https://drupal.org/docs/drupal-apis/typed-data-api/data-definitions"
+        },
+        {
+            "text": "Computed properties (TBD)",
+            "href": "https://drupal.org/docs/drupal-apis/typed-data-api/computed-properties-tbd"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/update-api": [
+        {
+            "text": "Introduction to the Update API for Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/introduction-to-the-update-api-for-drupal-8"
+        },
+        {
+            "text": "Updating Configuration",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/updating-configuration"
+        },
+        {
+            "text": "Updating Database Schema and/or Data in Drupal",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/updating-database-schema-andor-data-in-drupal"
+        },
+        {
+            "text": "Updating Entities and Fields in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/updating-entities-and-fields-in-drupal-8"
+        },
+        {
+            "text": "Writing Automated Update Tests for Drupal 8 (or later)",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/writing-automated-update-tests-for-drupal-8-or-later"
         }
     ],
     "https://drupal.org/docs/develop/drupal-apis/token-api": [
@@ -1625,6 +2833,10 @@
         {
             "text": "Browser testing using Cypress",
             "href": "https://drupal.org/docs/develop/automated-testing/browser-testing-using-cypress"
+        },
+        {
+            "text": "Converting SimpleTests to PHPUnit tests",
+            "href": "https://drupal.org/docs/automated-testing/converting-simpletests-to-phpunit-tests"
         },
         {
             "text": "JavaScript testing using Nightwatch",
@@ -1673,6 +2885,22 @@
             "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/running-phpunit-tests-within-phpstorm"
         },
         {
+            "text": "Understanding PHPunit expectations",
+            "href": "https://drupal.org/docs/testing/phpunit-in-drupal/understanding-phpunit-expectations"
+        },
+        {
+            "text": "Unit testing more complicated Drupal classes",
+            "href": "https://drupal.org/docs/automated-testing/phpunit-in-drupal/unit-testing-more-complicated-drupal-classes"
+        },
+        {
+            "text": "Using Prophecy",
+            "href": "https://drupal.org/docs/automated-testing/phpunit-in-drupal/using-prophecy"
+        },
+        {
+            "text": "Comparison with PHPUnit mocks",
+            "href": "https://drupal.org/docs/testing/phpunit-in-drupal/comparison-with-phpunit-mocks"
+        },
+        {
             "text": "Agile Unit Testing",
             "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/agile-unit-testing"
         },
@@ -1681,30 +2909,294 @@
             "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/mocking-entities-and-services-with-phpunit-and-mocks"
         },
         {
+            "text": "Setup tasks in Kernel tests",
+            "href": "https://drupal.org/docs/automated-testing/phpunit-in-drupal/setup-tasks-in-kernel-tests"
+        },
+        {
+            "text": "Working with user sessions in tests",
+            "href": "https://drupal.org/docs/automated-testing/phpunit-in-drupal/working-with-user-sessions-in-tests"
+        },
+        {
             "text": "Making HTTP requests programmatically in Kernel tests",
             "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/making-http-requests-programmatically-in-kernel-tests"
         }
     ],
     "https://drupal.org/docs/develop/upgrading-and-converting-drupal-7-modules": [
         {
+            "text": "Intro & Before you start: Setting up a Drupal 8 module dev environment",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/intro-before-you-start-setting-up-a-drupal-8-module-dev"
+        },
+        {
+            "text": "Step 1: Convert mymodule.info to mymodule.info.yml",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/step-1-convert-mymoduleinfo-to-mymoduleinfoyml"
+        },
+        {
+            "text": "Step 2: Convert automated tests to Drupal 8",
+            "href": "https://drupal.org/docs/8/converting-drupal-7-modules-to-drupal-8/step-2-convert-automated-tests-to-drupal-8"
+        },
+        {
+            "text": "Step 3: Convert hook_menu() and forms",
+            "href": "https://drupal.org/docs/8/converting-drupal-7-modules-to-drupal-8/step-3-convert-hook_menu-and-forms"
+        },
+        {
+            "text": "Step 4: Convert Drupal 7 Variables to Drupal 8 Configuration",
+            "href": "https://drupal.org/docs/upgrading-and-converting-drupal-7-modules/step-4-convert-drupal-7-variables-to-drupal-8"
+        },
+        {
+            "text": "Step 5: How to upgrade D7 variables to D8's state system",
+            "href": "https://drupal.org/docs/upgrading-and-converting-drupal-7-modules/step-5-how-to-upgrade-d7-variables-to-d8s-state"
+        },
+        {
+            "text": "Debugging Drupal 8 module upgrades",
+            "href": "https://drupal.org/docs/upgrading-and-converting-drupal-7-modules/debugging-drupal-8-module-upgrades"
+        },
+        {
+            "text": "Resources and tutorials",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/resources-and-tutorials"
+        },
+        {
+            "text": "D7 to D8 Upgrade: Generated HTML",
+            "href": "https://drupal.org/docs/8/converting-drupal-7-modules-to-drupal-8/d7-to-d8-upgrade-generated-html"
+        },
+        {
             "text": "D7 to D8 tutorial: pathinfo module",
             "href": "https://drupal.org/docs/develop/upgrading-and-converting-drupal-7-modules/d7-to-d8-tutorial-pathinfo-module"
+        },
+        {
+            "text": "D7 to D8 upgrade tutorial: Pants module",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/d7-to-d8-upgrade-tutorial-pants-module"
+        },
+        {
+            "text": "D7 to D8 upgrade: fields, widgets and formatters",
+            "href": "https://drupal.org/docs/8/converting-drupal-7-modules-to-drupal-8/d7-to-d8-upgrade-fields-widgets-and-formatters"
+        },
+        {
+            "text": "D7 to D8 upgrade tutorial: Convert hook_menu() and hook_menu_alter() to Drupal 8 APIs",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/d7-to-d8-upgrade-tutorial-convert-hook_menu-and-hook"
+        },
+        {
+            "text": "WSCCI Conversion Guide",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/wscci-conversion-guide"
+        },
+        {
+            "text": "WSCCI Conversion Guide - Pass 1",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/wscci-conversion-guide-pass-1"
+        },
+        {
+            "text": "WSCCI Conversion Guide - Pass 2",
+            "href": "https://drupal.org/docs/converting-drupal-7-modules-to-drupal-8/wscci-conversion-guide-pass-2"
+        },
+        {
+            "text": "WSCCI Conversion Guide - Pass 3",
+            "href": "https://drupal.org/docs/8/converting-drupal-7-modules-to-drupal-8/wscci-conversion-guide-pass-3"
+        },
+        {
+            "text": "WSCCI Conversion Guide - Best practices",
+            "href": "https://drupal.org/docs/8/converting-drupal-7-modules-to-drupal-8/wscci-conversion-guide-best-practices"
         }
     ],
     "https://drupal.org/docs/develop/core-modules-and-themes": [
         {
+            "text": "Basic structure of Drupal",
+            "href": "https://drupal.org/docs/core-modules-and-themes/basic-structure-of-drupal"
+        },
+        {
             "text": "Core modules",
             "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules"
+        },
+        {
+            "text": "Core themes",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes"
+        },
+        {
+            "text": "Experimental extensions",
+            "href": "https://drupal.org/docs/core-modules-and-themes/experimental-extensions"
+        },
+        {
+            "text": "Deprecated and obsolete extensions",
+            "href": "https://drupal.org/docs/core-modules-and-themes/deprecated-and-obsolete"
         }
     ],
     "https://drupal.org/docs/develop/core-modules-and-themes/core-modules": [
+        {
+            "text": "Announcements Feed module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/announcements-feed"
+        },
+        {
+            "text": "Automated Cron module",
+            "href": "https://drupal.org/docs/8/core/modules/automated-cron"
+        },
+        {
+            "text": "Ban module",
+            "href": "https://drupal.org/docs/8/core/modules/ban"
+        },
+        {
+            "text": "BigPipe module",
+            "href": "https://drupal.org/docs/8/core/modules/big-pipe"
+        },
+        {
+            "text": "Block module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/block-module"
+        },
+        {
+            "text": "Breakpoint module",
+            "href": "https://drupal.org/docs/8/core/modules/breakpoint"
+        },
+        {
+            "text": "CKEditor 5 module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module"
+        },
+        {
+            "text": "Comment module",
+            "href": "https://drupal.org/docs/8/core/modules/comment"
+        },
+        {
+            "text": "Configuration Manager module",
+            "href": "https://drupal.org/docs/8/core/modules/config"
+        },
+        {
+            "text": "Configuration Translation module",
+            "href": "https://drupal.org/docs/8/core/modules/config-translation"
+        },
+        {
+            "text": "Contact module",
+            "href": "https://drupal.org/docs/8/core/modules/contact"
+        },
+        {
+            "text": "Content moderation module",
+            "href": "https://drupal.org/docs/8/core/modules/content-moderation"
+        },
+        {
+            "text": "Content Translation module",
+            "href": "https://drupal.org/docs/8/core/modules/content-translation"
+        },
+        {
+            "text": "Contextual Links module",
+            "href": "https://drupal.org/docs/8/core/modules/contextual"
+        },
+        {
+            "text": "Custom Block module",
+            "href": "https://drupal.org/docs/8/core/modules/block-content"
+        },
+        {
+            "text": "Custom Menu Links module",
+            "href": "https://drupal.org/docs/8/core/modules/menu-link-content"
+        },
+        {
+            "text": "Database Logging module",
+            "href": "https://drupal.org/docs/8/core/modules/dblog"
+        },
+        {
+            "text": "Datetime module",
+            "href": "https://drupal.org/docs/8/core/modules/datetime"
+        },
+        {
+            "text": "Datetime range module",
+            "href": "https://drupal.org/docs/8/core/modules/datetime-range"
+        },
+        {
+            "text": "Dynamic Page Cache module",
+            "href": "https://drupal.org/docs/8/core/modules/dynamic-page-cache"
+        },
+        {
+            "text": "Field module",
+            "href": "https://drupal.org/docs/8/core/modules/field"
+        },
+        {
+            "text": "Field UI module",
+            "href": "https://drupal.org/docs/8/core/modules/field-ui"
+        },
+        {
+            "text": "File module",
+            "href": "https://drupal.org/docs/8/core/modules/file"
+        },
+        {
+            "text": "Filter module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/filter-module"
+        },
+        {
+            "text": "Help module",
+            "href": "https://drupal.org/docs/8/core/modules/help"
+        },
+        {
+            "text": "History module",
+            "href": "https://drupal.org/docs/8/core/modules/history"
+        },
+        {
+            "text": "HTTP Basic Authentication module",
+            "href": "https://drupal.org/docs/8/core/modules/basic_auth"
+        },
+        {
+            "text": "Image module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/image-module"
+        },
+        {
+            "text": "Inline Form Errors module",
+            "href": "https://drupal.org/docs/8/core/modules/inline-form-errors"
+        },
+        {
+            "text": "Internal Page Cache module",
+            "href": "https://drupal.org/docs/8/core/modules/page-cache"
+        },
+        {
+            "text": "JSON:API module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module"
+        },
+        {
+            "text": "Layout Builder module",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder"
+        },
+        {
+            "text": "Link module",
+            "href": "https://drupal.org/docs/8/core/modules/link"
+        },
+        {
+            "text": "Media module",
+            "href": "https://drupal.org/docs/8/core/modules/media"
+        },
+        {
+            "text": "Media Library module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module"
+        },
+        {
+            "text": "Menu UI module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/menu-ui-module"
+        },
+        {
+            "text": "Migrate module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-module"
+        },
+        {
+            "text": "Migrate Drupal module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-drupal-module"
+        },
+        {
+            "text": "Migrate Drupal UI module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-drupal-ui-module"
+        },
         {
             "text": "MySQL module",
             "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/mysql-module"
         },
         {
+            "text": "Node module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/node-module"
+        },
+        {
+            "text": "Options module",
+            "href": "https://drupal.org/docs/8/core/modules/options"
+        },
+        {
+            "text": "Path module",
+            "href": "https://drupal.org/docs/8/core/modules/path"
+        },
+        {
             "text": "PostgreSQL module",
             "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/postgresql-module"
+        },
+        {
+            "text": "Responsive Image module",
+            "href": "https://drupal.org/docs/8/core/modules/responsive-image"
         },
         {
             "text": "Password Compatibility module",
@@ -1715,14 +3207,818 @@
             "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/navigation-module"
         },
         {
+            "text": "RESTful Web Services module",
+            "href": "https://drupal.org/docs/8/core/modules/rest"
+        },
+        {
+            "text": "Search module",
+            "href": "https://drupal.org/docs/8/core/modules/search"
+        },
+        {
+            "text": "Serialization module",
+            "href": "https://drupal.org/docs/8/core/modules/serialization"
+        },
+        {
+            "text": "Settings Tray module",
+            "href": "https://drupal.org/documentation/modules/settings_tray"
+        },
+        {
+            "text": "Shortcut module",
+            "href": "https://drupal.org/docs/8/core/modules/shortcut"
+        },
+        {
+            "text": "SQLite module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/sqlite-module"
+        },
+        {
+            "text": "Syslog module",
+            "href": "https://drupal.org/docs/8/core/modules/syslog"
+        },
+        {
+            "text": "System module",
+            "href": "https://drupal.org/docs/8/core/modules/system"
+        },
+        {
+            "text": "Taxonomy module",
+            "href": "https://drupal.org/docs/8/core/modules/taxonomy"
+        },
+        {
+            "text": "Telephone module",
+            "href": "https://drupal.org/docs/8/core/modules/telephone"
+        },
+        {
+            "text": "Testing module",
+            "href": "https://drupal.org/docs/8/core/modules/simpletest"
+        },
+        {
+            "text": "Text Editor module",
+            "href": "https://drupal.org/docs/8/core/modules/editor"
+        },
+        {
+            "text": "Text module",
+            "href": "https://drupal.org/docs/8/core/modules/text"
+        },
+        {
+            "text": "Toolbar module",
+            "href": "https://drupal.org/docs/8/core/modules/toolbar"
+        },
+        {
             "text": "Update module",
             "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/update-module"
+        },
+        {
+            "text": "User module",
+            "href": "https://drupal.org/docs/8/core/modules/user"
+        },
+        {
+            "text": "Views module",
+            "href": "https://drupal.org/docs/8/core/modules/views"
+        },
+        {
+            "text": "Views UI module",
+            "href": "https://drupal.org/docs/8/core/modules/views-ui"
+        },
+        {
+            "text": "Workflows module",
+            "href": "https://drupal.org/docs/8/core/modules/workflows"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/announcements-feed": [
+        {
+            "text": "Announcements Feed Development and Testing",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/announcements-feed/announcements-feed-development-and-testing"
+        },
+        {
+            "text": "Announcements Feed module overview",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/announcements-feed/announcements-feed-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/ban": [
+        {
+            "text": "Ban module overview",
+            "href": "https://drupal.org/docs/8/core/modules/ban/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/big-pipe": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/big-pipe/overview"
+        },
+        {
+            "text": "BigPipe environment requirements",
+            "href": "https://drupal.org/docs/8/core/modules/big-pipe/bigpipe-environment-requirements"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/block-module": [
+        {
+            "text": "Managing Blocks",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/block-module/managing-blocks"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/breakpoint": [
+        {
+            "text": "Breakpoint overview",
+            "href": "https://drupal.org/docs/8/core/modules/breakpoint/overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module": [
+        {
+            "text": "CKEditor 5 development",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module/ckeditor-5-development"
+        },
+        {
+            "text": "Modifying CKEditor 5 JS plugin's configuration",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module/modifying-ckeditor-5-js-plugins-configuration"
+        },
+        {
+            "text": "Testing the CKEditor 4 to 5 upgrade path",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module/testing-the-ckeditor-4-to-5-upgrade-path"
+        },
+        {
+            "text": "Upgrade coordination for modules providing CKEditor 4 plugins",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module/upgrade-coordination-for-modules-providing-ckeditor-4-plugins"
+        },
+        {
+            "text": "Upgrading modules extending CKEditor 4  to support CKEditor 5",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/ckeditor-5-module/upgrading-modules-extending-ckeditor-4-to-support-ckeditor-5"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/comment": [
+        {
+            "text": "Administering and approving comments",
+            "href": "https://drupal.org/docs/8/core/modules/comment/administering-and-approving-comments"
+        },
+        {
+            "text": "Detailed comment documentation",
+            "href": "https://drupal.org/docs/8/core/modules/comment/detailed-comment-documentation"
+        },
+        {
+            "text": "User permissions for comments",
+            "href": "https://drupal.org/docs/8/core/modules/comment/user-permissions-for-comments"
+        },
+        {
+            "text": "Administering a content type's comment settings",
+            "href": "https://drupal.org/docs/8/core/modules/comment/administering-a-content-types-comment-settings"
+        },
+        {
+            "text": "Adding fields to the comments for a content type",
+            "href": "https://drupal.org/docs/8/core/modules/comment/adding-fields-to-the-comments-for-a-content-type"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/contact": [
+        {
+            "text": "Contact module overview",
+            "href": "https://drupal.org/docs/8/core/modules/contact/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/content-moderation": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/content-moderation/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/content-translation": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/content-translation/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/contextual": [
+        {
+            "text": "Working with contextual links",
+            "href": "https://drupal.org/docs/8/core/modules/contextual/working-with-contextual-links"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/block-content": [
+        {
+            "text": "Custom Block overview",
+            "href": "https://drupal.org/docs/8/core/modules/custom_block/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/menu-link-content": [
+        {
+            "text": "Custom Menu Links overview",
+            "href": "https://drupal.org/docs/8/core/modules/menu_link/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/dblog": [
+        {
+            "text": "Database Logging module overview",
+            "href": "https://drupal.org/docs/8/core/modules/dblog/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/datetime": [
+        {
+            "text": "Datetime overview",
+            "href": "https://drupal.org/docs/8/core/modules/datetime/datetime-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/datetime-range": [
+        {
+            "text": "How to Use Datetime Range in a Custom Entity",
+            "href": "https://drupal.org/docs/8/core/modules/datetime-range/how-to-use-datetime-range-in-a-custom-entity"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/dynamic-page-cache": [
+        {
+            "text": "Dynamic Page Cache overview",
+            "href": "https://drupal.org/docs/8/core/modules/dynamic-page-cache/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/field": [
+        {
+            "text": "Field module overview",
+            "href": "https://drupal.org/docs/8/core/modules/field/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/field-ui": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/field-ui/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/file": [
+        {
+            "text": "File module overview",
+            "href": "https://drupal.org/docs/8/core/modules/file/overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/filter-module": [
+        {
+            "text": "Filter module overview",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/filter-module/filter-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/help": [
+        {
+            "text": "Help Module Overview",
+            "href": "https://drupal.org/docs/8/core/modules/help/help-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/history": [
+        {
+            "text": "History module overview",
+            "href": "https://drupal.org/docs/8/core/modules/history/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/basic_auth": [
+        {
+            "text": "HTTP Basic Authentication overview",
+            "href": "https://drupal.org/docs/8/core/modules/basic_auth/overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/image-module": [
+        {
+            "text": "Working with images",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/image-module/working-with-images"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/inline-form-errors": [
+        {
+            "text": "Inline Form Errors module overview",
+            "href": "https://drupal.org/docs/8/core/modules/inline-form-errors/inline-form-errors-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module": [
+        {
+            "text": "JSON:API",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/jsonapi"
+        },
+        {
+            "text": "Glossary of Terms",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/glossary-of-terms"
+        },
+        {
+            "text": "API Overview",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/api-overview"
+        },
+        {
+            "text": "Core Concepts",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/core-concepts"
+        },
+        {
+            "text": "Filtering",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/filtering"
+        },
+        {
+            "text": "Includes",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/includes"
+        },
+        {
+            "text": "Pagination",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/pagination"
+        },
+        {
+            "text": "Sorting",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/sorting"
+        },
+        {
+            "text": "Revisions",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/revisions"
+        },
+        {
+            "text": "Translations",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/translations"
+        },
+        {
+            "text": "GET, POST, PATCH and DELETE",
+            "href": "https://drupal.org/docs/8/modules/jsonapi/get-post-patch-and-delete"
+        },
+        {
+            "text": "Fetching resources (GET)",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/fetching-resources-get"
+        },
+        {
+            "text": "Creating new resources (POST)",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/creating-new-resources-post"
+        },
+        {
+            "text": "Removing existing resources (DELETE)",
+            "href": "https://drupal.org/docs/8/modules/jsonapi/removing-existing-resources-delete"
+        },
+        {
+            "text": "Updating existing resources (PATCH)",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/updating-existing-resources-patch"
+        },
+        {
+            "text": "Customizing Resources",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/customizing-resources"
+        },
+        {
+            "text": "File Uploads",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/file-uploads"
+        },
+        {
+            "text": "JSON:API vs. core's REST module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/jsonapi-vs-cores-rest-module"
+        },
+        {
+            "text": "What JSON:API DOESN'T do",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/what-jsonapi-doesnt-do"
+        },
+        {
+            "text": "JSON:API Extras",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/jsonapi-extras"
+        },
+        {
+            "text": "Security considerations",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/jsonapi-module/security-considerations"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/layout-builder": [
+        {
+            "text": "Layout Builder overview",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/layout-builder-overview"
+        },
+        {
+            "text": "Creating Layout Defaults",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/creating-layout-defaults"
+        },
+        {
+            "text": "Creating Layout overrides",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/creating-layout-overrides"
+        },
+        {
+            "text": "Building Layouts Using the Layout Builder UI",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/building-layouts-using-the-layout-builder-ui"
+        },
+        {
+            "text": "Additional modules",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/additional-modules"
+        },
+        {
+            "text": "Theming and Extending",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/theming-and-extending"
+        },
+        {
+            "text": "Layout Builder and Content Translation",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/layout-builder-and-content-translation"
+        },
+        {
+            "text": "Configuring Layout Builder permissions",
+            "href": "https://drupal.org/docs/8/core/modules/layout-builder/configuring-layout-builder-permissions"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/link": [
+        {
+            "text": "Link module overview",
+            "href": "https://drupal.org/docs/8/core/modules/link/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/media": [
+        {
+            "text": "Media module overview",
+            "href": "https://drupal.org/docs/8/core/modules/media/overview"
+        },
+        {
+            "text": "Creating and configuring Media Types",
+            "href": "https://drupal.org/docs/8/core/modules/media/creating-and-configuring-media-types"
+        },
+        {
+            "text": "Setting up private access to Media items",
+            "href": "https://drupal.org/docs/8/core/modules/media/setting-up-private-access-to-media-items"
+        },
+        {
+            "text": "FAQ - Transition from Media Entity to Media in core",
+            "href": "https://drupal.org/docs/8/core/modules/media/faq-transition-from-media-entity-to-media-in-core"
+        },
+        {
+            "text": "Creating a custom MediaSource plugin for external assets",
+            "href": "https://drupal.org/docs/8/core/modules/media/creating-a-custom-mediasource-plugin-for-external-assets"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module/overview"
+        },
+        {
+            "text": "The Media Library field widget",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module/the-media-library-field-widget"
+        },
+        {
+            "text": "Embedding media with CKEditor 4",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module/embedding-media-with-ckeditor-4"
+        },
+        {
+            "text": "Embedding media with CKEditor 5",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module/embedding-media-with-ckeditor-5"
+        },
+        {
+            "text": "Administering the Media Library",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module/administering-the-media-library"
+        },
+        {
+            "text": "Customizing the media library",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/media-library-module/customizing-the-media-library"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/menu-ui-module": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/menu-ui/overview"
+        },
+        {
+            "text": "Menu Configuration",
+            "href": "https://drupal.org/docs/8/core/modules/menu-ui/menu-configuration"
+        },
+        {
+            "text": "Adding a link to a menu",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/menu-ui-module/adding-a-link-to-a-menu"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-module": [
+        {
+            "text": "Migrate overview",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-module/migrate-overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-drupal-module": [
+        {
+            "text": "Migrate Drupal overview",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-drupal-module/migrate-drupal-overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-drupal-ui-module": [
+        {
+            "text": "Migrate Drupal UI overview",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/migrate-drupal-ui-module/migrate-drupal-ui-overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-modules/node-module": [
+        {
+            "text": "About Nodes",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-modules/node-module/about-nodes"
+        },
+        {
+            "text": "Uses",
+            "href": "https://drupal.org/docs/8/core/modules/node/uses"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/options": [
+        {
+            "text": "Options module overview",
+            "href": "https://drupal.org/docs/8/core/modules/options/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/path": [
+        {
+            "text": "Path module overview",
+            "href": "https://drupal.org/docs/8/core/modules/path/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/rest": [
+        {
+            "text": "RESTful Web Services module overview",
+            "href": "https://drupal.org/docs/8/core/modules/rest/overview"
+        },
+        {
+            "text": "Getting started: REST configuration & REST request fundamentals",
+            "href": "https://drupal.org/docs/8/core/modules/rest/getting-started-rest-configuration-rest-request-fundamentals"
+        },
+        {
+            "text": "GET for reading content entities",
+            "href": "https://drupal.org/docs/8/core/modules/rest/get-for-reading-content-entities"
+        },
+        {
+            "text": "POST for creating content entities",
+            "href": "https://drupal.org/docs/8/core/modules/rest/post-for-creating-content-entities"
+        },
+        {
+            "text": "PATCH for updating content entities",
+            "href": "https://drupal.org/docs/8/core/modules/rest/patch-for-updating-content-entities"
+        },
+        {
+            "text": "PATCH with OAuth",
+            "href": "https://drupal.org/docs/8/core/modules/rest/patch-with-oauth"
+        },
+        {
+            "text": "DELETE for deleting content entities",
+            "href": "https://drupal.org/docs/8/core/modules/rest/delete-for-deleting-content-entities"
+        },
+        {
+            "text": "GET on Views-generated lists",
+            "href": "https://drupal.org/docs/8/core/modules/rest/get-on-views-generated-lists"
+        },
+        {
+            "text": "JavaScript and Drupal 8 RESTful Web Services",
+            "href": "https://drupal.org/docs/8/core/modules/rest/javascript-and-drupal-8-restful-web-services"
+        },
+        {
+            "text": "More info and resources for Drupal 8.x REST API",
+            "href": "https://drupal.org/docs/8/core/modules/rest/more-info-and-resources-for-drupal-8x-rest-api"
+        },
+        {
+            "text": "Using other authentication protocols",
+            "href": "https://drupal.org/docs/8/core/modules/rest/using-other-authentication-protocols"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/search": [
+        {
+            "text": "Search module overview",
+            "href": "https://drupal.org/docs/8/core/modules/search/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/serialization": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/serialization/overview"
+        }
+    ],
+    "https://drupal.org/documentation/modules/settings_tray": [
+        {
+            "text": "Using the Settings Tray",
+            "href": "https://drupal.org/documentation/modules/settings_tray/using-the-settings-tray"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/shortcut": [
+        {
+            "text": "Shortcut Module Overview",
+            "href": "https://drupal.org/docs/8/core/modules/shortcut/shortcut-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/syslog": [
+        {
+            "text": "Syslog module overview",
+            "href": "https://drupal.org/docs/8/core/modules/syslog/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/system": [
+        {
+            "text": "System: cron and caching",
+            "href": "https://drupal.org/docs/8/core/modules/system/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/taxonomy": [
+        {
+            "text": "Taxonomy module overview",
+            "href": "https://drupal.org/docs/8/core/modules/taxonomy/taxonomy-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/telephone": [
+        {
+            "text": "Telephone module overview",
+            "href": "https://drupal.org/docs/8/core/modules/telephone/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/simpletest": [
+        {
+            "text": "Testing module overview",
+            "href": "https://drupal.org/docs/8/core/modules/testing/testing-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/editor": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/editor/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/text": [
+        {
+            "text": "Text module overview",
+            "href": "https://drupal.org/docs/8/core/modules/text/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/toolbar": [
+        {
+            "text": "Working with the toolbar",
+            "href": "https://drupal.org/docs/8/core/modules/toolbar/working-with-the-toolbar"
         }
     ],
     "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/update-module": [
         {
             "text": "Update Status module overview",
             "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/update-module/update-status-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/user": [
+        {
+            "text": "User module overview",
+            "href": "https://drupal.org/docs/8/core/modules/user/overview"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/views": [
+        {
+            "text": "Views overview",
+            "href": "https://drupal.org/docs/8/core/modules/views/overview"
+        },
+        {
+            "text": "Add a contextual filter to a view",
+            "href": "https://drupal.org/docs/8/core/modules/views/add-a-contextual-filter-to-a-view"
+        },
+        {
+            "text": "Add a display to a view",
+            "href": "https://drupal.org/docs/8/core/modules/views/add-a-display-to-a-view"
+        },
+        {
+            "text": "Add a field to a view",
+            "href": "https://drupal.org/docs/8/core/modules/views/add-a-field-to-a-view"
+        },
+        {
+            "text": "Add a filter to a view",
+            "href": "https://drupal.org/docs/8/core/modules/views/add-a-filter-to-a-view"
+        },
+        {
+            "text": "Add a relationship to a view",
+            "href": "https://drupal.org/docs/8/core/modules/views/add-a-relationship-to-a-view"
+        },
+        {
+            "text": "Configure Views for debugging",
+            "href": "https://drupal.org/docs/8/core/modules/views/configure-views-for-debugging"
+        },
+        {
+            "text": "Create a simple block view",
+            "href": "https://drupal.org/docs/8/core/modules/views/create-a-simple-block-view"
+        },
+        {
+            "text": "Create a simple page view",
+            "href": "https://drupal.org/docs/8/core/modules/views/create-a-simple-page-view"
+        },
+        {
+            "text": "Customize the output style of a view field or list",
+            "href": "https://drupal.org/docs/8/core/modules/views/customize-the-output-style-of-a-view-field-or-list"
+        },
+        {
+            "text": "Disable Views caching",
+            "href": "https://drupal.org/docs/8/core/modules/views/disable-views-caching"
+        },
+        {
+            "text": "Expose a filter to site visitors",
+            "href": "https://drupal.org/docs/8/core/modules/views/expose-a-filter-to-site-visitors"
+        },
+        {
+            "text": "Give a custom name to a field in the Views edit screen",
+            "href": "https://drupal.org/docs/8/core/modules/views/give-a-custom-name-to-a-field-in-the-views-edit-screen"
+        },
+        {
+            "text": "Give a custom name to a filter in the Views Edit screen",
+            "href": "https://drupal.org/docs/8/core/modules/views/give-a-custom-name-to-a-filter-in-the-views-edit-screen"
+        },
+        {
+            "text": "Manage display settings for the Views configuration screen",
+            "href": "https://drupal.org/docs/8/core/modules/views/manage-display-settings-for-the-views-configuration-screen"
+        },
+        {
+            "text": "Manage your views collection",
+            "href": "https://drupal.org/docs/8/core/modules/views/manage-your-views-collection"
+        },
+        {
+            "text": "Rewrite the output of a view field",
+            "href": "https://drupal.org/docs/8/core/modules/views/rewrite-the-output-of-a-view-field"
+        },
+        {
+            "text": "The Views UI module",
+            "href": "https://drupal.org/docs/8/core/modules/views/the-views-ui-module"
+        },
+        {
+            "text": "Math in rewrite result in Views",
+            "href": "https://drupal.org/docs/8/core/modules/views/math-in-rewrite-result-in-views"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/workflows": [
+        {
+            "text": "Workflows overview",
+            "href": "https://drupal.org/docs/8/core/modules/workflows/overview"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-themes": [
+        {
+            "text": "Claro theme",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/claro-theme"
+        },
+        {
+            "text": "Olivero",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/olivero"
+        },
+        {
+            "text": "Stark theme",
+            "href": "https://drupal.org/docs/8/core/themes/stark-theme"
+        },
+        {
+            "text": "Starterkit theme",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/starterkit-theme"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-themes/claro-theme": [
+        {
+            "text": "Contributing to Claro",
+            "href": "https://drupal.org/docs/8/core/themes/claro-theme/contributing-to-claro"
+        },
+        {
+            "text": "Development",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/claro-theme/development"
+        },
+        {
+            "text": "Claro CSS coding standards",
+            "href": "https://drupal.org/docs/8/core/themes/claro-theme/claro-css-coding-standards"
+        },
+        {
+            "text": "Design",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/claro-theme/design"
+        },
+        {
+            "text": "Accessibility",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/claro-theme/accessibility"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/core-themes/olivero": [
+        {
+            "text": "How to contribute to Olivero",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/olivero/how-to-contribute-to-olivero"
+        },
+        {
+            "text": "Development Setup",
+            "href": "https://drupal.org/docs/contributed-themes/olivero/development-setup"
+        },
+        {
+            "text": "Authoring CSS for Olivero",
+            "href": "https://drupal.org/docs/core-modules-and-themes/core-themes/olivero/authoring-css-for-olivero"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/experimental-extensions": [
+        {
+            "text": "Experimental modules",
+            "href": "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-modules"
+        },
+        {
+            "text": "Experimental themes",
+            "href": "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-themes"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-modules": [
+        {
+            "text": "Workspaces module",
+            "href": "https://drupal.org/docs/8/core/modules/workspace"
+        },
+        {
+            "text": "Removed from core",
+            "href": "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-modules/removed-from-core"
+        }
+    ],
+    "https://drupal.org/docs/8/core/modules/workspace": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/8/core/modules/workspace/overview"
+        },
+        {
+            "text": "Using workspaces",
+            "href": "https://drupal.org/docs/8/core/modules/workspace/using-workspaces"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-modules/removed-from-core": [
+        {
+            "text": "Place Blocks module",
+            "href": "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-modules/removed-from-core/place-blocks-module"
+        },
+        {
+            "text": "Migrate Drupal Multilingual",
+            "href": "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-modules/removed-from-core/migrate-drupal-multilingual"
+        }
+    ],
+    "https://drupal.org/docs/core-modules-and-themes/experimental-extensions/experimental-modules/removed-from-core/place-blocks-module": [
+        {
+            "text": "Place Blocks overview",
+            "href": "https://drupal.org/docs/8/core/modules/block-place/overview"
         }
     ],
     "https://drupal.org/docs/develop/mobile-drupal-sites": [
@@ -1735,8 +4031,32 @@
             "href": "https://drupal.org/docs/develop/mobile-drupal-sites/mobile-testing-tools"
         },
         {
+            "text": "Mobile-specific website",
+            "href": "https://drupal.org/docs/mobile-drupal-sites/mobile-specific-website"
+        },
+        {
+            "text": "Native mobile application development",
+            "href": "https://drupal.org/docs/mobile-drupal-sites/native-mobile-application-development"
+        },
+        {
+            "text": "Related mobile technologies",
+            "href": "https://drupal.org/docs/mobile-drupal-sites/related-mobile-technologies"
+        },
+        {
+            "text": "Responsive Design + Server-side Components (RESS)",
+            "href": "https://drupal.org/docs/mobile-drupal-sites/responsive-design-server-side-components-ress"
+        },
+        {
+            "text": "Responsive Images",
+            "href": "https://drupal.org/docs/mobile-drupal-sites/responsive-images"
+        },
+        {
             "text": "Responsive web design",
             "href": "https://drupal.org/docs/develop/mobile-drupal-sites/responsive-web-design"
+        },
+        {
+            "text": "Web-based mobile apps",
+            "href": "https://drupal.org/docs/mobile-drupal-sites/web-based-mobile-apps"
         }
     ],
     "https://drupal.org/docs/develop/decoupled-drupal": [
