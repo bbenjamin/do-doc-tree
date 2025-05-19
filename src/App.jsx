@@ -117,7 +117,7 @@ function App() {
       <h2>Main Docs Page</h2>
       <ShowUrlTree tree={headHunt(started)} title='Getting Started' names={urlToLinkName(started)}/>
       <ShowUrlTree tree={headHunt(administering)} title='Administering Drupal' names={urlToLinkName(administering)}/>
-      <ShowUrlTree tree={headHunt(upgrading)} title='Updating Drupal' names={urlToLinkName(updating)}/>
+      <ShowUrlTree tree={headHunt(upgrading)} title='Upgrading Drupal' names={urlToLinkName(upgrading)}/>
 
       <ShowUrlTree tree={headHunt(updating)} title='Updating Drupal' names={urlToLinkName(updating)}/>
       <ShowUrlTree tree={headHunt(extending)} title='Extending Drupal' names={urlToLinkName(extending)}/>
