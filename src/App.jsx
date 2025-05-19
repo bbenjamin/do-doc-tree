@@ -16,8 +16,6 @@ import string_user_guide from './json/user_guide.js'
 import contributor_reference from './json/drupal_headings_contributor_reference.json'
 import './App.css'
 
-console.log('confre', contributor_reference)
-
 import ShowUrlTree from './components/ShowUrlTree'
 
 const ug = Object.values(JSON.parse(string_user_guide)).sort((a,b) => a.weight = b.weight );
@@ -100,8 +98,9 @@ function headHunt(json) {
           .replace('www.', '')
           .match(new RegExp(`^${theUrl.replace('www.', '')}(?:$|/([^/]*)$)`))
       );
+    const otherKids = json[theUrl].map(item => item.href);
     structured[theUrl] = {}
-    structured[theUrl].children = kids
+    structured[theUrl].children = otherKids.length ? otherKids : kids
   })
 
   let filterCount = 6;
@@ -109,8 +108,9 @@ function headHunt(json) {
     filterCount = 12
   }
   const arranged = buildHierarchy(structured).filter(item => item.url.split('/').length < filterCount);
-  if (structured['https://drupal.org/docs/user_guide/en/appendix.html']) {
-
+  if (structured['https://drupal.org/docs/extending-drupal']) {
+    // console.log('STR', structured)
+    // console.log('arr', arranged)
   }
   addLengthProperty(arranged[0], linkNames, json)
   return arranged[0];
@@ -134,7 +134,7 @@ function App() {
       <ShowUrlTree tree={headHunt(develop)} title='Developing Drupal' names={urlToLinkName(develop)}/>
 
       <h2>Drupal APIs (from sidebar)</h2>
-      <ShowUrlTree tree={buildUrlTree(apis)} title='Drupal APIs' names={urlToLinkName(apis)}/>
+      <ShowUrlTree tree={headHunt(apis)} title='Drupal APIs' names={urlToLinkName(apis)}/>
       <h4><a href='https://api.drupal.org/api/drupal'>Complete Api Reference</a> https://api.drupal.org/api/drupal</h4>
 
       <h2>Curated Guides (from sidebar)</h2>

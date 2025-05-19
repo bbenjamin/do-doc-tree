@@ -59,6 +59,10 @@
             "href": "https://drupal.org/docs/getting-started/system-requirements/php-requirements"
         },
         {
+            "text": "PHP OpenSSL requirements",
+            "href": "https://drupal.org/docs/system-requirements/php-openssl-requirements"
+        },
+        {
             "text": "Browser requirements",
             "href": "https://drupal.org/docs/getting-started/system-requirements/browser-requirements"
         },
@@ -105,6 +109,10 @@
             "href": "https://drupal.org/docs/getting-started/installing-drupal/check-status-and-protect"
         },
         {
+            "text": "Add Composer to an existing site",
+            "href": "https://drupal.org/docs/installing-drupal/add-composer-to-an-existing-site"
+        },
+        {
             "text": "Drupal Quick Start Command",
             "href": "https://drupal.org/docs/getting-started/installing-drupal/drupal-quick-start-command"
         },
@@ -119,6 +127,10 @@
     ],
     "https://drupal.org/docs/getting-started/accessibility": [
         {
+            "text": "Drupal Accessibility Features",
+            "href": "https://drupal.org/docs/accessibility/drupal-accessibility-features"
+        },
+        {
             "text": "Contributed Modules for Extending Accessibility in Drupal",
             "href": "https://drupal.org/docs/getting-started/accessibility/contributed-modules-for-extending-accessibility-in-drupal"
         },
@@ -129,6 +141,10 @@
         {
             "text": "How to do an accessibility review?",
             "href": "https://drupal.org/docs/getting-started/accessibility/how-to-do-an-accessibility-review"
+        },
+        {
+            "text": "External Accessibility Resources",
+            "href": "https://drupal.org/docs/accessibility/external-accessibility-resources"
         },
         {
             "text": "Drupal Accessibility (a11y) Office Hours",
@@ -159,14 +175,58 @@
     ],
     "https://drupal.org/docs/getting-started/understanding-drupal/understanding-drupal-version-numbers": [
         {
+            "text": "What do version numbers mean on contributed modules and themes?",
+            "href": "https://drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers/what-do-version-numbers-mean-on-contributed-modules-and-themes"
+        },
+        {
+            "text": "What are alpha and beta releases, and release candidates?",
+            "href": "https://drupal.org/docs/8/understanding-drupal-version-numbers/what-are-alpha-and-beta-releases-and-release-candidates"
+        },
+        {
             "text": "When is the next release?",
             "href": "https://drupal.org/docs/getting-started/understanding-drupal/understanding-drupal-version-numbers/when-is-the-next-release"
+        },
+        {
+            "text": "Which version am I running?",
+            "href": "https://drupal.org/docs/understanding-drupal/understanding-drupal-version-numbers/which-version-am-i-running"
         }
     ],
     "https://drupal.org/docs/getting-started/drupal-distributions": [
         {
+            "text": "Creating distributions",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-distributions"
+        },
+        {
+            "text": "Cappuccino Starter Kit",
+            "href": "https://drupal.org/docs/drupal-distributions/cappuccino-starter-kit"
+        },
+        {
+            "text": "Conference Organizing Distribution",
+            "href": "https://drupal.org/docs/drupal-distributions/conference-organizing-distribution"
+        },
+        {
+            "text": "deGov",
+            "href": "https://drupal.org/docs/drupal-distributions/degov"
+        },
+        {
+            "text": "Guardr",
+            "href": "https://drupal.org/docs/drupal-distributions/guardr"
+        },
+        {
+            "text": "Niobi Research Center",
+            "href": "https://drupal.org/docs/drupal-distributions/niobi-research-center"
+        },
+        {
             "text": "Open Social",
             "href": "https://drupal.org/docs/getting-started/drupal-distributions/open-social"
+        },
+        {
+            "text": "Thunder",
+            "href": "https://drupal.org/docs/distributions/thunder"
+        },
+        {
+            "text": "Varbase",
+            "href": "https://drupal.org/docs/drupal-distributions/varbase"
         },
         {
             "text": "Distribution documentation",
@@ -191,6 +251,210 @@
         {
             "text": "Sector",
             "href": "https://drupal.org/docs/getting-started/drupal-distributions/sector"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-distributions": [
+        {
+            "text": "How to write a Drupal installation profile",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-distributions/how-to-write-a-drupal-installation-profile"
+        }
+    ],
+    "https://drupal.org/docs/drupal-distributions/cappuccino-starter-kit": [
+        {
+            "text": "Installation",
+            "href": "https://drupal.org/docs/drupal-distributions/cappuccino-starter-kit/installation"
+        },
+        {
+            "text": "Basic Usage",
+            "href": "https://drupal.org/docs/drupal-distributions/cappuccino-starter-kit/basic-usage"
+        },
+        {
+            "text": "Theming",
+            "href": "https://drupal.org/docs/drupal-distributions/cappuccino-starter-kit/theming"
+        },
+        {
+            "text": "Development informations",
+            "href": "https://drupal.org/docs/drupal-distributions/cappuccino-starter-kit/development-informations"
+        }
+    ],
+    "https://drupal.org/docs/drupal-distributions/degov": [
+        {
+            "text": "About deGov",
+            "href": "https://drupal.org/docs/drupal-distributions/degov/about-degov"
+        },
+        {
+            "text": "Getting started",
+            "href": "https://drupal.org/docs/drupal-distributions/degov/getting-started"
+        },
+        {
+            "text": "Upgrading from deGov 1.x to 2.x",
+            "href": "https://drupal.org/docs/8/distributions/degov/upgrading-from-degov-1x-to-2x"
+        },
+        {
+            "text": "Development workflow",
+            "href": "https://drupal.org/docs/8/distributions/degov/development-workflow"
+        },
+        {
+            "text": "Media types",
+            "href": "https://drupal.org/docs/8/distributions/degov/media-types"
+        },
+        {
+            "text": "Content Types",
+            "href": "https://drupal.org/docs/distributions/degov/content-types"
+        },
+        {
+            "text": "Upgrading from 5.x to 6.x",
+            "href": "https://drupal.org/docs/distributions/degov/upgrading-from-5x-to-6x"
+        },
+        {
+            "text": "Access restriction",
+            "href": "https://drupal.org/docs/distributions/degov/access-restriction"
+        },
+        {
+            "text": "Semantic versioning model",
+            "href": "https://drupal.org/docs/distributions/degov/semantic-versioning-model"
+        },
+        {
+            "text": "Updating deGov",
+            "href": "https://drupal.org/docs/distributions/degov/updating-degov"
+        },
+        {
+            "text": "deGov issue template",
+            "href": "https://drupal.org/docs/distributions/degov/degov-issue-template"
+        },
+        {
+            "text": "Module Development for deGov",
+            "href": "https://drupal.org/docs/distributions/degov/module-development-for-degov"
+        },
+        {
+            "text": "Testing techniques",
+            "href": "https://drupal.org/docs/distributions/degov/testing-techniques"
+        }
+    ],
+    "https://drupal.org/docs/drupal-distributions/guardr": [
+        {
+            "text": "About Guardr",
+            "href": "https://drupal.org/docs/8/modules/guardr/about-guardr"
+        },
+        {
+            "text": "Functionality",
+            "href": "https://drupal.org/docs/8/modules/guardr/functionality"
+        },
+        {
+            "text": "Installation and usage",
+            "href": "https://drupal.org/docs/8/modules/guardr/installation-and-usage"
+        },
+        {
+            "text": "A note about Coder",
+            "href": "https://drupal.org/docs/8/modules/guardr/a-note-about-coder"
+        },
+        {
+            "text": "A note about Real Name",
+            "href": "https://drupal.org/docs/8/modules/guardr/a-note-about-real-name"
+        },
+        {
+            "text": "FAQ",
+            "href": "https://drupal.org/docs/8/modules/guardr/faq"
+        },
+        {
+            "text": "Guardr Core",
+            "href": "https://drupal.org/docs/8/modules/guardr/guardr-core"
+        },
+        {
+            "text": "High performance Guardr",
+            "href": "https://drupal.org/docs/8/modules/guardr/high-performance-guardr"
+        },
+        {
+            "text": "Security Features and Settings",
+            "href": "https://drupal.org/docs/distributions/guardr/security-features-and-settings"
+        },
+        {
+            "text": "Preparing a new Guardr 7.x release",
+            "href": "https://drupal.org/docs/8/distributions/guardr/preparing-a-new-guardr-7x-release"
+        }
+    ],
+    "https://drupal.org/docs/drupal-distributions/niobi-research-center": [
+        {
+            "text": "Customize Niobi using Drupal Multisite",
+            "href": "https://drupal.org/docs/8/distributions/niobi-research-center/customize-niobi-using-drupal-multisite"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/open-social": [
+        {
+            "text": "Installing Open Social",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/installing-open-social"
+        },
+        {
+            "text": "Updating",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/updating"
+        },
+        {
+            "text": "Contribute to Open Social",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/contribute-to-open-social"
+        },
+        {
+            "text": "Development Standards",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/development-standards"
+        },
+        {
+            "text": "About Open Social Support",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/about-open-social-support"
+        },
+        {
+            "text": "Activity Stream Architecture and Background information",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/activity-stream-architecture-and-background-information"
+        },
+        {
+            "text": "Configure acceptance test in Open Social with PHPStorm",
+            "href": "https://drupal.org/docs/distributions/open-social/configure-acceptance-test-in-open-social-with-phpstorm"
+        },
+        {
+            "text": "Create demo content",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/create-demo-content"
+        },
+        {
+            "text": "Open Social Extensions",
+            "href": "https://drupal.org/docs/distributions/open-social/open-social-extensions"
+        },
+        {
+            "text": "How to run the Behat tests locally",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/how-to-run-the-behat-tests-locally"
+        },
+        {
+            "text": "How to speed up local development on OSX using docker machine nfs",
+            "href": "https://drupal.org/docs/distributions/open-social/how-to-speed-up-local-development-on-osx-using-docker-machine-nfs"
+        },
+        {
+            "text": "How to upgrade to the latest Docker version",
+            "href": "https://drupal.org/docs/distributions/open-social/how-to-upgrade-to-the-latest-docker-version"
+        },
+        {
+            "text": "Links",
+            "href": "https://drupal.org/docs/distributions/open-social/links"
+        },
+        {
+            "text": "Multilingual support in Open Social",
+            "href": "https://drupal.org/docs/distributions/open-social/multilingual-support-in-open-social"
+        },
+        {
+            "text": "Private files",
+            "href": "https://drupal.org/docs/distributions/open-social/private-files"
+        },
+        {
+            "text": "Releases",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/releases"
+        },
+        {
+            "text": "Unit tests",
+            "href": "https://drupal.org/docs/distributions/open-social/unit-tests"
+        },
+        {
+            "text": "Versioning",
+            "href": "https://drupal.org/docs/drupal-distributions/open-social/versioning"
+        },
+        {
+            "text": "Supported modules",
+            "href": "https://drupal.org/docs/distributions/open-social/supported-modules"
         }
     ],
     "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation": [
@@ -2241,8 +2505,16 @@
             "href": "https://drupal.org/docs/getting-started/multisite-drupal/set-up-a-multisite"
         },
         {
+            "text": "Multisite Drupal considerations",
+            "href": "https://drupal.org/docs/multisite-drupal/multisite-drupal-considerations"
+        },
+        {
             "text": "Multisite folder structure in Drupal",
             "href": "https://drupal.org/docs/getting-started/multisite-drupal/multisite-folder-structure-in-drupal"
+        },
+        {
+            "text": "Use cases for Drupal multisite",
+            "href": "https://drupal.org/docs/multisite-drupal/use-cases-for-drupal-multisite"
         }
     ],
     "https://drupal.org/docs/getting-started/sustainability": [

@@ -76,17 +76,6 @@ const TreeNode = ({ node, level, names }) => {
           >
             {node.url.replace('https://drupal.org/docs', '')}
           </a>
-        {/* {isSelected && (
-          <a
-            href={node.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className=""
-            onClick={(e) => e.stopPropagation()}
-          >
-            {node.url.replace('https://drupal.org/docs', '')}
-          </a>
-        )} */}
       </div>
 
       {hasChildren && isExpanded && (
