@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './ShowUrlTree.css'; // We'll create this file next
+import './ShowUrlTree.css';
 
 let allNames = {}
 /**
@@ -10,7 +10,7 @@ const ShowUrlTree = ({ tree, title = '', names }) => {
   if (!tree) return <div>No tree data available</div>;
   return (
     <div className="url-tree-container">
-      <h3>{title}</h3>
+      <h3 style={{marginBottom: '4px', marginTop: '0', marginInline: '-5px', paddingInline: '5px', backgroundColor: '#c3e1ff', position: 'sticky', top: '0'}}>{title}</h3>
       <div className="tree-view">
         <TreeNode node={tree} level={0} names={names} />
       </div>
@@ -52,7 +52,7 @@ const TreeNode = ({ node, level, names }) => {
 
 
   return (
-    <div className="tree-node" style={{ marginLeft: `${level * 20}px` }}>
+    <div className="tree-node" style={{ marginLeft: `${level * 12}px` }}>
       <div
         className={`node-content ${isSelected ? 'selected' : ''}`}
         onClick={handleToggle}
@@ -72,7 +72,7 @@ const TreeNode = ({ node, level, names }) => {
             rel="noopener noreferrer"
             className=""
             onClick={(e) => e.stopPropagation()}
-            style={{fontSize: '0.6em'}}
+            style={{fontSize: '0.8em'}}
           >
             {node.url.replace('https://drupal.org/docs', '')}
           </a>

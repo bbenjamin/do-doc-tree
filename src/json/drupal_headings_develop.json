@@ -1,0 +1,1792 @@
+{
+    "https://www.drupal.org/docs/develop": [
+        {
+            "text": "Local server setup",
+            "href": "https://drupal.org/docs/develop/local-server-setup"
+        },
+        {
+            "text": "Development tools",
+            "href": "https://drupal.org/docs/develop/development-tools"
+        },
+        {
+            "text": "Using Composer",
+            "href": "https://drupal.org/docs/develop/using-composer"
+        },
+        {
+            "text": "Git version control system",
+            "href": "https://drupal.org/docs/develop/git"
+        },
+        {
+            "text": "Managing a drupal.org theme, module, or distribution project",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project"
+        },
+        {
+            "text": "Security",
+            "href": "https://drupal.org/docs/develop/security"
+        },
+        {
+            "text": "Drupal project issues",
+            "href": "https://drupal.org/docs/develop/issues"
+        },
+        {
+            "text": "Usability testing",
+            "href": "https://drupal.org/docs/develop/usability-testing"
+        },
+        {
+            "text": "Profiling Drupal",
+            "href": "https://drupal.org/docs/develop/profiling-drupal"
+        },
+        {
+            "text": "Coding standards",
+            "href": "https://drupal.org/docs/develop/standards"
+        },
+        {
+            "text": "User interface standards",
+            "href": "https://drupal.org/docs/develop/user-interface-standards"
+        },
+        {
+            "text": "Theming Drupal",
+            "href": "https://drupal.org/docs/develop/theming-drupal"
+        },
+        {
+            "text": "Creating modules",
+            "href": "https://drupal.org/docs/develop/creating-modules"
+        },
+        {
+            "text": "Drupal APIs",
+            "href": "https://drupal.org/docs/develop/drupal-apis"
+        },
+        {
+            "text": "Automated testing",
+            "href": "https://drupal.org/docs/develop/automated-testing"
+        },
+        {
+            "text": "Upgrading and converting Drupal 7 modules",
+            "href": "https://drupal.org/docs/develop/upgrading-and-converting-drupal-7-modules"
+        },
+        {
+            "text": "Core modules and themes",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes"
+        },
+        {
+            "text": "External Libraries in Core",
+            "href": "https://drupal.org/docs/develop/external-libraries-in-core"
+        },
+        {
+            "text": "Mobile Drupal sites",
+            "href": "https://drupal.org/docs/develop/mobile-drupal-sites"
+        },
+        {
+            "text": "Decoupled Drupal",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal"
+        }
+    ],
+    "https://drupal.org/docs/develop/local-server-setup": [
+        {
+            "text": "Docker-based development environments for macOS, Linux, and Windows",
+            "href": "https://drupal.org/docs/develop/local-server-setup/docker-based-development-environments-for-macos-linux-and-windows"
+        },
+        {
+            "text": "Windows development environment",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment"
+        },
+        {
+            "text": "Managing mail on a local server",
+            "href": "https://drupal.org/docs/develop/local-server-setup/managing-mail-on-a-local-server"
+        },
+        {
+            "text": "Enable verbose error logging",
+            "href": "https://drupal.org/docs/develop/local-server-setup/enable-verbose-error-logging"
+        }
+    ],
+    "https://drupal.org/docs/develop/local-server-setup/windows-development-environment": [
+        {
+            "text": "Installing Drupal on Windows for local usage",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-on-windows-for-local-usage"
+        },
+        {
+            "text": "Installing Drupal with DDEV in WSL2 on Windows",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-with-ddev-in-wsl2-on-windows"
+        },
+        {
+            "text": "Running Drupal on a USB drive with USBWebserver",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/running-drupal-on-a-usb-drive-with-usbwebserver"
+        },
+        {
+            "text": "Using XAMPP",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/using-xampp"
+        }
+    ],
+    "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-with-ddev-in-wsl2-on-windows": [
+        {
+            "text": "Overview, system requirements & virtualization",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-with-ddev-in-wsl2-on-windows/overview-system-requirements-virtualization"
+        },
+        {
+            "text": "Installing WSL2 & Ubuntu",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-with-ddev-in-wsl2-on-windows/installing-wsl2-ubuntu"
+        },
+        {
+            "text": "Installing Docker, DDEV & Drupal in WSL2",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-with-ddev-in-wsl2-on-windows/installing-docker-ddev-drupal-in-wsl2"
+        },
+        {
+            "text": "Integrating Visual Studio Code with WSL2, DDEV & Drupal",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-with-ddev-in-wsl2-on-windows/integrating-visual-studio-code-with-wsl2-ddev-drupal"
+        },
+        {
+            "text": "Drupal best practice settings",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/installing-drupal-with-ddev-in-wsl2-on-windows/drupal-best-practice-settings"
+        }
+    ],
+    "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/using-xampp": [
+        {
+            "text": "Quick install Drupal with XAMPP on Windows",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/using-xampp/quick-install-drupal-with-xampp-on-windows"
+        },
+        {
+            "text": "Configuring XAMPP on Windows",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/using-xampp/configuring-xampp-on-windows"
+        },
+        {
+            "text": "Sub directory based multisite using XAMPP",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows-development-environment/using-xampp/sub-directory-based-multisite-using-xampp"
+        },
+        {
+            "text": "Skype interferes with XAMPP on port 80",
+            "href": "https://drupal.org/docs/develop/local-server-setup/windows/skype-interferes-with-xampp-and-wamp-on-port-80"
+        }
+    ],
+    "https://drupal.org/docs/develop/development-tools": [
+        {
+            "text": "Development tools overview",
+            "href": "https://drupal.org/docs/develop/development-tools/development-tools-overview"
+        },
+        {
+            "text": "Drush",
+            "href": "https://drupal.org/docs/develop/development-tools/drush"
+        },
+        {
+            "text": "Editors and IDEs",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides"
+        },
+        {
+            "text": "DrupalPod",
+            "href": "https://drupal.org/docs/develop/development-tools/drupalpod"
+        },
+        {
+            "text": "XHProf Code Profiler",
+            "href": "https://drupal.org/docs/develop/development-tools/xhprof-code-profiler"
+        },
+        {
+            "text": "Xdebug debugger",
+            "href": "https://drupal.org/docs/develop/development-tools/xdebug-debugger"
+        },
+        {
+            "text": "Disabling and debugging caching",
+            "href": "https://drupal.org/docs/develop/development-tools/disabling-and-debugging-caching"
+        },
+        {
+            "text": "PHPStan",
+            "href": "https://drupal.org/docs/develop/development-tools/phpstan"
+        },
+        {
+            "text": "Working efficiently with the command line",
+            "href": "https://drupal.org/docs/develop/development-tools/working-efficiently-with-the-command-line"
+        },
+        {
+            "text": "cspell",
+            "href": "https://drupal.org/docs/develop/development-tools/cspell"
+        }
+    ],
+    "https://drupal.org/docs/develop/development-tools/editors-and-ides": [
+        {
+            "text": "Configuring PhpStorm",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/configuring-phpstorm"
+        },
+        {
+            "text": "Configuring Sublime Text",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/configuring-sublime-text"
+        },
+        {
+            "text": "Configuring Vim",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/configuring-vim"
+        },
+        {
+            "text": "Emacs",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/emacs"
+        },
+        {
+            "text": "Configuring Eclipse",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/configuring-eclipse"
+        },
+        {
+            "text": "Komodo",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/komodo"
+        },
+        {
+            "text": "NetBeans",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/netbeans"
+        },
+        {
+            "text": "Configuring Visual Studio Code",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/configuring-visual-studio-code"
+        },
+        {
+            "text": "Configuring jEdit",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/configuring-jedit"
+        },
+        {
+            "text": "GNU Global setup for Drupal",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/gnu-global-setup-for-drupal"
+        }
+    ],
+    "https://drupal.org/docs/develop/development-tools/editors-and-ides/emacs": [
+        {
+            "text": "Configuring Emacs",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/emacs/configuring-emacs"
+        },
+        {
+            "text": "Drupal mode maintained by arnested",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/emacs/drupal-mode-maintained-by-arnested"
+        },
+        {
+            "text": "Simple drupal-mode.el",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/emacs/simple-drupal-modeel"
+        }
+    ],
+    "https://drupal.org/docs/develop/development-tools/editors-and-ides/komodo": [
+        {
+            "text": "Configuring Komodo Edit",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/komodo/configuring-komodo-edit"
+        },
+        {
+            "text": "Komodo IDE X (10) Drupal 8 Setup",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/komodo/komodo-ide-x-10-drupal-8-setup"
+        }
+    ],
+    "https://drupal.org/docs/develop/development-tools/editors-and-ides/netbeans": [
+        {
+            "text": "Configuring Apache NetBeans IDE",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/netbeans/configuring-apache-netbeans-ide"
+        },
+        {
+            "text": "Setting Up NetBeans, Xdebug, Drupal Development and Templates for Windows 7/XP, Acquia Dev Desktop",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/netbeans/setting-up-netbeans-xdebug-drupal-development-and-templates-for-windows-7xp-acquia-dev-desktop"
+        },
+        {
+            "text": "Drupal templates for NetBeans",
+            "href": "https://drupal.org/docs/develop/development-tools/editors-and-ides/netbeans/drupal-templates-for-netbeans"
+        }
+    ],
+    "https://drupal.org/docs/develop/development-tools/drupalpod": [
+        {
+            "text": "DrupalPod + Drupal Forge",
+            "href": "https://drupal.org/docs/develop/development-tools/drupalpod/drupalpod-drupal-forge"
+        },
+        {
+            "text": "Getting Started",
+            "href": "https://drupal.org/docs/develop/development-tools/drupalpod/getting-started"
+        },
+        {
+            "text": "Gitpod",
+            "href": "https://drupal.org/docs/develop/development-tools/drupalpod/gitpod"
+        }
+    ],
+    "https://drupal.org/docs/develop/development-tools/phpstan": [
+        {
+            "text": "Getting started",
+            "href": "https://drupal.org/docs/develop/development-tools/phpstan/getting-started"
+        },
+        {
+            "text": "Fixing reports of undefined methods",
+            "href": "https://drupal.org/docs/develop/development-tools/phpstan/fixing-reports-of-undefined-methods"
+        },
+        {
+            "text": "Handling \"Unsafe usage of new static()\"",
+            "href": "https://drupal.org/docs/develop/development-tools/phpstan/handling-unsafe-usage-of-new-static"
+        },
+        {
+            "text": "PHPStan in Drupal core",
+            "href": "https://drupal.org/docs/develop/development-tools/phpstan/phpstan-in-drupal-core"
+        }
+    ],
+    "https://drupal.org/docs/develop/using-composer": [
+        {
+            "text": "Using Composer with Drupal",
+            "href": "https://drupal.org/docs/develop/using-composer/using-composer-with-drupal"
+        },
+        {
+            "text": "Composer.json explained in relation to Drush Make",
+            "href": "https://drupal.org/docs/develop/using-composer/composerjson-explained-in-relation-to-drush-make"
+        },
+        {
+            "text": "Using Composer to Install Drupal and Manage Dependencies",
+            "href": "https://drupal.org/docs/develop/using-composer/manage-dependencies"
+        },
+        {
+            "text": "Add a composer.json file",
+            "href": "https://drupal.org/docs/develop/using-composer/add-a-composerjson-file"
+        },
+        {
+            "text": "Starting a Site Using Drupal Composer Project Templates",
+            "href": "https://drupal.org/docs/develop/using-composer/starting-a-site-using-drupal-composer-project-templates"
+        },
+        {
+            "text": "Managing dependencies for a contributed project",
+            "href": "https://drupal.org/docs/develop/using-composer/managing-dependencies-for-a-contributed-project"
+        },
+        {
+            "text": "Managing dependencies for a custom project",
+            "href": "https://drupal.org/docs/develop/using-composer/managing-dependencies-for-a-custom-project"
+        },
+        {
+            "text": "Preparing your site for Composer 2",
+            "href": "https://drupal.org/docs/develop/using-composer/preparing-your-site-for-composer-2"
+        },
+        {
+            "text": "Tricks for using Composer in local development",
+            "href": "https://drupal.org/docs/develop/using-composer/tricks-for-using-composer-in-local-development"
+        },
+        {
+            "text": "Troubleshooting Composer",
+            "href": "https://drupal.org/docs/develop/using-composer/troubleshooting-composer"
+        },
+        {
+            "text": "Using Drupal's Composer Scaffold",
+            "href": "https://drupal.org/docs/develop/using-composer/using-drupals-composer-scaffold"
+        },
+        {
+            "text": "Using packages.drupal.org",
+            "href": "https://drupal.org/docs/develop/using-composer/using-packagesdrupalorg"
+        },
+        {
+            "text": "Using packagist-signed.drupalcode.org",
+            "href": "https://drupal.org/docs/develop/using-composer/using-packagist-signeddrupalcodeorg"
+        },
+        {
+            "text": "Using the Drupal Lenient Composer Plugin",
+            "href": "https://drupal.org/docs/develop/using-composer/using-the-drupal-lenient-composer-plugin"
+        }
+    ],
+    "https://drupal.org/docs/develop/git": [
+        {
+            "text": "Introduction to Drupal Git",
+            "href": "https://drupal.org/docs/develop/git/introduction-to-drupal-git"
+        },
+        {
+            "text": "Setting up Git for Drupal and get GitLab access",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal-and-get-gitlab-access"
+        },
+        {
+            "text": "Using Git to contribute to Drupal",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal"
+        },
+        {
+            "text": "Using GitLab to contribute to Drupal",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal"
+        },
+        {
+            "text": "Git for Drupal project maintainers",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers"
+        },
+        {
+            "text": "Common development workflow",
+            "href": "https://drupal.org/docs/develop/git/common-development-workflow"
+        },
+        {
+            "text": "Git branching strategy for multiple developers",
+            "href": "https://drupal.org/docs/develop/git/git-branching-strategy-for-multiple-developers"
+        }
+    ],
+    "https://drupal.org/docs/develop/git/setting-up-git-for-drupal-and-get-gitlab-access": [
+        {
+            "text": "Obtaining Git access",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/obtaining-git-access"
+        },
+        {
+            "text": "Configuring Git for Drupal",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/configuring-git-for-drupal"
+        },
+        {
+            "text": "Drupal Git usage policies",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/drupal-git-usage-policies"
+        }
+    ],
+    "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/drupal-git-usage-policies": [
+        {
+            "text": "Drupal Git Contributor Agreement & Repository Usage Policy",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/drupal-git-usage-policies/drupal-git-contributor-agreement-repository-usage-policy"
+        },
+        {
+            "text": "Policy on 3rd party assets on Drupal.org",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/drupal-git-usage-policies/policy-on-3rd-party-assets-on"
+        },
+        {
+            "text": "Including 3rd party libraries",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/drupal-git-usage-policies/including-3rd-party-libraries"
+        },
+        {
+            "text": "Contacted by the LWG. Now what?",
+            "href": "https://drupal.org/docs/develop/git/setting-up-git-for-drupal/drupal-git-usage-policies/contacted-by-the-lwg-now-what"
+        }
+    ],
+    "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal": [
+        {
+            "text": "Cloning a module's project Git repository",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/cloning-a-modules-project-git-repository"
+        },
+        {
+            "text": "Using Tugboat previews on Drupal Core and contrib merge requests",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/using-tugboat-previews-on-drupal-core-and-contrib-merge-requests"
+        },
+        {
+            "text": "Merge request guidelines",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/merge-request-guidelines"
+        },
+        {
+            "text": "Working with patches",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/working-with-patches"
+        },
+        {
+            "text": "Setting proper file permissions before committing files",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/setting-proper-file-permissions-before-committing"
+        },
+        {
+            "text": "Making maintainer-friendly \"git am\" single and multi-patches",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/making-maintainer-friendly-git-am-single-and"
+        },
+        {
+            "text": "Using git blame",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/using-git-blame"
+        },
+        {
+            "text": "Using a Sandbox project to collaborate",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/using-a-sandbox-project-to-collaborate"
+        }
+    ],
+    "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/working-with-patches": [
+        {
+            "text": "Applying a patch in a feature branch",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/working-with-patches/applying-a-patch-in-a-feature-branch"
+        },
+        {
+            "text": "Making a patch",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/working-with-patches/making-a-patch"
+        },
+        {
+            "text": "Creating an interdiff",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/working-with-patches/creating-an-interdiff"
+        },
+        {
+            "text": "Rerolling patches",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/working-with-patches/rerolling-patches"
+        },
+        {
+            "text": "Command-only full patch workflow",
+            "href": "https://drupal.org/docs/develop/git/using-git-to-contribute-to-drupal/working-with-patches/command-only-full-patch-workflow"
+        }
+    ],
+    "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal": [
+        {
+            "text": "Introduction",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/introduction"
+        },
+        {
+            "text": "Creating issue forks",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/creating-issue-forks"
+        },
+        {
+            "text": "Creating merge requests",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/creating-merge-requests"
+        },
+        {
+            "text": "Rebase a merge request",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/rebase-a-merge-request"
+        },
+        {
+            "text": "Reviewing merge requests",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/reviewing-merge-requests"
+        },
+        {
+            "text": "GitLab CI",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/gitlab-ci"
+        },
+        {
+            "text": "Editing a Gitlab merge request",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/editing-a-gitlab-merge-request"
+        },
+        {
+            "text": "Policy for use of Personal Access Tokens (PATs) and other automation",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/policy-for-use-of-personal-access-tokens-pats-and-other-automation"
+        },
+        {
+            "text": "Downloading a patch file",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/downloading-a-patch-file"
+        },
+        {
+            "text": "Core version compatibility fixes for modules with unmerged changes",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/core-version-compatibility-fixes-for-modules-with-unmerged-changes"
+        },
+        {
+            "text": "GitLab Frequently Asked Questions",
+            "href": "https://drupal.org/docs/develop/git/using-gitlab-to-contribute-to-drupal/gitlab-frequently-asked-questions"
+        }
+    ],
+    "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers": [
+        {
+            "text": "Committing changes",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/committing-changes"
+        },
+        {
+            "text": "Types of releases for full projects",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/types-of-releases-for-full-projects"
+        },
+        {
+            "text": "Release naming conventions",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/release-naming-conventions"
+        },
+        {
+            "text": "Creating a project release",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/creating-a-project-release"
+        },
+        {
+            "text": "Making a security release",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/making-a-security-release"
+        },
+        {
+            "text": "Making change logs and release notes",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/making-change-logs-and-release-notes"
+        },
+        {
+            "text": "Moving from a master to a major version branch",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/moving-from-a-master-to-a-major-version-branch"
+        },
+        {
+            "text": "Reviewing and merging merge requests",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/reviewing-and-merging-merge-requests"
+        },
+        {
+            "text": "Troubleshooting git push errors",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/troubleshooting-git-push-errors"
+        },
+        {
+            "text": "Uncommon situations",
+            "href": "https://drupal.org/docs/develop/git/git-for-drupal-project-maintainers/uncommon-situations"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project": [
+        {
+            "text": "Creating a new project",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project"
+        },
+        {
+            "text": "Creating distributions",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-distributions"
+        },
+        {
+            "text": "Documenting your project",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project"
+        },
+        {
+            "text": "Maintainership",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership"
+        },
+        {
+            "text": "Packaging a distribution",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/packaging-a-distribution"
+        },
+        {
+            "text": "Security Coverage",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project": [
+        {
+            "text": "Creating a new project vs. co-maintaining an existing project",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project/creating-a-new-project-vs-co-maintaining-an-existing-project"
+        },
+        {
+            "text": "General Projects",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project/general-projects"
+        },
+        {
+            "text": "How to create a new project",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project/how-to-create-a-new-project"
+        },
+        {
+            "text": "Maintenance and development status for projects",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project/maintenance-and-development-status-for-projects"
+        },
+        {
+            "text": "Policy on advertising in projects",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project/policy-on-advertising-in-projects"
+        },
+        {
+            "text": "Policy on projects without code",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project/policy"
+        },
+        {
+            "text": "Sandbox projects",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/sandbox-projects"
+        },
+        {
+            "text": "Why host your project on Drupal.org",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-a-new-project/why-host-your-project-on-drupalorg"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-distributions": [
+        {
+            "text": "How to write a Drupal installation profile",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/creating-distributions/how-to-write-a-drupal-installation-profile"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project": [
+        {
+            "text": "Help text standards",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/help-text-standards"
+        },
+        {
+            "text": "Module documentation guidelines",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/module-documentation-guidelines"
+        },
+        {
+            "text": "Project page template",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/project-page-template"
+        },
+        {
+            "text": "README.md template",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/readmemd-template"
+        },
+        {
+            "text": "Working with Drupal's Help system",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/working-with-drupals-help-system"
+        },
+        {
+            "text": "Using simplytest.me as a project demo",
+            "href": "https://drupal.org/docs/develop/documenting-your-project/using-simplytestme-as-a-project-demo"
+        },
+        {
+            "text": "Help Topic Standards",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/documenting-your-project/help-topic-standards"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership": [
+        {
+            "text": "Co-maintaining projects",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/co-maintaining-projects"
+        },
+        {
+            "text": "Finding a new project owner or new maintainers/co-maintainers",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/finding-a-new-project-owner-or-new-maintainersco-maintainers"
+        },
+        {
+            "text": "Open Ownership Pledge (finding co-maintainers)",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/open-ownership"
+        },
+        {
+            "text": "Archiving an abandoned project in a sandbox",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/archiving-an-abandoned-project-in-a-sandbox"
+        },
+        {
+            "text": "Setting a default branch",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/setting-a-default-branch"
+        },
+        {
+            "text": "Managing supported branches & releases",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/managing-supported-branches-releases"
+        },
+        {
+            "text": "Automated testing in DrupalCI",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/automated-testing-in-drupalci"
+        },
+        {
+            "text": "Module categories",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/module-categories"
+        },
+        {
+            "text": "Offering to become a project owner, maintainer, or co-maintainer",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/offering-to-become-a-project-owner-maintainer-or-co-maintainer"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/offering-to-become-a-project-owner-maintainer-or-co-maintainer": [
+        {
+            "text": "Terminology",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/offering-to-become-a-project-owner-maintainer-or-co-maintainer/terminology"
+        },
+        {
+            "text": "Maintainership and sandboxes",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/offering-to-become-a-project-owner-maintainer-or-co-maintainer/maintainership-and-sandboxes"
+        },
+        {
+            "text": "How to become project owner, maintainer, or co-maintainer",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/offering-to-become-a-project-owner-maintainer-or-co-maintainer/how-to-become-project-owner-maintainer-or-co"
+        },
+        {
+            "text": "How project moderators handle requests to be project owner, maintainer, or co-maintainer",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/offering-to-become-a-project-owner-maintainer-or-co-maintainer/how-project-moderators-handle-requests-to-be"
+        },
+        {
+            "text": "How project moderators handle reports of unsupported projects",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/maintainership/offering-to-become-a-project-owner-maintainer-or-co-maintainer/how-project-moderators-handle-reports-of"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/packaging-a-distribution": [
+        {
+            "text": "How to package a distribution on Drupal.org",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/packaging-a-distribution/how-to-package-a-distribution-on-drupalorg"
+        },
+        {
+            "text": "Drupal.org distribution packaging requirements",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/packaging-a-distribution/drupalorg-distribution-packaging-requirements"
+        },
+        {
+            "text": "Example drupal.org make file",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/packaging-a-distribution/example-drupalorg-make-file"
+        },
+        {
+            "text": "Common Drush Make errors and their solutions",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/packaging-a-distribution/common-drush-make-errors-and-their-solutions"
+        },
+        {
+            "text": "How to set up Drupal.org drush",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/packaging-a-distribution/how-to-set-up-drupalorg-drush"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage": [
+        {
+            "text": "Opting into security advisory coverage",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into"
+        },
+        {
+            "text": "Reviewing security coverage applications",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into": [
+        {
+            "text": "Pre-requisites for applying for the permission to opt into security advisory coverage",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into/pre-requisites-for-applying-for-the-permission-to-opt-into-security-advisory-coverage"
+        },
+        {
+            "text": "Apply for the permission to opt into security advisory coverage",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into/apply-for-the-permission-to-opt-into-security-advisory-coverage"
+        },
+        {
+            "text": "Application checklist",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into/application-checklist"
+        },
+        {
+            "text": "What to expect from the review process",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into/what-to-expect-from-the-review-process"
+        },
+        {
+            "text": "Tips for ensuring a smooth review",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into/tips-for-ensuring-a-smooth-review"
+        },
+        {
+            "text": "Review bonus",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/review-bonus"
+        },
+        {
+            "text": "GitLab CI",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/opting-into/gitlab-ci"
+        }
+    ],
+    "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing": [
+        {
+            "text": "How to review security advisory coverage applications",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing/how-to-review-security-advisory-coverage-applications"
+        },
+        {
+            "text": "Application workflow",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing/application-workflow"
+        },
+        {
+            "text": "Issue priorities",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing/issue-priorities"
+        },
+        {
+            "text": "What to cover in an application review",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing/what-to-cover-in-an-application-review"
+        },
+        {
+            "text": "In which way the issue queue for coverage applications is different from other project queues",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing/in-which-way-the-issue-queue-for-coverage-applications-is-different-from-other-project-queues"
+        },
+        {
+            "text": "Tools to use for reviews",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing/tools-to-use-for-reviews"
+        },
+        {
+            "text": "Template for reviewers",
+            "href": "https://drupal.org/docs/develop/managing-a-drupalorg-theme-module-or-distribution-project/security-coverage/reviewing/template-for-reviewers"
+        }
+    ],
+    "https://drupal.org/docs/develop/security": [
+        {
+            "text": "Handle user input with care",
+            "href": "https://drupal.org/docs/develop/security/handle-user-input-with-care"
+        },
+        {
+            "text": "Why does Drupal filter on output?",
+            "href": "https://drupal.org/docs/develop/security/why-does-drupal-filter-on-output"
+        },
+        {
+            "text": "HMAC best practices",
+            "href": "https://drupal.org/docs/develop/security/hmac-best-practices"
+        },
+        {
+            "text": "Information disclosure in error messages not a weakness (Path disclosure, SQL error messages, etc.)",
+            "href": "https://drupal.org/docs/develop/security/information-disclosure-in-error-messages-not-a-weakness-path-disclosure-sql"
+        },
+        {
+            "text": "Your Drupal site got hacked. Now what?",
+            "href": "https://drupal.org/docs/develop/security/your-drupal-site-got-hacked-now-what"
+        }
+    ],
+    "https://drupal.org/docs/develop/issues": [
+        {
+            "text": "Overview of projects and issues",
+            "href": "https://drupal.org/docs/develop/issues/overview-of-projects-and-issues"
+        },
+        {
+            "text": "Fields and other parts of an issue",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue"
+        },
+        {
+            "text": "Issue procedures and etiquette",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette"
+        }
+    ],
+    "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue": [
+        {
+            "text": "List of issue fields",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/list-of-issue-fields"
+        },
+        {
+            "text": "Assigning ownership of issues",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/assigning-ownership-of-issues"
+        },
+        {
+            "text": "Getting credit for work on issues",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/getting-credit-for-work-on-issues"
+        },
+        {
+            "text": "Special issue titles",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-titles"
+        },
+        {
+            "text": "Issue Category field",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/issue-category-field"
+        },
+        {
+            "text": "Issue Priority field",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/issue-priority-field"
+        },
+        {
+            "text": "Issue Status field",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/issue-status-field"
+        },
+        {
+            "text": "Issue tags field",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/issue-tags-field"
+        },
+        {
+            "text": "Issue tags -- special tags",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/issue-tags-special-tags"
+        },
+        {
+            "text": "Issue summary field",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/issue-summary-field"
+        },
+        {
+            "text": "Special issue summary templates",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-summary-templates"
+        },
+        {
+            "text": "Selecting the Project for a documentation issue",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/selecting-the-project-for-a-documentation"
+        },
+        {
+            "text": "Selecting the Component for a Documentation project issue",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/selecting-the-component-for-a-documentation"
+        }
+    ],
+    "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-summary-templates": [
+        {
+            "text": "Issue summary template -- bare",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-summary-templates/issue-summary-template-bare"
+        },
+        {
+            "text": "Issue summary template -- documentation",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-summary-templates/issue-0"
+        },
+        {
+            "text": "Issue summary template -- initiative proposal",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-summary-templates/issue-summary-template-initiative-proposal"
+        },
+        {
+            "text": "Issue summary template -- remaining tasks",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-summary-templates/issue-1"
+        },
+        {
+            "text": "Issue summary template -- visual issues",
+            "href": "https://drupal.org/docs/develop/issues/fields-and-other-parts-of-an-issue/special-issue-summary-templates/issue-2"
+        }
+    ],
+    "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette": [
+        {
+            "text": "Following issues and getting notifications",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/following-issues-and-getting-notifications"
+        },
+        {
+            "text": "Getting an issue addressed sooner",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/getting-an-issue-addressed-sooner"
+        },
+        {
+            "text": "Granting credit to issue contributors",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/granting-credit-to-issue-contributors"
+        },
+        {
+            "text": "Issue etiquette",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/issue-etiquette"
+        },
+        {
+            "text": "Issue scope guidelines for Drupal core issues",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/core-scope"
+        },
+        {
+            "text": "Maintaining and responding to issues for a project",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/maintaining-and-responding-to-issues-for-a"
+        },
+        {
+            "text": "Reporting a security issue",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/reporting-a-security-issue"
+        },
+        {
+            "text": "Reporting a usability issue",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/reporting-a-usability-issue"
+        },
+        {
+            "text": "Reporting spam",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/reporting-spam"
+        },
+        {
+            "text": "Searching for issues",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/searching-for-issues"
+        },
+        {
+            "text": "Templates for comments",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/templates-for-comments"
+        }
+    ],
+    "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/templates-for-comments": [
+        {
+            "text": "Maintainer response templates for common contribution scenarios",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/templates-for-comments/maintainer-responses"
+        },
+        {
+            "text": "Templates for issue status changes",
+            "href": "https://drupal.org/docs/develop/issues/issue-procedures-and-etiquette/templates-for-comments/templates-for-issue-status-changes"
+        }
+    ],
+    "https://drupal.org/docs/develop/usability-testing": [
+        {
+            "text": "Usability testing",
+            "href": "https://drupal.org/docs/develop/usability-testing/usability-testing"
+        },
+        {
+            "text": "Drupal usability test results",
+            "href": "https://drupal.org/docs/develop/usability-testing/results"
+        },
+        {
+            "text": "Conducting a usability test",
+            "href": "https://drupal.org/docs/develop/usability-testing/conducting-a-usability-test"
+        },
+        {
+            "text": "Recording a usability test",
+            "href": "https://drupal.org/docs/develop/usability-testing/recording-a-usability-test"
+        },
+        {
+            "text": "Communicating the results",
+            "href": "https://drupal.org/docs/develop/usability-testing/communicating-the-results"
+        }
+    ],
+    "https://drupal.org/docs/develop/usability-testing/results": [
+        {
+            "text": "Authoring experience: Known problems",
+            "href": "https://drupal.org/docs/develop/usability-testing/drupal-usability-test-results/authoring-experience-known-problems"
+        },
+        {
+            "text": "University of Minnesota 2015",
+            "href": "https://drupal.org/docs/develop/usability-testing/drupal-usability-test-results/university-of-minnesota-2015"
+        },
+        {
+            "text": "Google UX Study 2012 Detailed Results",
+            "href": "https://drupal.org/docs/develop/usability-testing/drupal-usability-test-results/google-ux-study-2012-detailed-results"
+        },
+        {
+            "text": "University of Minnesota 2011",
+            "href": "https://drupal.org/docs/develop/usability-testing/drupal-usability-test-results/university-of-minnesota-2011"
+        },
+        {
+            "text": "University of Baltimore 2009",
+            "href": "https://drupal.org/docs/develop/usability-testing/drupal-usability-test-results/university-of-baltimore-2009"
+        },
+        {
+            "text": "University of Baltimore 2008",
+            "href": "https://drupal.org/docs/develop/usability-testing/drupal-usability-test-results/university-of-baltimore-2008"
+        },
+        {
+            "text": "University of Minnesota 2008",
+            "href": "https://drupal.org/docs/develop/usability-testing/drupal-usability-test-results/university-of-minnesota-2008"
+        },
+        {
+            "text": "UX issues in Drupal 6 and how we tried to fix them in Drupal 7",
+            "href": "https://drupal.org/docs/develop/usability-testing/results/ux-issues-in-drupal-6-and-how-we-tried-to-fix-them-in-drupal"
+        }
+    ],
+    "https://drupal.org/docs/develop/profiling-drupal": [
+        {
+            "text": "Benchmarking and profiling Drupal",
+            "href": "https://drupal.org/docs/develop/profiling-drupal/benchmarking-and-profiling-drupal"
+        },
+        {
+            "text": "Apache Bench (ab)",
+            "href": "https://drupal.org/docs/develop/profiling-drupal/apache-bench-ab"
+        },
+        {
+            "text": "Dummy content and common gotchas",
+            "href": "https://drupal.org/docs/develop/profiling-drupal/dummy-content-and-common-gotchas"
+        },
+        {
+            "text": "Profiling memory usage",
+            "href": "https://drupal.org/docs/develop/profiling-drupal/profiling-memory-usage"
+        }
+    ],
+    "https://drupal.org/docs/develop/standards": [
+        {
+            "text": "PHP",
+            "href": "https://drupal.org/docs/develop/standards/php"
+        },
+        {
+            "text": "Accessibility",
+            "href": "https://drupal.org/docs/develop/standards/accessibility"
+        },
+        {
+            "text": "CSS",
+            "href": "https://drupal.org/docs/develop/standards/css"
+        },
+        {
+            "text": "JavaScript coding standards",
+            "href": "https://drupal.org/docs/develop/standards/javascript-coding-standards"
+        },
+        {
+            "text": "Markdown",
+            "href": "https://drupal.org/docs/develop/coding-standards/markdown-coding-standards"
+        },
+        {
+            "text": "SQL",
+            "href": "https://drupal.org/docs/develop/standards/sql"
+        },
+        {
+            "text": "Twig coding standards",
+            "href": "https://drupal.org/docs/develop/coding-standards/twig-coding-standards"
+        },
+        {
+            "text": "Drupal Markup Style Guide",
+            "href": "https://drupal.org/docs/develop/coding-standards/drupal-markup-style-guide"
+        },
+        {
+            "text": "Spelling",
+            "href": "https://drupal.org/docs/develop/standards/spelling"
+        },
+        {
+            "text": "YAML Configuration files",
+            "href": "https://drupal.org/docs/develop/coding-standards/configuration-file-coding-standards"
+        },
+        {
+            "text": "Composer package naming conventions",
+            "href": "https://drupal.org/docs/develop/coding-standards/composer-package-naming-conventions"
+        }
+    ],
+    "https://drupal.org/docs/develop/standards/php": [
+        {
+            "text": "PHP coding standards",
+            "href": "https://drupal.org/docs/develop/standards/php/php-coding-standards"
+        },
+        {
+            "text": "API documentation and comment standards",
+            "href": "https://drupal.org/docs/develop/standards/php/api-documentation-and-comment-standards"
+        },
+        {
+            "text": "API Documentation Examples",
+            "href": "https://drupal.org/docs/develop/standards/php/api-documentation-examples"
+        },
+        {
+            "text": "Namespaces",
+            "href": "https://drupal.org/docs/develop/coding-standards/namespaces"
+        },
+        {
+            "text": "Naming standards for services and extending Symfony",
+            "href": "https://drupal.org/docs/develop/coding-standards/naming-standards-for-services-and-extending-symfony"
+        },
+        {
+            "text": "PHP Exceptions",
+            "href": "https://drupal.org/docs/develop/coding-standards/php-exceptions"
+        },
+        {
+            "text": "PSR-4 namespaces and autoloading in Drupal 8",
+            "href": "https://drupal.org/docs/develop/standards/php/psr-4-namespaces-and-autoloading-in-drupal-8"
+        },
+        {
+            "text": "Temporary placeholders and delimiters",
+            "href": "https://drupal.org/docs/develop/coding-standards/temporary-placeholders-and-delimiters"
+        },
+        {
+            "text": "Write E_ALL compliant code",
+            "href": "https://drupal.org/docs/develop/coding-standards/write-e_all-compliant-code"
+        },
+        {
+            "text": "Drupal automated tests",
+            "href": "https://drupal.org/docs/develop/coding-standards/drupal-simpletest-coding-standards"
+        }
+    ],
+    "https://drupal.org/docs/develop/standards/css": [
+        {
+            "text": "CSS coding standards",
+            "href": "https://drupal.org/docs/develop/standards/css/css-coding-standards"
+        },
+        {
+            "text": "CSS formatting guidelines",
+            "href": "https://drupal.org/docs/develop/standards/css/css-formatting-guidelines"
+        },
+        {
+            "text": "CSScomb settings for Drupal (CSS formatting and sort tool)",
+            "href": "https://drupal.org/docs/develop/standards/css/csscomb-settings-for-drupal-css-formatting-and-sort-tool"
+        },
+        {
+            "text": "CSS architecture (for Drupal 9)",
+            "href": "https://drupal.org/docs/develop/standards/css/css-architecture-for-drupal-9"
+        },
+        {
+            "text": "CSS file organization",
+            "href": "https://drupal.org/docs/develop/standards/css/css-file-organization"
+        },
+        {
+            "text": "What to look for when reviewing CSS",
+            "href": "https://drupal.org/docs/develop/standards/css/what-to-look-for-when-reviewing-css"
+        }
+    ],
+    "https://drupal.org/docs/develop/standards/javascript-coding-standards": [
+        {
+            "text": "JavaScript coding standards",
+            "href": "https://drupal.org/docs/develop/standards/javascript-coding-standards/javascript-coding-standards"
+        },
+        {
+            "text": "JavaScript best practices",
+            "href": "https://drupal.org/docs/develop/standards/javascript/javascript-best-practices"
+        },
+        {
+            "text": "ESLint settings",
+            "href": "https://drupal.org/docs/develop/standards/javascript-coding-standards/eslint-settings"
+        },
+        {
+            "text": "JavaScript API documentation and comment standards",
+            "href": "https://drupal.org/docs/develop/standards/javascript-coding-standards/javascript-api-documentation-and-comment-standards"
+        },
+        {
+            "text": "jQuery coding standards",
+            "href": "https://drupal.org/docs/develop/standards/javascript/jquery-coding-standards"
+        }
+    ],
+    "https://drupal.org/docs/develop/standards/sql": [
+        {
+            "text": "SQL coding conventions",
+            "href": "https://drupal.org/docs/develop/standards/sql/sql-coding-conventions"
+        },
+        {
+            "text": "List of SQL reserved words",
+            "href": "https://drupal.org/docs/develop/coding-standards/list-of-sql-reserved-words"
+        },
+        {
+            "text": "Avoid \"SELECT * FROM ...\"",
+            "href": "https://drupal.org/docs/develop/coding-standards/avoid-select-from"
+        }
+    ],
+    "https://drupal.org/docs/develop/user-interface-standards": [
+        {
+            "text": "Form elements",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/form-elements"
+        },
+        {
+            "text": "Buttons",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/buttons"
+        },
+        {
+            "text": "Dropdown Buttons",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/dropdown-buttons"
+        },
+        {
+            "text": "Radio buttons",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/radio-buttons"
+        },
+        {
+            "text": "Checkbox and Checkboxes",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/checkbox-and-checkboxes"
+        },
+        {
+            "text": "Select list",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/select-list"
+        },
+        {
+            "text": "Navigation",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/navigation"
+        },
+        {
+            "text": "Contextual Links",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/contextual-links"
+        },
+        {
+            "text": "Local Action",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/local-action"
+        },
+        {
+            "text": "Tabs",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/tabs"
+        },
+        {
+            "text": "Details",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/details"
+        },
+        {
+            "text": "Fieldsets",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/fieldsets"
+        },
+        {
+            "text": "Vertical tabs",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/vertical-tabs"
+        },
+        {
+            "text": "Listings",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/listings"
+        },
+        {
+            "text": "Table",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/table"
+        },
+        {
+            "text": "Interface text",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/interface-text"
+        },
+        {
+            "text": "Machine name",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/machine-name"
+        },
+        {
+            "text": "Tours",
+            "href": "https://drupal.org/docs/develop/user-interface-standards/tours"
+        }
+    ],
+    "https://drupal.org/docs/develop/theming-drupal": [
+        {
+            "text": "Defining a theme with an .info.yml file",
+            "href": "https://drupal.org/docs/develop/theming-drupal/defining-a-theme-with-an-infoyml-file"
+        },
+        {
+            "text": "Drupal theme folder structure",
+            "href": "https://drupal.org/docs/develop/theming-drupal/drupal-theme-folder-structure"
+        },
+        {
+            "text": "Adding Regions to a Theme",
+            "href": "https://drupal.org/docs/develop/theming-drupal/adding-regions-to-a-theme"
+        },
+        {
+            "text": "Adding assets (CSS, JS) to a Drupal theme via *.libraries.yml",
+            "href": "https://drupal.org/docs/develop/theming-drupal/adding-assets-css-js-to-a-drupal-theme-via-librariesyml"
+        },
+        {
+            "text": "Twig in Drupal",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal"
+        },
+        {
+            "text": "Creating sub-themes",
+            "href": "https://drupal.org/docs/develop/theming-drupal/creating-sub-themes"
+        },
+        {
+            "text": "Sub-theming: Using Stable/Stable 9 as a base theme",
+            "href": "https://drupal.org/docs/develop/theming-drupal/sub-theming-using-stablestable-9-as-a-base-theme"
+        },
+        {
+            "text": "Using Single-Directory Components",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components"
+        },
+        {
+            "text": "Working with breakpoints in Drupal",
+            "href": "https://drupal.org/docs/develop/theming-drupal/working-with-breakpoints-in-drupal"
+        },
+        {
+            "text": "Creating automation tools for custom themes (Gulpjs)",
+            "href": "https://drupal.org/docs/develop/theming-drupal/creating-automation-tools-for-custom-themes-gulpjs"
+        },
+        {
+            "text": "Sub-Theme inheritance",
+            "href": "https://drupal.org/docs/develop/theming-drupal/sub-theme-inheritance"
+        },
+        {
+            "text": "Update the throbber",
+            "href": "https://drupal.org/docs/develop/theming-drupal/update-the-throbber"
+        },
+        {
+            "text": "Z-indexes in Drupal 8+",
+            "href": "https://drupal.org/docs/develop/theming-drupal/z-indexes-in-drupal-8"
+        },
+        {
+            "text": "Add meta description and title programmatically",
+            "href": "https://drupal.org/docs/develop/theming-drupal/add-meta-description-and-title-programmatically"
+        }
+    ],
+    "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal": [
+        {
+            "text": "Working With Twig Templates",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/working-with-twig-templates"
+        },
+        {
+            "text": "Twig Template naming conventions",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/twig-template-naming-conventions"
+        },
+        {
+            "text": "Discovering and Inspecting Variables in Twig Templates",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/discovering-and-inspecting-variables-in-twig-templates"
+        },
+        {
+            "text": "Debugging Twig templates",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/debugging-twig-templates"
+        },
+        {
+            "text": "Debugging compiled Twig templates",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/debugging-compiled-twig-templates"
+        },
+        {
+            "text": "Filters - Modifying Variables In Twig Templates",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/filters-modifying-variables-in-twig-templates"
+        },
+        {
+            "text": "Functions in Twig templates",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/functions-in-twig-templates"
+        },
+        {
+            "text": "Create custom twig templates for custom module",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/create-custom-twig-templates-for-custom-module"
+        },
+        {
+            "text": "Extending templates",
+            "href": "https://drupal.org/docs/develop/theming-drupal/twig-in-drupal/extending-templates"
+        }
+    ],
+    "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components": [
+        {
+            "text": "About Single-Directory Components",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/about-single-directory-components"
+        },
+        {
+            "text": "Quickstart",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/quickstart"
+        },
+        {
+            "text": "Creating a single-directory component",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/creating-a-single-directory-component"
+        },
+        {
+            "text": "Using your new single-directory component",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/using-your-new-single-directory-component"
+        },
+        {
+            "text": "Annotated example component.yml",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/annotated-example-componentyml"
+        },
+        {
+            "text": "API for Single-Directory Components",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/api-for-single-directory-components"
+        },
+        {
+            "text": "What are Props and Slots in Drupal SDC Theming?",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/what-are-props-and-slots-in-drupal-sdc-theming"
+        },
+        {
+            "text": "Modules and Tools that extend Single-Directory Components",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/modules-and-tools-that-extend-single-directory-components"
+        },
+        {
+            "text": "Frequently Asked Questions",
+            "href": "https://drupal.org/docs/develop/theming-drupal/using-single-directory-components/frequently-asked-questions"
+        }
+    ],
+    "https://drupal.org/docs/develop/creating-modules": [
+        {
+            "text": "Getting Started - Background & Prerequisites",
+            "href": "https://drupal.org/docs/develop/creating-modules/getting-started-background-prerequisites"
+        },
+        {
+            "text": "Naming and placing your Drupal module",
+            "href": "https://drupal.org/docs/develop/creating-modules/naming-and-placing-your-drupal-module"
+        },
+        {
+            "text": "Let Drupal know about your module with an .info.yml file",
+            "href": "https://drupal.org/docs/develop/creating-modules/let-drupal-know-about-your-module-with-an-infoyml-file"
+        },
+        {
+            "text": "Include default configuration in your Drupal module",
+            "href": "https://drupal.org/docs/develop/creating-modules/include-default-configuration-in-your-drupal-module"
+        },
+        {
+            "text": "Defining and using your own configuration in Drupal",
+            "href": "https://drupal.org/docs/develop/creating-modules/defining-and-using-your-own-configuration-in-drupal"
+        },
+        {
+            "text": "Create a custom page using a controller",
+            "href": "https://drupal.org/docs/develop/creating-modules/create-a-custom-page-using-a-controller"
+        },
+        {
+            "text": "Subscribe to and dispatch events",
+            "href": "https://drupal.org/docs/develop/creating-modules/subscribe-to-and-dispatch-events"
+        },
+        {
+            "text": "Building a Views display style plugin for Drupal",
+            "href": "https://drupal.org/docs/develop/creating-modules/building-a-views-display-style-plugin-for-drupal"
+        },
+        {
+            "text": "Adding assets (CSS, JS) to a Drupal module via *.libraries.yml",
+            "href": "https://drupal.org/docs/develop/creating-modules/adding-assets-css-js-to-a-drupal-module-via-librariesyml"
+        },
+        {
+            "text": "Basic module building tutorial: Lorem ipsum generator",
+            "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator"
+        },
+        {
+            "text": "Understanding hooks",
+            "href": "https://drupal.org/docs/develop/creating-modules/understanding-hooks"
+        }
+    ],
+    "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator": [
+        {
+            "text": "Tutorial introduction",
+            "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/tutorial-introduction"
+        },
+        {
+            "text": "Basic structure",
+            "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/basic-structure"
+        },
+        {
+            "text": "Settings Form",
+            "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/settings-form"
+        },
+        {
+            "text": "Defining a block",
+            "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/defining-a-block"
+        },
+        {
+            "text": "Theming",
+            "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/theming"
+        },
+        {
+            "text": "Testing a Drupal module",
+            "href": "https://drupal.org/docs/develop/creating-modules/basic-module-building-tutorial-lorem-ipsum-generator/testing-a-drupal-module"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis": [
+        {
+            "text": "Access policy API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/access-policy-api"
+        },
+        {
+            "text": "AJAX API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/ajax-api"
+        },
+        {
+            "text": "Authentication API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/authentication-api"
+        },
+        {
+            "text": "Cache API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/cache-api"
+        },
+        {
+            "text": "Database API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/database-api"
+        },
+        {
+            "text": "JavaScript API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/javascript-api"
+        },
+        {
+            "text": "RESTful Web Services API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/restful-web-services-api"
+        },
+        {
+            "text": "Runtime Assertions",
+            "href": "https://drupal.org/docs/develop/drupal-apis/runtime-assertions"
+        },
+        {
+            "text": "State API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/state-api"
+        },
+        {
+            "text": "Translation API (Code text)",
+            "href": "https://drupal.org/docs/develop/drupal-apis/translation-api-code-text"
+        },
+        {
+            "text": "Typed Data API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/typed-data-api"
+        },
+        {
+            "text": "Icon API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/icon-api"
+        },
+        {
+            "text": "Token API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/token-api"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/ajax-api": [
+        {
+            "text": "Basic Concepts",
+            "href": "https://drupal.org/docs/develop/drupal-apis/ajax-api/basic-concepts"
+        },
+        {
+            "text": "Core AJAX Callback Commands",
+            "href": "https://drupal.org/docs/develop/drupal-apis/ajax-api/core-ajax-callback-commands"
+        },
+        {
+            "text": "Ajax Dialog Boxes",
+            "href": "https://drupal.org/docs/develop/drupal-apis/ajax-api/ajax-dialog-boxes"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/database-api": [
+        {
+            "text": "General Concepts",
+            "href": "https://drupal.org/docs/develop/drupal-apis/database-api/general-concepts"
+        },
+        {
+            "text": "Database Transactions",
+            "href": "https://drupal.org/docs/develop/drupal-apis/database-api/database-transactions"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/javascript-api": [
+        {
+            "text": "AJAX Forms",
+            "href": "https://drupal.org/docs/develop/drupal-apis/javascript-api/ajax-forms"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/state-api": [
+        {
+            "text": "State API overview",
+            "href": "https://drupal.org/docs/develop/drupal-apis/state-api/state-api-overview"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/typed-data-api": [
+        {
+            "text": "Typed Data API overview",
+            "href": "https://drupal.org/docs/develop/drupal-apis/typed-data-api/typed-data-api-overview"
+        },
+        {
+            "text": "Data type plugins",
+            "href": "https://drupal.org/docs/develop/drupal-apis/typed-data-api/data-type-plugins"
+        }
+    ],
+    "https://drupal.org/docs/develop/drupal-apis/token-api": [
+        {
+            "text": "Overview of Token API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/token-api/overview-of-token-api"
+        },
+        {
+            "text": "How to use Token API",
+            "href": "https://drupal.org/docs/develop/drupal-apis/token-api/how-to-use-token-api"
+        },
+        {
+            "text": "Token API hooks",
+            "href": "https://drupal.org/docs/develop/drupal-apis/token-api/token-api-hooks"
+        },
+        {
+            "text": "Tokens available in Drupal core",
+            "href": "https://drupal.org/docs/develop/drupal-apis/token-api/tokens-available-in-drupal-core"
+        },
+        {
+            "text": "Token upgrade guides",
+            "href": "https://drupal.org/docs/develop/drupal-apis/token-api/token-upgrade-guides"
+        }
+    ],
+    "https://drupal.org/docs/develop/automated-testing": [
+        {
+            "text": "PHPUnit in Drupal",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal"
+        },
+        {
+            "text": "Browser testing using Cypress",
+            "href": "https://drupal.org/docs/develop/automated-testing/browser-testing-using-cypress"
+        },
+        {
+            "text": "JavaScript testing using Nightwatch",
+            "href": "https://drupal.org/docs/develop/automated-testing/javascript-testing-using-nightwatch"
+        },
+        {
+            "text": "Performance tests",
+            "href": "https://drupal.org/docs/develop/automated-testing/performance-tests"
+        },
+        {
+            "text": "Run core development checks",
+            "href": "https://drupal.org/docs/develop/automated-testing/run-core-development-checks"
+        },
+        {
+            "text": "Types of tests",
+            "href": "https://drupal.org/docs/develop/automated-testing/types-of-tests"
+        },
+        {
+            "text": "Test failures",
+            "href": "https://drupal.org/docs/develop/automated-testing/test-failures"
+        }
+    ],
+    "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal": [
+        {
+            "text": "Creating Functional tests (simulated browser)",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/creating-functional-tests-simulated-browser"
+        },
+        {
+            "text": "Creating FunctionalJavascript tests (real browser)",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/creating-functionaljavascript-tests-real-browser"
+        },
+        {
+            "text": "PHPUnit file structure, namespace, and required metadata",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/phpunit-file-structure-namespace-and-required-metadata"
+        },
+        {
+            "text": "Running PHPUnit tests",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/running-phpunit-tests"
+        },
+        {
+            "text": "Running PHPUnit JavaScript tests",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/running-phpunit-javascript-tests"
+        },
+        {
+            "text": "Running PHPUnit tests within PhpStorm",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/running-phpunit-tests-within-phpstorm"
+        },
+        {
+            "text": "Agile Unit Testing",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/agile-unit-testing"
+        },
+        {
+            "text": "Mocking Entities and Services with PHPUnit and Mocks",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/mocking-entities-and-services-with-phpunit-and-mocks"
+        },
+        {
+            "text": "Making HTTP requests programmatically in Kernel tests",
+            "href": "https://drupal.org/docs/develop/automated-testing/phpunit-in-drupal/making-http-requests-programmatically-in-kernel-tests"
+        }
+    ],
+    "https://drupal.org/docs/develop/upgrading-and-converting-drupal-7-modules": [
+        {
+            "text": "D7 to D8 tutorial: pathinfo module",
+            "href": "https://drupal.org/docs/develop/upgrading-and-converting-drupal-7-modules/d7-to-d8-tutorial-pathinfo-module"
+        }
+    ],
+    "https://drupal.org/docs/develop/core-modules-and-themes": [
+        {
+            "text": "Core modules",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules"
+        }
+    ],
+    "https://drupal.org/docs/develop/core-modules-and-themes/core-modules": [
+        {
+            "text": "MySQL module",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/mysql-module"
+        },
+        {
+            "text": "PostgreSQL module",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/postgresql-module"
+        },
+        {
+            "text": "Password Compatibility module",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/password-compatibility-module"
+        },
+        {
+            "text": "Navigation module",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/navigation-module"
+        },
+        {
+            "text": "Update module",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/update-module"
+        }
+    ],
+    "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/update-module": [
+        {
+            "text": "Update Status module overview",
+            "href": "https://drupal.org/docs/develop/core-modules-and-themes/core-modules/update-module/update-status-module-overview"
+        }
+    ],
+    "https://drupal.org/docs/develop/mobile-drupal-sites": [
+        {
+            "text": "Front-end performance",
+            "href": "https://drupal.org/docs/develop/mobile-drupal-sites/front-end-performance"
+        },
+        {
+            "text": "Mobile testing tools",
+            "href": "https://drupal.org/docs/develop/mobile-drupal-sites/mobile-testing-tools"
+        },
+        {
+            "text": "Responsive web design",
+            "href": "https://drupal.org/docs/develop/mobile-drupal-sites/responsive-web-design"
+        }
+    ],
+    "https://drupal.org/docs/develop/decoupled-drupal": [
+        {
+            "text": "What is decoupled",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/what-is-decoupled"
+        },
+        {
+            "text": "Info for Decision makers / evaluators",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/info-for-decision-makers-evaluators"
+        },
+        {
+            "text": "Getting Started Guide (Frontend)",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/getting-started-guide-frontend"
+        },
+        {
+            "text": "Getting Started Guide (Backend)",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/getting-started-guide-backend"
+        },
+        {
+            "text": "API Client",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/api-client"
+        },
+        {
+            "text": "Decoupled menus",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/decoupled-menus"
+        }
+    ],
+    "https://drupal.org/docs/develop/decoupled-drupal/api-client": [
+        {
+            "text": "Contributing",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/api-client/contributing"
+        },
+        {
+            "text": "POC Release",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/api-client/poc-release"
+        }
+    ],
+    "https://drupal.org/docs/develop/decoupled-drupal/decoupled-menus": [
+        {
+            "text": "Decoupled menus overview",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/decoupled-menus/decoupled-menus-overview"
+        },
+        {
+            "text": "API Usage",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/decoupled-menus/api-usage"
+        },
+        {
+            "text": "Components and libraries",
+            "href": "https://drupal.org/docs/develop/decoupled-drupal/decoupled-menus/components-and-libraries"
+        }
+    ]
+}

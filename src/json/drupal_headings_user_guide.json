@@ -1,0 +1,516 @@
+{
+    "https://drupal.org/docs/user_guide/en/index.html": [
+        {
+            "text": "Preface",
+            "href": "https://drupal.org/docs/user_guide/en/preface.html"
+        },
+        {
+            "text": "Chapter 1. Understanding Drupal",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-chapter.html"
+        },
+        {
+            "text": "Chapter 2. Planning Your Site",
+            "href": "https://drupal.org/docs/user_guide/en/planning-chapter.html"
+        },
+        {
+            "text": "Chapter 3. Installation",
+            "href": "https://drupal.org/docs/user_guide/en/installation-chapter.html"
+        },
+        {
+            "text": "Chapter 4. Basic Site Configuration",
+            "href": "https://drupal.org/docs/user_guide/en/config-chapter.html"
+        },
+        {
+            "text": "Chapter 5. Basic Page Management",
+            "href": "https://drupal.org/docs/user_guide/en/content-chapter.html"
+        },
+        {
+            "text": "Chapter 6. Setting Up Content Structure",
+            "href": "https://drupal.org/docs/user_guide/en/content-structure-chapter.html"
+        },
+        {
+            "text": "Chapter 7. Managing User Accounts",
+            "href": "https://drupal.org/docs/user_guide/en/user-chapter.html"
+        },
+        {
+            "text": "Chapter 8. Blocks",
+            "href": "https://drupal.org/docs/user_guide/en/blocks-chapter.html"
+        },
+        {
+            "text": "Chapter 9. Creating Listings with Views",
+            "href": "https://drupal.org/docs/user_guide/en/views-chapter.html"
+        },
+        {
+            "text": "Chapter 10. Making Your Site Multilingual",
+            "href": "https://drupal.org/docs/user_guide/en/multilingual-chapter.html"
+        },
+        {
+            "text": "Chapter 11. Extending and Customizing Your Site",
+            "href": "https://drupal.org/docs/user_guide/en/extend-chapter.html"
+        },
+        {
+            "text": "Chapter 12. Preventing and Fixing Problems",
+            "href": "https://drupal.org/docs/user_guide/en/prevent-chapter.html"
+        },
+        {
+            "text": "Chapter 13. Security and Maintenance",
+            "href": "https://drupal.org/docs/user_guide/en/security-chapter.html"
+        },
+        {
+            "text": "Chapter 14. Final Thoughts",
+            "href": "https://drupal.org/docs/user_guide/en/thoughts-chapter.html"
+        },
+        {
+            "text": "Glossary",
+            "href": "https://drupal.org/docs/user_guide/en/glossary.html"
+        },
+        {
+            "text": "Index",
+            "href": "https://drupal.org/docs/user_guide/en/_index.html"
+        },
+        {
+            "text": "Appendix A. Appendix",
+            "href": "https://drupal.org/docs/user_guide/en/appendix.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/preface.html": [
+        {
+            "text": "i.1. Copyright",
+            "href": "https://drupal.org/docs/user_guide/en/copyright.html"
+        },
+        {
+            "text": "i.2. Audience and Goal",
+            "href": "https://drupal.org/docs/user_guide/en/preface-audience.html"
+        },
+        {
+            "text": "i.3. Organization",
+            "href": "https://drupal.org/docs/user_guide/en/preface-organization.html"
+        },
+        {
+            "text": "i.4. Reporting Problems",
+            "href": "https://drupal.org/docs/user_guide/en/preface-reporting.html"
+        },
+        {
+            "text": "i.5. Conventions of the Guide",
+            "href": "https://drupal.org/docs/user_guide/en/preface-conventions.html"
+        },
+        {
+            "text": "i.6. Guiding Scenario",
+            "href": "https://drupal.org/docs/user_guide/en/preface-scenario.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/understanding-chapter.html": [
+        {
+            "text": "1.1. Concept: Drupal as a Content Management System",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-drupal.html"
+        },
+        {
+            "text": "1.2. Concept: Modules",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-modules.html"
+        },
+        {
+            "text": "1.3. Concept: Themes",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-themes.html"
+        },
+        {
+            "text": "1.4. Concept: Distributions",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-distributions.html"
+        },
+        {
+            "text": "1.5. Concept: Types of Data",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-data.html"
+        },
+        {
+            "text": "1.6. Concept: The Drupal Project",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-project.html"
+        },
+        {
+            "text": "1.7. Concept: Drupal Licensing",
+            "href": "https://drupal.org/docs/user_guide/en/understanding-gpl.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/planning-chapter.html": [
+        {
+            "text": "2.1. Concept: Regions in a Theme",
+            "href": "https://drupal.org/docs/user_guide/en/block-regions.html"
+        },
+        {
+            "text": "2.2. Planning Your Site Layout",
+            "href": "https://drupal.org/docs/user_guide/en/planning-layout.html"
+        },
+        {
+            "text": "2.3. Concept: Content Entities and Fields",
+            "href": "https://drupal.org/docs/user_guide/en/planning-data-types.html"
+        },
+        {
+            "text": "2.4. Concept: Modular Content",
+            "href": "https://drupal.org/docs/user_guide/en/planning-modular.html"
+        },
+        {
+            "text": "2.5. Planning your Content Structure",
+            "href": "https://drupal.org/docs/user_guide/en/planning-structure.html"
+        },
+        {
+            "text": "2.6. Concept: Editorial Workflow",
+            "href": "https://drupal.org/docs/user_guide/en/planning-workflow.html"
+        },
+        {
+            "text": "2.7. Concept: User Interface, Configuration, and Content translation",
+            "href": "https://drupal.org/docs/user_guide/en/language-concept.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/installation-chapter.html": [
+        {
+            "text": "3.1. Preparing to Install",
+            "href": "https://drupal.org/docs/user_guide/en/install-prepare.html"
+        },
+        {
+            "text": "3.2. Concept: Server Requirements",
+            "href": "https://drupal.org/docs/user_guide/en/install-requirements.html"
+        },
+        {
+            "text": "3.3. Concept: Additional Tools",
+            "href": "https://drupal.org/docs/user_guide/en/install-tools.html"
+        },
+        {
+            "text": "3.4. Concept: Methods for Downloading and Installing the Core Software",
+            "href": "https://drupal.org/docs/user_guide/en/install-decide.html"
+        },
+        {
+            "text": "3.5. Setting Up an Environment with DDEV",
+            "href": "https://drupal.org/docs/user_guide/en/install-ddev.html"
+        },
+        {
+            "text": "3.6. Using Composer to Download and Update Files",
+            "href": "https://drupal.org/docs/user_guide/en/install-composer.html"
+        },
+        {
+            "text": "3.7. Running the Interactive Installer",
+            "href": "https://drupal.org/docs/user_guide/en/install-run.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/config-chapter.html": [
+        {
+            "text": "4.1. Concept: Administrative Overview",
+            "href": "https://drupal.org/docs/user_guide/en/config-overview.html"
+        },
+        {
+            "text": "4.2. Editing Basic Site Information",
+            "href": "https://drupal.org/docs/user_guide/en/config-basic.html"
+        },
+        {
+            "text": "4.3. Installing a Module",
+            "href": "https://drupal.org/docs/user_guide/en/config-install.html"
+        },
+        {
+            "text": "4.4. Uninstalling Unused Modules",
+            "href": "https://drupal.org/docs/user_guide/en/config-uninstall.html"
+        },
+        {
+            "text": "4.5. Configuring User Account Settings",
+            "href": "https://drupal.org/docs/user_guide/en/config-user.html"
+        },
+        {
+            "text": "4.6. Configuring the Theme",
+            "href": "https://drupal.org/docs/user_guide/en/config-theme.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/content-chapter.html": [
+        {
+            "text": "5.1. Concept: Paths, Aliases, and URLs",
+            "href": "https://drupal.org/docs/user_guide/en/content-paths.html"
+        },
+        {
+            "text": "5.2. Creating a Content Item",
+            "href": "https://drupal.org/docs/user_guide/en/content-create.html"
+        },
+        {
+            "text": "5.3. Editing a Content Item",
+            "href": "https://drupal.org/docs/user_guide/en/content-edit.html"
+        },
+        {
+            "text": "5.4. Designating a Front Page for your Site",
+            "href": "https://drupal.org/docs/user_guide/en/menu-home.html"
+        },
+        {
+            "text": "5.5. Concept: Menu",
+            "href": "https://drupal.org/docs/user_guide/en/menu-concept.html"
+        },
+        {
+            "text": "5.6. Adding a Page to the Navigation",
+            "href": "https://drupal.org/docs/user_guide/en/menu-link-from-content.html"
+        },
+        {
+            "text": "5.7. Changing the Order of Navigation",
+            "href": "https://drupal.org/docs/user_guide/en/menu-reorder.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/content-structure-chapter.html": [
+        {
+            "text": "6.1. Adding a Content Type",
+            "href": "https://drupal.org/docs/user_guide/en/structure-content-type.html"
+        },
+        {
+            "text": "6.2. Deleting a Content Type",
+            "href": "https://drupal.org/docs/user_guide/en/structure-content-type-delete.html"
+        },
+        {
+            "text": "6.3. Adding Basic Fields to a Content Type",
+            "href": "https://drupal.org/docs/user_guide/en/structure-fields.html"
+        },
+        {
+            "text": "6.4. Concept: Reference Fields",
+            "href": "https://drupal.org/docs/user_guide/en/structure-reference-fields.html"
+        },
+        {
+            "text": "6.5. Concept: Taxonomy",
+            "href": "https://drupal.org/docs/user_guide/en/structure-taxonomy.html"
+        },
+        {
+            "text": "6.6. Setting Up a Taxonomy",
+            "href": "https://drupal.org/docs/user_guide/en/structure-taxonomy-setup.html"
+        },
+        {
+            "text": "6.7. Adding a Reference Field",
+            "href": "https://drupal.org/docs/user_guide/en/structure-adding-reference.html"
+        },
+        {
+            "text": "6.8. Concept: Forms and Widgets",
+            "href": "https://drupal.org/docs/user_guide/en/structure-widgets.html"
+        },
+        {
+            "text": "6.9. Changing Content Entry Forms",
+            "href": "https://drupal.org/docs/user_guide/en/structure-form-editing.html"
+        },
+        {
+            "text": "6.10. Concept: View Modes and Formatters",
+            "href": "https://drupal.org/docs/user_guide/en/structure-view-modes.html"
+        },
+        {
+            "text": "6.11. Changing Content Display",
+            "href": "https://drupal.org/docs/user_guide/en/structure-content-display.html"
+        },
+        {
+            "text": "6.12. Concept: Image Styles",
+            "href": "https://drupal.org/docs/user_guide/en/structure-image-styles.html"
+        },
+        {
+            "text": "6.13. Setting Up an Image Style",
+            "href": "https://drupal.org/docs/user_guide/en/structure-image-style-create.html"
+        },
+        {
+            "text": "6.14. Concept: Responsive Image Styles",
+            "href": "https://drupal.org/docs/user_guide/en/structure-image-responsive.html"
+        },
+        {
+            "text": "6.15. Concept: Text Formats and Editors",
+            "href": "https://drupal.org/docs/user_guide/en/structure-text-formats.html"
+        },
+        {
+            "text": "6.16. Configuring Text Formats and Editors",
+            "href": "https://drupal.org/docs/user_guide/en/structure-text-format-config.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/user-chapter.html": [
+        {
+            "text": "7.1. Concept: Users, Roles, and Permissions",
+            "href": "https://drupal.org/docs/user_guide/en/user-concept.html"
+        },
+        {
+            "text": "7.2. Concept: The User 1 Account",
+            "href": "https://drupal.org/docs/user_guide/en/user-admin-account.html"
+        },
+        {
+            "text": "7.3. Creating a Role",
+            "href": "https://drupal.org/docs/user_guide/en/user-new-role.html"
+        },
+        {
+            "text": "7.4. Creating a User Account",
+            "href": "https://drupal.org/docs/user_guide/en/user-new-user.html"
+        },
+        {
+            "text": "7.5. Assigning Permissions to a Role",
+            "href": "https://drupal.org/docs/user_guide/en/user-permissions.html"
+        },
+        {
+            "text": "7.6. Changing a User\u2019s Roles",
+            "href": "https://drupal.org/docs/user_guide/en/user-roles.html"
+        },
+        {
+            "text": "7.7. Assigning Authors to Content",
+            "href": "https://drupal.org/docs/user_guide/en/user-content.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/blocks-chapter.html": [
+        {
+            "text": "8.1. Concept: Blocks",
+            "href": "https://drupal.org/docs/user_guide/en/block-concept.html"
+        },
+        {
+            "text": "8.2. Creating A Custom Block",
+            "href": "https://drupal.org/docs/user_guide/en/block-create-custom.html"
+        },
+        {
+            "text": "8.3. Placing a Block in a Region",
+            "href": "https://drupal.org/docs/user_guide/en/block-place.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/views-chapter.html": [
+        {
+            "text": "9.1. Concept: Uses of Views",
+            "href": "https://drupal.org/docs/user_guide/en/views-concept.html"
+        },
+        {
+            "text": "9.2. Concept: The Parts of a View",
+            "href": "https://drupal.org/docs/user_guide/en/views-parts.html"
+        },
+        {
+            "text": "9.3. Creating a Content List View",
+            "href": "https://drupal.org/docs/user_guide/en/views-create.html"
+        },
+        {
+            "text": "9.4. Duplicating a View",
+            "href": "https://drupal.org/docs/user_guide/en/views-duplicate.html"
+        },
+        {
+            "text": "9.5. Adding a Block Display to a View",
+            "href": "https://drupal.org/docs/user_guide/en/views-block.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/multilingual-chapter.html": [
+        {
+            "text": "10.1. Adding a Language",
+            "href": "https://drupal.org/docs/user_guide/en/language-add.html"
+        },
+        {
+            "text": "10.2. Configuring Content Translation",
+            "href": "https://drupal.org/docs/user_guide/en/language-content-config.html"
+        },
+        {
+            "text": "10.3. Translating Content",
+            "href": "https://drupal.org/docs/user_guide/en/language-content-translate.html"
+        },
+        {
+            "text": "10.4. Translating Configuration",
+            "href": "https://drupal.org/docs/user_guide/en/language-config-translate.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/extend-chapter.html": [
+        {
+            "text": "11.1. Finding Modules",
+            "href": "https://drupal.org/docs/user_guide/en/extend-module-find.html"
+        },
+        {
+            "text": "11.2. Enabling and Disabling Maintenance Mode",
+            "href": "https://drupal.org/docs/user_guide/en/extend-maintenance.html"
+        },
+        {
+            "text": "11.3. Downloading and Installing a Module from Drupal.org",
+            "href": "https://drupal.org/docs/user_guide/en/extend-module-install.html"
+        },
+        {
+            "text": "11.4. Finding Themes",
+            "href": "https://drupal.org/docs/user_guide/en/extend-theme-find.html"
+        },
+        {
+            "text": "11.5. Downloading and Installing a Theme from Drupal.org",
+            "href": "https://drupal.org/docs/user_guide/en/extend-theme-install.html"
+        },
+        {
+            "text": "11.6. Manually Installing Module or Theme Files",
+            "href": "https://drupal.org/docs/user_guide/en/extend-manual-install.html"
+        },
+        {
+            "text": "11.7. Concept: Development Sites",
+            "href": "https://drupal.org/docs/user_guide/en/install-dev-sites.html"
+        },
+        {
+            "text": "11.8. Making a Development Site",
+            "href": "https://drupal.org/docs/user_guide/en/install-dev-making.html"
+        },
+        {
+            "text": "11.9. Deploying New Site Features",
+            "href": "https://drupal.org/docs/user_guide/en/extend-deploy.html"
+        },
+        {
+            "text": "11.10. Synchronizing Configuration Versions",
+            "href": "https://drupal.org/docs/user_guide/en/extend-config-versions.html"
+        },
+        {
+            "text": "11.11. Managing File and Configuration Revisions with Git",
+            "href": "https://drupal.org/docs/user_guide/en/extend-git.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/prevent-chapter.html": [
+        {
+            "text": "12.1. Concept: Cache",
+            "href": "https://drupal.org/docs/user_guide/en/prevent-cache.html"
+        },
+        {
+            "text": "12.2. Clearing the Cache",
+            "href": "https://drupal.org/docs/user_guide/en/prevent-cache-clear.html"
+        },
+        {
+            "text": "12.3. Concept: Data Backups",
+            "href": "https://drupal.org/docs/user_guide/en/prevent-backups.html"
+        },
+        {
+            "text": "12.4. Concept: Log",
+            "href": "https://drupal.org/docs/user_guide/en/prevent-log.html"
+        },
+        {
+            "text": "12.5. Concept: Status Report",
+            "href": "https://drupal.org/docs/user_guide/en/prevent-status.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/security-chapter.html": [
+        {
+            "text": "13.1. Concept: Cron",
+            "href": "https://drupal.org/docs/user_guide/en/security-cron-concept.html"
+        },
+        {
+            "text": "13.2. Configuring Cron Maintenance Tasks",
+            "href": "https://drupal.org/docs/user_guide/en/security-cron.html"
+        },
+        {
+            "text": "13.3. Concept: Security and Regular Updates",
+            "href": "https://drupal.org/docs/user_guide/en/security-concept.html"
+        },
+        {
+            "text": "13.4. Keeping Track of Updates",
+            "href": "https://drupal.org/docs/user_guide/en/security-announce.html"
+        },
+        {
+            "text": "13.5. Updating the Core Software",
+            "href": "https://drupal.org/docs/user_guide/en/security-update-core.html"
+        },
+        {
+            "text": "13.6. Updating a Module",
+            "href": "https://drupal.org/docs/user_guide/en/security-update-module.html"
+        },
+        {
+            "text": "13.7. Updating a Theme",
+            "href": "https://drupal.org/docs/user_guide/en/security-update-theme.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/thoughts-chapter.html": [
+        {
+            "text": "14.1. Connecting with the Community",
+            "href": "https://drupal.org/docs/user_guide/en/thoughts-connecting.html"
+        },
+        {
+            "text": "14.2. Getting Support",
+            "href": "https://drupal.org/docs/user_guide/en/thoughts-support.html"
+        },
+        {
+            "text": "14.3. Learning More",
+            "href": "https://drupal.org/docs/user_guide/en/thoughts-learn-more.html"
+        }
+    ],
+    "https://drupal.org/docs/user_guide/en/appendix.html": [
+        {
+            "text": "A.1. Guide-Wide Attributions",
+            "href": "https://drupal.org/docs/user_guide/en/attributions.html"
+        }
+    ]
+}

@@ -1,0 +1,548 @@
+{
+    "https://www.drupal.org/docs/drupal-apis": [
+        {
+            "text": "Batch API",
+            "href": "https://drupal.org/docs/drupal-apis/batch-api"
+        },
+        {
+            "text": "Block API",
+            "href": "https://drupal.org/docs/drupal-apis/block-api"
+        },
+        {
+            "text": "(deprecated) CKEditor 4 API (Drupal 8 and 9)",
+            "href": "https://drupal.org/docs/drupal-apis/deprecated-ckeditor-4-api-drupal-8-and-9"
+        },
+        {
+            "text": "CKEditor 5 API",
+            "href": "https://drupal.org/docs/drupal-apis/ckeditor-5-api"
+        },
+        {
+            "text": "Configuration API",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api"
+        },
+        {
+            "text": "Entity API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api"
+        },
+        {
+            "text": "Filter API",
+            "href": "https://drupal.org/docs/drupal-apis/filter-api"
+        },
+        {
+            "text": "Form API",
+            "href": "https://drupal.org/docs/drupal-apis/form-api"
+        },
+        {
+            "text": "Layout API",
+            "href": "https://drupal.org/docs/drupal-apis/layout-api"
+        },
+        {
+            "text": "Logging API",
+            "href": "https://drupal.org/docs/drupal-apis/logging-api"
+        },
+        {
+            "text": "Menu API",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api"
+        },
+        {
+            "text": "Middleware API",
+            "href": "https://drupal.org/docs/drupal-apis/middleware-api"
+        },
+        {
+            "text": "Migrate API",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api"
+        },
+        {
+            "text": "Plugin API",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api"
+        },
+        {
+            "text": "Render API",
+            "href": "https://drupal.org/docs/drupal-apis/render-api"
+        },
+        {
+            "text": "Responses",
+            "href": "https://drupal.org/docs/drupal-apis/responses"
+        },
+        {
+            "text": "Routing system",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system"
+        },
+        {
+            "text": "Serialization API",
+            "href": "https://drupal.org/docs/drupal-apis/serialization-api"
+        },
+        {
+            "text": "Services and dependency injection",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection"
+        },
+        {
+            "text": "Text Editor API",
+            "href": "https://drupal.org/docs/drupal-apis/text-editor-api"
+        },
+        {
+            "text": "Tour API",
+            "href": "https://drupal.org/docs/drupal-apis/tour-api"
+        },
+        {
+            "text": "Update API",
+            "href": "https://drupal.org/docs/drupal-apis/update-api"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/batch-api": [
+        {
+            "text": "Batch API overview",
+            "href": "https://drupal.org/docs/drupal-apis/batch-api/batch-api-overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/block-api": [
+        {
+            "text": "Block API overview",
+            "href": "https://drupal.org/docs/drupal-apis/block-api/block-api-overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/ckeditor-5-api": [
+        {
+            "text": "CKEditor 5 API overview",
+            "href": "https://drupal.org/docs/drupal-apis/ckeditor-5-api/overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/configuration-api": [
+        {
+            "text": "Configuration API overview",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-api-overview"
+        },
+        {
+            "text": "Overview of Configuration (vs. other types of information)",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/overview-of-configuration-vs-other-types-of-information"
+        },
+        {
+            "text": "Configuration Storage",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-storage"
+        },
+        {
+            "text": "Configuration override system",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-override-system"
+        },
+        {
+            "text": "Configuration schema/metadata",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-schemametadata"
+        },
+        {
+            "text": "Configuration entity dependencies",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/configuration-entity-dependencies"
+        },
+        {
+            "text": "Creating a configuration entity type",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/creating-a-configuration-entity-type"
+        },
+        {
+            "text": "Simple Configuration API",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/simple-configuration-api"
+        },
+        {
+            "text": "Working with Configuration Forms",
+            "href": "https://drupal.org/docs/drupal-apis/configuration-api/working-with-configuration-forms"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/entity-api": [
+        {
+            "text": "Introduction to Entity API in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/introduction-to-entity-api-in-drupal-8"
+        },
+        {
+            "text": "Entity types",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-types"
+        },
+        {
+            "text": "Working with the Entity API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/working-with-the-entity-api"
+        },
+        {
+            "text": "Bundles",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/bundles"
+        },
+        {
+            "text": "Configuration Entity",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/configuration-entity"
+        },
+        {
+            "text": "Content Entity",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/content-entity"
+        },
+        {
+            "text": "Creating a custom content entity",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/creating-a-custom-content-entity"
+        },
+        {
+            "text": "Creating a custom content type in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/creating-a-custom-content-type-in-drupal-8"
+        },
+        {
+            "text": "Programming custom fields into your content type",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/programming-custom-fields-into-your-content-type"
+        },
+        {
+            "text": "Using the UI to export the code for your custom fields",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/using-the-ui-to-export-the-code-for-your-custom-fields"
+        },
+        {
+            "text": "Entity API implements Typed Data API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-api-implements-typed-data-api"
+        },
+        {
+            "text": "Entity validation API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api"
+        },
+        {
+            "text": "Access on entities (TBD)",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/access-on-entities-tbd"
+        },
+        {
+            "text": "Defining and using Content Entity Field definitions",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/defining-and-using-content-entity-field-definitions"
+        },
+        {
+            "text": "Entity Translation API",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-translation-api"
+        },
+        {
+            "text": "Display Modes: View Modes and Form Modes",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/display-modes-view-modes-and-form-modes"
+        },
+        {
+            "text": "FieldTypes, FieldWidgets and FieldFormatters",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/fieldtypes-fieldwidgets-and-fieldformatters"
+        },
+        {
+            "text": "Dynamic/Virtual field values using computed field property classes",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/dynamicvirtual-field-values-using-computed-field-property-classes"
+        },
+        {
+            "text": "Handlers",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/handlers"
+        },
+        {
+            "text": "Making an entity revisionable",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/making-an-entity-revisionable"
+        },
+        {
+            "text": "Structure of an Entity annotation",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/structure-of-an-entity-annotation"
+        },
+        {
+            "text": "Creating a content entity type in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/creating-a-content-entity-type-in-drupal-8"
+        },
+        {
+            "text": "Converting a content entity type to be revisionable and publishable",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/converting-a-content-entity-type-to-be-revisionable-and-publishable"
+        },
+        {
+            "text": "Link Templates",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/link-templates"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api": [
+        {
+            "text": "Entity Validation API overview",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api/entity-validation-api-overview"
+        },
+        {
+            "text": "Defining Constraints (Validations) on Entities and/or Fields.",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api/defining-constraints-validations-on-entities-andor-fields"
+        },
+        {
+            "text": "Supported validation constraints [TBD]",
+            "href": "https://drupal.org/docs/drupal-apis/entity-api/entity-validation-api/supported-validation-constraints-tbd"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/form-api": [
+        {
+            "text": "Introduction to Form API",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/introduction-to-form-api"
+        },
+        {
+            "text": "ConfigFormBase with Simple Configuration API",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/configformbase-with-simple-configuration-api"
+        },
+        {
+            "text": "ConfirmFormBase To Confirm an Action",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/confirmformbase-to-confirm-an-action"
+        },
+        {
+            "text": "Form Render Elements",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/form-render-elements"
+        },
+        {
+            "text": "Conditional Form Fields",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/conditional-form-fields"
+        },
+        {
+            "text": "Form API Workflow",
+            "href": "https://drupal.org/docs/drupal-apis/form-api/form-api-workflow"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/layout-api": [
+        {
+            "text": "How to register layouts",
+            "href": "https://drupal.org/docs/drupal-apis/layout-api/how-to-register-layouts"
+        },
+        {
+            "text": "How to upgrade from Layout Plugin",
+            "href": "https://drupal.org/docs/drupal-apis/layout-api/how-to-upgrade-from-layout-plugin"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/menu-api": [
+        {
+            "text": "Providing module-defined menu links",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-menu-links"
+        },
+        {
+            "text": "Providing module-defined local tasks",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-local-tasks"
+        },
+        {
+            "text": "Providing module-defined local actions",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-local-actions"
+        },
+        {
+            "text": "Providing module-defined contextual links",
+            "href": "https://drupal.org/docs/drupal-apis/menu-api/providing-module-defined-contextual-links"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/migrate-api": [
+        {
+            "text": "Migrate API overview",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-api-overview"
+        },
+        {
+            "text": "Migrate destination plugins & examples",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples"
+        },
+        {
+            "text": "Executing migrations",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/executing-migrations"
+        },
+        {
+            "text": "Writing migrations for contributed and custom modules",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/writing-migrations-for-contributed-and-custom-modules"
+        },
+        {
+            "text": "Migration Tests",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migration-tests"
+        },
+        {
+            "text": "Generating database fixtures for migration tests",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/generating-database-fixtures-for-migration-tests"
+        },
+        {
+            "text": "Debugging migrations",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/debugging-migrations"
+        },
+        {
+            "text": "Migrate field plugins",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-field-plugins"
+        },
+        {
+            "text": "Process Pipelines",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/process-pipelines"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples": [
+        {
+            "text": "Migrating nodes",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-nodes"
+        },
+        {
+            "text": "Migrating taxonomy terms",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-taxonomy-terms"
+        },
+        {
+            "text": "Migrating users",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-users"
+        },
+        {
+            "text": "Migrating users - advanced password examples",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-users-advanced-password"
+        },
+        {
+            "text": "Migrating files and images with Migrate Files",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-files-and-images-with-migrate-files"
+        },
+        {
+            "text": "Migrating configuration",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-configuration"
+        },
+        {
+            "text": "Migrating Commerce 2 Product Variations",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-destination-plugins-examples/migrating-commerce-2-product-variations"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/migrate-api/migrate-field-plugins": [
+        {
+            "text": "Overview of migrate field plugins",
+            "href": "https://drupal.org/docs/drupal-apis/migrate-api/migrate-field-plugins/overview-of-migrate-field-plugins"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/plugin-api": [
+        {
+            "text": "Plugin API overview",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/plugin-api-overview"
+        },
+        {
+            "text": "Why Plugins?",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/why-plugins"
+        },
+        {
+            "text": "Attribute-based plugins",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/attribute-based-plugins"
+        },
+        {
+            "text": "Create a custom attribute class",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/create-a-custom-attribute-class"
+        },
+        {
+            "text": "Annotations-based plugins",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/annotations-based-plugins"
+        },
+        {
+            "text": "Creating your own Plugin Manager",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/creating-your-own-plugin-manager"
+        },
+        {
+            "text": "Drupal Plugin discovery",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/drupal-plugin-discovery"
+        },
+        {
+            "text": "Discovery Decorators",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/discovery-decorators"
+        },
+        {
+            "text": "Plugin Contexts",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/plugin-contexts"
+        },
+        {
+            "text": "Plugin Derivatives",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/plugin-derivatives"
+        },
+        {
+            "text": "Create your own custom annotation class",
+            "href": "https://drupal.org/docs/drupal-apis/plugin-api/create-your-own-custom-annotation-class"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/render-api": [
+        {
+            "text": "Cacheability of render arrays",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/cacheability-of-render-arrays"
+        },
+        {
+            "text": "Auto-placeholdering",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/auto-placeholdering"
+        },
+        {
+            "text": "Render arrays",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/render-arrays"
+        },
+        {
+            "text": "Render elements",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/render-elements"
+        },
+        {
+            "text": "The Drupal 8 render pipeline",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/the-drupal-8-render-pipeline"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/render-api/render-elements": [
+        {
+            "text": "What Are Render Elements?",
+            "href": "https://drupal.org/docs/drupal-apis/render-api/render-elements/what-are-render-elements"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/responses": [
+        {
+            "text": "Responses overview",
+            "href": "https://drupal.org/docs/drupal-apis/responses/responses-overview"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/routing-system": [
+        {
+            "text": "Routing system overview",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/routing-system-overview"
+        },
+        {
+            "text": "Introductory Drupal routes and controllers example",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/introductory-drupal-routes-and-controllers-example"
+        },
+        {
+            "text": "Structure of routes",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/structure-of-routes"
+        },
+        {
+            "text": "Altering existing routes and adding new routes based on dynamic ones",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/altering-existing-routes-and-adding-new-routes-based-on-dynamic-ones"
+        },
+        {
+            "text": "Providing dynamic routes",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/providing-dynamic-routes"
+        },
+        {
+            "text": "Underlying functionality of the routing system in Drupal",
+            "href": "https://drupal.org/docs/drupal-apis/routing-system/underlying-functionality-of-the-routing-system-in-drupal"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/serialization-api": [
+        {
+            "text": "Serialization API overview",
+            "href": "https://drupal.org/docs/drupal-apis/serialization-api/serialization-api-overview"
+        },
+        {
+            "text": "Adding new formats",
+            "href": "https://drupal.org/docs/drupal-apis/serialization-api/adding-new-formats"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/services-and-dependency-injection": [
+        {
+            "text": "Services and dependency injection in Drupal",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/services-and-dependency-injection-in-drupal"
+        },
+        {
+            "text": "Altering existing services, providing dynamic services",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/altering-existing-services-providing-dynamic-services"
+        },
+        {
+            "text": "Dependency Injection for a Form",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/dependency-injection-for-a-form"
+        },
+        {
+            "text": "Service Tags",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/service-tags"
+        },
+        {
+            "text": "Structure of a service file",
+            "href": "https://drupal.org/docs/drupal-apis/services-and-dependency-injection/structure-of-a-service-file"
+        }
+    ],
+    "https://drupal.org/docs/drupal-apis/update-api": [
+        {
+            "text": "Introduction to the Update API for Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/introduction-to-the-update-api-for-drupal-8"
+        },
+        {
+            "text": "Updating Configuration",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/updating-configuration"
+        },
+        {
+            "text": "Updating Database Schema and/or Data in Drupal",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/updating-database-schema-andor-data-in-drupal"
+        },
+        {
+            "text": "Updating Entities and Fields in Drupal 8",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/updating-entities-and-fields-in-drupal-8"
+        },
+        {
+            "text": "Writing Automated Update Tests for Drupal 8 (or later)",
+            "href": "https://drupal.org/docs/drupal-apis/update-api/writing-automated-update-tests-for-drupal-8-or-later"
+        }
+    ]
+}

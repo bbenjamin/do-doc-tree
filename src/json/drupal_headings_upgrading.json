@@ -1,0 +1,98 @@
+{
+    "https://www.drupal.org/docs/upgrading-drupal": [
+        {
+            "text": "Preparing your site to upgrade to a newer major version",
+            "href": "https://drupal.org/docs/upgrading-drupal/prepare-major-upgrade"
+        },
+        {
+            "text": "Upgrading from Drupal 8 (or later)",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-8-or-later"
+        },
+        {
+            "text": "Upgrading from Drupal 6 or Drupal 7",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7"
+        },
+        {
+            "text": "After the upgrade",
+            "href": "https://drupal.org/docs/upgrading-drupal/after-the-upgrade"
+        }
+    ],
+    "https://drupal.org/docs/upgrading-drupal/prepare-major-upgrade": [
+        {
+            "text": "Deprecation checking and correction tools to prepare for a new Drupal major version",
+            "href": "https://drupal.org/docs/upgrading-drupal/prepare-major-upgrade/deprecation-checking-and-correction-tools-to-prepare-for-a-new-drupal-major-version"
+        },
+        {
+            "text": "Preparing for use of Twig 2 in Drupal 9",
+            "href": "https://drupal.org/docs/upgrading-drupal/prepare-major-upgrade/preparing-for-use-of-twig-2-in-drupal-9"
+        }
+    ],
+    "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-8-or-later": [
+        {
+            "text": "How to upgrade from Drupal 10 to Drupal 11",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-8-or-later/how-to-upgrade-from-drupal-10-to-drupal-11"
+        },
+        {
+            "text": "How to upgrade from Drupal 9 to Drupal 10",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-8-or-later/how-to-upgrade-from-drupal-9-to-drupal-10"
+        },
+        {
+            "text": "How to upgrade from Drupal 8 to Drupal 9",
+            "href": "https://drupal.org/docs/upgrading-drupal/drupal-8-and-higher"
+        },
+        {
+            "text": "Migrating dependencies on Drupal core jQuery UI libraries",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-8-or-later/migrating-dependencies-on-drupal-core-jquery-ui-libraries"
+        }
+    ],
+    "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7": [
+        {
+            "text": "Learn key Drupal concepts prior to upgrading",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/learn-key-drupal-concepts-prior-to-upgrading"
+        },
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/overview"
+        },
+        {
+            "text": "Preparation",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/preparation"
+        },
+        {
+            "text": "Choosing the upgrade approach",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/choosing-the-upgrade-approach"
+        },
+        {
+            "text": "Upgrading multilingual Drupal 6",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/upgrading-multilingual-drupal-6"
+        },
+        {
+            "text": "Upgrading multilingual Drupal 7",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/upgrading-multilingual-drupal-7"
+        },
+        {
+            "text": "Drupal 10 (or later) migrate modules",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/drupal-10-or-later-migrate-modules"
+        },
+        {
+            "text": "Upgrade using web browser",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/upgrade-using-web-browser"
+        },
+        {
+            "text": "Upgrade using Drush",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/upgrade-using-drush"
+        },
+        {
+            "text": "Known issues when upgrading from Drupal 6 or 7",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/known-issues-when-upgrading-from-drupal-6-or-7"
+        },
+        {
+            "text": "Customize migrations",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/customize-migrations"
+        },
+        {
+            "text": "Contributing to Migrate",
+            "href": "https://drupal.org/docs/upgrading-drupal/upgrading-from-drupal-6-or-drupal-7/contributing-to-migrate"
+        }
+    ]
+}

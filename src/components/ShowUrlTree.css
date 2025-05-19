@@ -2,38 +2,38 @@
     font-family: system-ui, -apple-system, sans-serif;
     max-height: 80vh;
     overflow: auto;
-    padding: .25rem;
+    padding: 0 .25rem .25rem;
     border: 1px solid #ddd;
     border-radius: 4px;
     background-color: #f9f9f9;
     width: 100%;
     margin-block: 1rem;
   }
-  
+
   .tree-view {
     user-select: none;
   }
-  
+
   .tree-node {
     padding: 2px 0;
   }
-  
+
   .node-content {
     display: flex;
     align-items: center;
-    padding: 4px;
     border-radius: 3px;
     cursor: pointer;
+    font-size: 10px;
   }
-  
+
   .node-content:hover {
     background-color: #eaeaea;
   }
-  
+
   .node-content.selected {
     background-color: #e0e7ff;
   }
-  
+
   .toggle-icon {
     margin-right: 5px;
     font-size: 10px;
@@ -44,7 +44,7 @@
     justify-content: center;
     cursor: pointer;
   }
-  
+
   .node-label {
 
     padding-inline-end: 1rem;
@@ -52,13 +52,13 @@
     text-overflow: ellipsis;
     white-space: nowrap;
   }
-  
+
   .node-link {
     margin-left: 8px;
     font-size: 12px;
     text-decoration: none;
   }
-  
+
   .children-container {
     transition: max-height 0.3s ease-out;
   }

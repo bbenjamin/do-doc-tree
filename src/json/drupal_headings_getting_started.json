@@ -1,0 +1,2302 @@
+{
+    "https://drupal.org/docs/getting-started": [
+        {
+            "text": "System requirements",
+            "href": "https://drupal.org/docs/getting-started/system-requirements"
+        },
+        {
+            "text": "Installing Drupal",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal"
+        },
+        {
+            "text": "Accessibility",
+            "href": "https://drupal.org/docs/getting-started/accessibility"
+        },
+        {
+            "text": "Understanding Drupal",
+            "href": "https://drupal.org/docs/getting-started/understanding-drupal"
+        },
+        {
+            "text": "Umami: Drupal demonstration installation profile",
+            "href": "https://drupal.org/docs/getting-started/umami-drupal-demonstration-installation-profile"
+        },
+        {
+            "text": "Drupal distributions",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions"
+        },
+        {
+            "text": "Multisite Drupal",
+            "href": "https://drupal.org/docs/getting-started/multisite-drupal"
+        },
+        {
+            "text": "Sustainability",
+            "href": "https://drupal.org/docs/getting-started/sustainability"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/system-requirements": [
+        {
+            "text": "Overview",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/overview"
+        },
+        {
+            "text": "Web server requirements",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/web-server-requirements"
+        },
+        {
+            "text": "Database server requirements",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/database-server-requirements"
+        },
+        {
+            "text": "Memory requirements",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/memory-requirements"
+        },
+        {
+            "text": "Composer requirements",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/composer-requirements"
+        },
+        {
+            "text": "PHP requirements",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/php-requirements"
+        },
+        {
+            "text": "Browser requirements",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/browser-requirements"
+        },
+        {
+            "text": "Setting the MySQL transaction isolation level",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/setting-the-mysql-transaction-isolation-level"
+        },
+        {
+            "text": "OBSOLETE Limitations of 32-bit PHP (Pre PHP 8)",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/obsolete-limitations-of-32-bit-php-pre-php-8"
+        },
+        {
+            "text": "Relocated web root on shared hosting with symlink",
+            "href": "https://drupal.org/docs/getting-started/system-requirements/relocated-web-root-on-shared-hosting-with-symlink"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/installing-drupal": [
+        {
+            "text": "Before a Drupal installation",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/before-a-drupal-installation"
+        },
+        {
+            "text": "Install Drupal using DDEV for local development",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/install-drupal-using-ddev-for-local-development"
+        },
+        {
+            "text": "Get the code",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/get-the-code"
+        },
+        {
+            "text": "Install dependencies with Composer",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/install-dependencies-with-composer"
+        },
+        {
+            "text": "Create a database",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/create-a-database"
+        },
+        {
+            "text": "Run the installer",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/run-the-installer"
+        },
+        {
+            "text": "Check status and protect",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/check-status-and-protect"
+        },
+        {
+            "text": "Drupal Quick Start Command",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/drupal-quick-start-command"
+        },
+        {
+            "text": "Trusted Host settings",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/trusted-host-settings"
+        },
+        {
+            "text": "Using a load balancer or reverse proxy",
+            "href": "https://drupal.org/docs/getting-started/installing-drupal/using-a-load-balancer-or-reverse-proxy"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/accessibility": [
+        {
+            "text": "Contributed Modules for Extending Accessibility in Drupal",
+            "href": "https://drupal.org/docs/getting-started/accessibility/contributed-modules-for-extending-accessibility-in-drupal"
+        },
+        {
+            "text": "How to Ensure Your Contribution is Accessible",
+            "href": "https://drupal.org/docs/getting-started/accessibility/how-to-ensure-your-contribution-is-accessible"
+        },
+        {
+            "text": "How to do an accessibility review?",
+            "href": "https://drupal.org/docs/getting-started/accessibility/how-to-do-an-accessibility-review"
+        },
+        {
+            "text": "Drupal Accessibility (a11y) Office Hours",
+            "href": "https://drupal.org/docs/getting-started/accessibility/drupal-accessibility-a11y-office-hours"
+        },
+        {
+            "text": "Hide Content Properly",
+            "href": "https://drupal.org/docs/getting-started/accessibility/hide-content-properly"
+        },
+        {
+            "text": "Accessibility Conformance Report (ACR) Process",
+            "href": "https://drupal.org/docs/getting-started/accessibility/accessibility-conformance-report-acr-process"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/understanding-drupal": [
+        {
+            "text": "Overview of Drupal",
+            "href": "https://drupal.org/docs/getting-started/understanding-drupal/overview-of-drupal"
+        },
+        {
+            "text": "User Guide PDF and ePub downloads",
+            "href": "https://drupal.org/docs/getting-started/understanding-drupal/user-guide-pdf-and-epub-downloads"
+        },
+        {
+            "text": "Understanding Drupal version numbers",
+            "href": "https://drupal.org/docs/getting-started/understanding-drupal/understanding-drupal-version-numbers"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/understanding-drupal/understanding-drupal-version-numbers": [
+        {
+            "text": "When is the next release?",
+            "href": "https://drupal.org/docs/getting-started/understanding-drupal/understanding-drupal-version-numbers/when-is-the-next-release"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions": [
+        {
+            "text": "Open Social",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/open-social"
+        },
+        {
+            "text": "Distribution documentation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation"
+        },
+        {
+            "text": "Droopler",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/droopler"
+        },
+        {
+            "text": "GovCMS",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/govcms"
+        },
+        {
+            "text": "LocalGov Drupal",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/localgov-drupal"
+        },
+        {
+            "text": "Open Intranet",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/open-intranet"
+        },
+        {
+            "text": "Sector",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/sector"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation": [
+        {
+            "text": "Aegir hosting system",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system"
+        },
+        {
+            "text": "Campaignion",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/campaignion"
+        },
+        {
+            "text": "Cartaro",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro"
+        },
+        {
+            "text": "Commerce Kickstart",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/commerce-kickstart"
+        },
+        {
+            "text": "Commerce clone product variation documentation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/commerce-clone-product-variation-documentation"
+        },
+        {
+            "text": "Community Media",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media"
+        },
+        {
+            "text": "Demo Framework",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework"
+        },
+        {
+            "text": "DruStack",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drustack"
+        },
+        {
+            "text": "Drupal 8 DrupalCamp Organizing Distribution",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-8-drupalcamp-organizing-distribution"
+        },
+        {
+            "text": "Drupal voor Gemeenten",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten"
+        },
+        {
+            "text": "ERPAL",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/erpal"
+        },
+        {
+            "text": "Events",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/events"
+        },
+        {
+            "text": "Faktura - Manage customer accounts and write invoices",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/faktura-manage-customer-accounts-and-write-invoices"
+        },
+        {
+            "text": "Fuse Media",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/fuse-media"
+        },
+        {
+            "text": "Julio, a Distribution for Schools, School Districts, and University Departments",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments"
+        },
+        {
+            "text": "Lightning (7.x)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/lightning-7x"
+        },
+        {
+            "text": "Managing News",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news"
+        },
+        {
+            "text": "NodeStream Drupal platform distribution",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution"
+        },
+        {
+            "text": "Open Aid Map",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-aid-map"
+        },
+        {
+            "text": "Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium"
+        },
+        {
+            "text": "Open Outreach",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-outreach"
+        },
+        {
+            "text": "Open Parish",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-parish"
+        },
+        {
+            "text": "Open Restaurant",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-restaurant"
+        },
+        {
+            "text": "OpenAid",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid"
+        },
+        {
+            "text": "Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly"
+        },
+        {
+            "text": "Project Kickstart",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/project-kickstart"
+        },
+        {
+            "text": "Pushtape Music Distribution Documentation Handbook",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook"
+        },
+        {
+            "text": "Slovak Drupal Installation Profile",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/slovak-drupal-installation-profile"
+        },
+        {
+            "text": "Spark",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/spark"
+        },
+        {
+            "text": "Spectacle",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/spectacle"
+        },
+        {
+            "text": "Totem",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/totem"
+        },
+        {
+            "text": "Training",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/training"
+        },
+        {
+            "text": "Transcribr Distribution",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/transcribr-distribution"
+        },
+        {
+            "text": "Varbase",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/varbase"
+        },
+        {
+            "text": "govCMS",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/govcms"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system": [
+        {
+            "text": "Barracuda and Octopus: Aegir and Drupal distributions installers (BOA)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/barracuda-and-octopus-aegir-and-drupal-distributions-installers-boa"
+        },
+        {
+            "text": "DevShop Documentation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/devshop-documentation"
+        },
+        {
+            "text": "Hosting backup garbage collection",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/hosting-backup-garbage-collection"
+        },
+        {
+            "text": "Koumbit Platforms (kplatforms) project",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/barracuda-and-octopus-aegir-and-drupal-distributions-installers-boa": [
+        {
+            "text": "Barracuda",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/barracuda-and-octopus-aegir-and-drupal-distributions-installers-boa/barracuda"
+        },
+        {
+            "text": "Details description of installing Barracuda Octopus",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/barracuda-and-octopus-aegir-and-drupal-distributions-installers-boa/details-description-of-installing"
+        },
+        {
+            "text": "Octopus",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/barracuda-and-octopus-aegir-and-drupal-distributions-installers-boa/octopus"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/devshop-documentation": [
+        {
+            "text": "DevShop Modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/devshop-documentation/devshop-modules"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project": [
+        {
+            "text": "Creating platforms with the script 'kplatforms.sh'",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/creating-platforms-with-the-script-kplatformssh"
+        },
+        {
+            "text": "Creating platforms with the stub makefiles",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/creating-platforms-with-the-stub-makefiles"
+        },
+        {
+            "text": "Debugging platform creation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/debugging-platform-creation"
+        },
+        {
+            "text": "How we maintain the makefiles",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/how-we-maintain-the-makefiles"
+        },
+        {
+            "text": "Inclusions and distributions",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/inclusions-and-distributions"
+        },
+        {
+            "text": "Installation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/installation"
+        },
+        {
+            "text": "Monitoring your platform with a sentinel",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/monitoring-your-platform-with-a-sentinel"
+        },
+        {
+            "text": "Obsolete",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/obsolete"
+        },
+        {
+            "text": "Obsolete",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/obsolete-0"
+        },
+        {
+            "text": "Requirements",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/requirements"
+        },
+        {
+            "text": "Staying informed about updates",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/staying-informed-about-updates"
+        },
+        {
+            "text": "Updating your websites",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/updating-your-websites"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/creating-platforms-with-the-stub-makefiles": [
+        {
+            "text": "Using remote vs. local stub makefiles",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/aegir-hosting-system/koumbit-platforms-kplatforms-project/creating-platforms-with-the-stub-makefiles/using-remote-vs-local-stub"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/campaignion": [
+        {
+            "text": "Get started with email marketing & newsletters in Campaignion",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/campaignion/get-started-with-email-marketing-newsletters-in-campaignion"
+        },
+        {
+            "text": "Setting up payment methods",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/campaignion/setting-up-payment-methods"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro": [
+        {
+            "text": "Displaying maps within other content",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/displaying-maps-within-other-content"
+        },
+        {
+            "text": "Getting Started",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/getting-started"
+        },
+        {
+            "text": "How to protect your data",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/how-to-protect-your-data"
+        },
+        {
+            "text": "Installation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/installation"
+        },
+        {
+            "text": "Print Geospatial Data",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/print-geospatial-data"
+        },
+        {
+            "text": "Provide Geo Web Services",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/provide-geo-web-services"
+        },
+        {
+            "text": "Store Geospatial Data",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/store-geospatial-data"
+        },
+        {
+            "text": "Using Drupal users and roles in GeoServer",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/using-drupal-users-and-roles-in-geoserver"
+        },
+        {
+            "text": "Using the Docker Container",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/using-the-docker-container"
+        },
+        {
+            "text": "Visualize Geospatial Data",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/cartaro/visualize-geospatial-data"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/commerce-kickstart": [
+        {
+            "text": "Commerce Kickstart Hosting",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/commerce-kickstart/commerce-kickstart-hosting"
+        },
+        {
+            "text": "How to use Gerrit for Commerce Kickstart Patches",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/commerce-kickstart/how-to-use-gerrit-for-commerce-kickstart-patches"
+        },
+        {
+            "text": "Installing Commerce Kickstart",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/commerce-kickstart/installing-commerce-kickstart"
+        },
+        {
+            "text": "Theming Tips",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/commerce-kickstart/theming-tips"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media": [
+        {
+            "text": "Difficult Starter Kit (DSK)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk"
+        },
+        {
+            "text": "Easy Starter Kit (ESK)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk"
+        },
+        {
+            "text": "Getting Involved - Commitment to Contribute",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute"
+        },
+        {
+            "text": "Installing, Updating, and Upgrading the ESK or MSK on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon"
+        },
+        {
+            "text": "Installing, Updating, and Upgrading the ESK, MSK, or DSK on Your Own Host or Server",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server"
+        },
+        {
+            "text": "Moderate Starter Kit (MSK)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk": [
+        {
+            "text": "Configuring Media Derivatives API on OSX with MAMP and ffmpegX",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/configuring-media-derivatives-api-on-osx-with-mamp-and-ffmpegx"
+        },
+        {
+            "text": "Customizing the Admin Toolbar",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/customizing-the-admin-toolbar"
+        },
+        {
+            "text": "Enabling Large File Uploads",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/enabling-large-file-uploads"
+        },
+        {
+            "text": "Managing Your Own Infrastucture",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/managing-your-own-infrastucture"
+        },
+        {
+            "text": "Meeting Agendas and Chapters",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/meeting-agendas-and-chapters"
+        },
+        {
+            "text": "Moving from Features to a \"Real\" Modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/moving-from-features-to-a-real-modules"
+        },
+        {
+            "text": "Playback Server Integration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration"
+        },
+        {
+            "text": "Reservations",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations"
+        },
+        {
+            "text": "Scheduling a Playback Server from Drupal",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/scheduling-a-playback-server-from-drupal"
+        },
+        {
+            "text": "Sub Sites - when www isn't enough",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/sub-sites-when-www-isnt-enough"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/enabling-large-file-uploads": [
+        {
+            "text": "Aspera Connect",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/enabling-large-file-uploads/aspera-connect"
+        },
+        {
+            "text": "JUpload Install and Workflows",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/enabling-large-file-uploads/jupload-install-and-workflows"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/managing-your-own-infrastucture": [
+        {
+            "text": "Sample script for backup and sync of live/production and staging or dev site",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/managing-your-own-infrastucture/sample-script-for-backup-and-sync-of-liveproduction-and"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/meeting-agendas-and-chapters": [
+        {
+            "text": "Community Media Agenda",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/meeting-agendas-and-chapters/community-media-agenda"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/meeting-agendas-and-chapters/community-media-agenda": [
+        {
+            "text": "Live Meeting Workflow",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/meeting-agendas-and-chapters/community-media-agenda/live-meeting-workflow"
+        },
+        {
+            "text": "Working with Mediafront: Popcorn Player",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/meeting-agendas-and-chapters/community-media-agenda/working-with-mediafront-popcorn"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration": [
+        {
+            "text": "Cablecast Integration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/cablecast-integration"
+        },
+        {
+            "text": "Telvue Integration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration": [
+        {
+            "text": "Code Snippets for Customizing Telvue Integration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration/code-snippets-for-customizing-telvue"
+        },
+        {
+            "text": "Creating Telvue Fields on the Show Content Type",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration/creating-telvue-fields-on-the-show-content"
+        },
+        {
+            "text": "Pushing to Telvue with Views Bulk Operation (VBO)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration/pushing-to-telvue-with-views-bulk"
+        },
+        {
+            "text": "Telvue Block configuration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration/telvue-block-configuration"
+        },
+        {
+            "text": "Using Naming Patterns",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration/using-naming-patterns"
+        },
+        {
+            "text": "channelAustin Workflow - Telvue and Cloudcast Modules with EditShare",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/playback-server-integration/telvue-integration/channelaustin-workflow-telvue-and"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations": [
+        {
+            "text": "Reservations: Add or Alter Functionality with Additional Modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-add-or-alter-functionality-with-additional-modules"
+        },
+        {
+            "text": "Reservations: CM Project Integration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-cm-project-integration"
+        },
+        {
+            "text": "Reservations: CiviCRM Integration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-civicrm-integration"
+        },
+        {
+            "text": "Reservations: Configuration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-configuration"
+        },
+        {
+            "text": "Reservations: Features & Requirements",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-features-requirements"
+        },
+        {
+            "text": "Reservations: FullCalendar",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-fullcalendar"
+        },
+        {
+            "text": "Reservations: Inventory Organization",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-inventory-organization"
+        },
+        {
+            "text": "Reservations: Permissions",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-permissions"
+        },
+        {
+            "text": "Reservations: Screencasts",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-screencasts"
+        },
+        {
+            "text": "Reservations: Staff",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-staff"
+        },
+        {
+            "text": "Reservations: Use & Administration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-use-administration"
+        },
+        {
+            "text": "Troubleshooting",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/troubleshooting"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-add-or-alter-functionality-with-additional-modules": [
+        {
+            "text": "Reservations Auto Checkin/out",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-add-or-alter-functionality-with-additional-modules/reservations"
+        },
+        {
+            "text": "Reservations Preset End",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-add-or-alter-functionality-with-additional-modules-0"
+        },
+        {
+            "text": "Reservations: Advanced Inventory UI",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/reservations/reservations-add-or-alter-functionality-with-additional-modules-1"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/scheduling-a-playback-server-from-drupal": [
+        {
+            "text": "Scheduling a Playlist",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/scheduling-a-playback-server-from-drupal/scheduling-a-playlist"
+        },
+        {
+            "text": "Using the Airing Grid Scheduler in Fill Mode",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/scheduling-a-playback-server-from-drupal/using-the-airing-grid-scheduler-in-fill-mode"
+        },
+        {
+            "text": "Using the Airing Grid Scheduler in Schedule Fill/Special Mode",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/scheduling-a-playback-server-from-drupal/using-the-airing-grid-scheduler-in-schedule"
+        },
+        {
+            "text": "Using the Airing Grid Scheduler in Series Mode",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/scheduling-a-playback-server-from-drupal/using-the-airing-grid-scheduler-in-series-mode"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/sub-sites-when-www-isnt-enough": [
+        {
+            "text": "Creating Subsite in the Main Site using Domain Access",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/sub-sites-when-www-isnt-enough/creating-subsite-in-the-main-site-using-domain-access"
+        },
+        {
+            "text": "Sharing Users and Content with Bakery and Sharedblocks",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/difficult-starter-kit-dsk/sub-sites-when-www-isnt-enough/sharing-users-and-content-with-bakery-and-sharedblocks"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk": [
+        {
+            "text": "Before You Get Started - SAVE YOURSELF TIME, READ THIS FIRST",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first"
+        },
+        {
+            "text": "Community Media Show",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/community-media-show"
+        },
+        {
+            "text": "Community Media Starters - Preconfigured Modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/community-media-starters-preconfigured-modules"
+        },
+        {
+            "text": "Crew Connect - DEPRICATED",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/crew-connect-depricated"
+        },
+        {
+            "text": "Customizing the Forms for Staff and Producers",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-forms-for-staff-and-producers"
+        },
+        {
+            "text": "Customizing the Look of Your Site",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site"
+        },
+        {
+            "text": "Importing Airings, Events, and Videos from RSS Feeds",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds"
+        },
+        {
+            "text": "Managing Backups",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-backups"
+        },
+        {
+            "text": "Managing Users - Who can log into to the site and what can they do?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-users-who-can-log-into-to-the-site-and-what-can-they-do"
+        },
+        {
+            "text": "Preventing Spam",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/preventing-spam"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first": [
+        {
+            "text": "Adding Your First Page",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first/adding-your-first-page"
+        },
+        {
+            "text": "Content Type vs. WebForm",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first/content-type-vs-webform"
+        },
+        {
+            "text": "Key Terms from the Drupal Glossary",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first/key-terms-from-the-drupal-glossary"
+        },
+        {
+            "text": "Understanding the difference between Drupal core, Contrib, and Community Media",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first/understanding-the-difference-between"
+        },
+        {
+            "text": "Updating Site's Logo",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first/updating-sites-logo"
+        },
+        {
+            "text": "Using the Community Media Checklist",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/before-you-get-started-save-yourself-time-read-this-first/using-the-community-media-checklist"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/community-media-show": [
+        {
+            "text": "Community Media Show VOD",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/community-media-show/community-media-show-vod"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/community-media-starters-preconfigured-modules": [
+        {
+            "text": "Pathauto",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/community-media-starters-preconfigured-modules/pathauto"
+        },
+        {
+            "text": "Wysiwyg",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/community-media-starters-preconfigured-modules/wysiwyg"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-forms-for-staff-and-producers": [
+        {
+            "text": "Creative Commons",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-forms-for-staff-and-producers/creative-commons"
+        },
+        {
+            "text": "PBCore",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-forms-for-staff-and-producers/pbcore"
+        },
+        {
+            "text": "Webform",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-forms-for-staff-and-producers/webform"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site": [
+        {
+            "text": "CSS Injector Snippets",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/css-injector-snippets"
+        },
+        {
+            "text": "Changing a Site's Colors",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/changing-a-sites-colors"
+        },
+        {
+            "text": "Community Media Header",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/community-media-header"
+        },
+        {
+            "text": "Community Media Slideshow",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/community-media-slideshow"
+        },
+        {
+            "text": "Community Media Theme 1.x (based on Omega)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/community-media-theme-1x-based-on-omega"
+        },
+        {
+            "text": "Community Media Theme 2.x (based on Zen)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/community-media-theme-2x-based-on-zen"
+        },
+        {
+            "text": "Customizing Fonts with @font-your-face Module",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/customizing-fonts-with-font-your-face-module"
+        },
+        {
+            "text": "Replace Starter Kit Logo with Your Logo",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/customizing-the-look-of-your-site/replace-starter-kit-logo-with-your-logo"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds": [
+        {
+            "text": "Automating VOD Creation - Slightly Less Easy",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/automating-vod-creation-slightly-less-easy"
+        },
+        {
+            "text": "Configuring and Mapping a Video Feed",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/configuring-and-mapping-a-video-feed"
+        },
+        {
+            "text": "Displaying a Schedule using Airings",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/displaying-a-schedule-using-airings"
+        },
+        {
+            "text": "Importing Calendars",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/importing-calendars"
+        },
+        {
+            "text": "Troubleshooting",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/troubleshooting"
+        },
+        {
+            "text": "Working with Media RSS",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/working-with-media-rss"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/automating-vod-creation-slightly-less-easy": [
+        {
+            "text": "Cloudcast Integration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/automating-vod-creation-slightly-less-0"
+        },
+        {
+            "text": "Video on Demand (Feeds)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/automating-vod-creation-slightly-less-1"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/displaying-a-schedule-using-airings": [
+        {
+            "text": "Import a Schedule from a TelVue Server",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/displaying-a-schedule-using-airings/import"
+        },
+        {
+            "text": "Import a Schedule from a Tightrope Server",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/displaying-a-schedule-using-airings-0"
+        },
+        {
+            "text": "Project Airings and Show Airings",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/importing-airings-events-and-videos-from-rss-feeds/displaying-a-schedule-using-airings/project"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-backups": [
+        {
+            "text": "Managing Backups on Pantheon Hosting",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-backups/managing-backups-on-pantheon-hosting"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-users-who-can-log-into-to-the-site-and-what-can-they-do": [
+        {
+            "text": "Community Media Profile",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-users-who-can-log-into-to-the-site-and-what-can-they-do/community-media-profile"
+        },
+        {
+            "text": "Legal",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-users-who-can-log-into-to-the-site-and-what-can-they-do/legal"
+        },
+        {
+            "text": "Using Recaptcha and Badbot to block SPAM",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/managing-users-who-can-log-into-to-the-site-and-what-can-they-do/using-recaptcha-and-badbot-to"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/preventing-spam": [
+        {
+            "text": "Deleting Spam User Accounts",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/easy-starter-kit-esk/preventing-spam/deleting-spam-user-accounts"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute": [
+        {
+            "text": "Advanced Drupal.org Issue Queues",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/advanced-drupalorg-issue-queues"
+        },
+        {
+            "text": "Connecting with Other Community Media Users",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/connecting-with-other-community-media-users"
+        },
+        {
+            "text": "Guide to Co-maintaining Modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/guide-to-co-maintaining-modules"
+        },
+        {
+            "text": "MOU-DSK: Collaboration at the Difficult Starter Kit Level",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/mou-dsk-collaboration-at-the-difficult-starter-kit-level"
+        },
+        {
+            "text": "Security Updates to Drupal, Modules, and CiviCRM",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/security-updates-to-drupal-modules-and-civicrm"
+        },
+        {
+            "text": "Specific Ways You Can Contribute",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/specific-ways-you-can-contribute"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/guide-to-co-maintaining-modules": [
+        {
+            "text": "Creating a Test Site on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/guide-to-co-maintaining-modules/creating-a-test-site-on-pantheon"
+        },
+        {
+            "text": "Creating a Test Site on Ubuntu",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/guide-to-co-maintaining-modules/creating-a-test-site-on-ubuntu"
+        },
+        {
+            "text": "How to Package the DSK for Release",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/getting-involved-commitment-to-contribute/guide-to-co-maintaining-modules/how-to-package-the-dsk-for-release"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon": [
+        {
+            "text": "Applying Updates to the ESK and MSK on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/applying-updates-to-the-esk-and-msk-on-pantheon"
+        },
+        {
+            "text": "CiviCRM on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/civicrm-on-pantheon"
+        },
+        {
+            "text": "Improving Performance on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/improving-performance-on-pantheon"
+        },
+        {
+            "text": "Software that Makes it Easier to Manage Your Site on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/software-that-makes-it-easier-to-manage-your-site-on"
+        },
+        {
+            "text": "Understanding Pantheon Error Messages",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/understanding-pantheon-error-messages"
+        },
+        {
+            "text": "Working with Version Control",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/working-with-version-control"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/software-that-makes-it-easier-to-manage-your-site-on": [
+        {
+            "text": "Updating civicrm.settings.php file on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/software-that-makes-it-easier-to-manage-your-site-on-0"
+        },
+        {
+            "text": "Using CSS Injector on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/software-that-makes-it-easier-to-manage-your-site-on-1"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/working-with-version-control": [
+        {
+            "text": "Pantheon - Rolling Back Changes",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/working-with-version-control/pantheon-rolling-back"
+        },
+        {
+            "text": "Resolving Merge Conflicts",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-or-msk-on-pantheon/working-with-version-control/resolving-merge-conflicts"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server": [
+        {
+            "text": "Command Line Tips for Starter Kits",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/command-line-tips-for-starter-kits"
+        },
+        {
+            "text": "Converting an Existing Site to Use an Install Profile",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/converting-an-existing-site-to-use"
+        },
+        {
+            "text": "Getting Started - Installation Options for the Starter Kits",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/getting-started-installation"
+        },
+        {
+            "text": "Hosting Options",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/hosting-options"
+        },
+        {
+            "text": "Overriding and Removing Overridden Modules included in a Distribution",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/overriding-and-removing-overridden"
+        },
+        {
+            "text": "Resolving Errors in Updating Kits & Overriding Modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/resolving-errors-in-updating-kits"
+        },
+        {
+            "text": "Updating Modules or an Entire Community Media Starter Kit",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/updating-modules-or-an-entire"
+        },
+        {
+            "text": "Upgrading CiviCRM on Community Media Starterkits",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/installing-updating-and-upgrading-the-esk-msk-or-dsk-on-your-own-host-or-server/upgrading-civicrm-on-community"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk": [
+        {
+            "text": "Advanced User Management",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/advanced-user-management"
+        },
+        {
+            "text": "CiviCRM",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm"
+        },
+        {
+            "text": "Community Media Project Module",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/community-media-project-module"
+        },
+        {
+            "text": "Customizing the Admin Toolbar (CiviCRM)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/customizing-the-admin-toolbar-civicrm"
+        },
+        {
+            "text": "Managing Changes",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/managing-changes"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm": [
+        {
+            "text": "CiviCRM Certify",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civicrm-certify"
+        },
+        {
+            "text": "CiviCRM Event Auto Pass",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civicrm-event-auto-pass"
+        },
+        {
+            "text": "CiviCRM Multiday Event",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civicrm-multiday-event"
+        },
+        {
+            "text": "CiviCRM Prerequisite Check",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civicrm-prerequisite-check"
+        },
+        {
+            "text": "CiviCRM User Reference",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civicrm-user-reference"
+        },
+        {
+            "text": "CiviMail",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civimail"
+        },
+        {
+            "text": "Dealing with Spam Contacts",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/dealing-with-spam-contacts"
+        },
+        {
+            "text": "Schedule Jobs",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/schedule-jobs"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civicrm-multiday-event": [
+        {
+            "text": "CiviCRM Multiday Event Type and Accordion View",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civicrm-multiday-event/civicrm-multiday-event-type-and-accordion-view"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civimail": [
+        {
+            "text": "Avoid ending up in a contact's SPAM folder",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/civicrm/civimail/avoid-ending-up-in-a-contacts-spam-folder"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/community-media-project-module": [
+        {
+            "text": "Synchronizing Fields Between Project and Show",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/community-media-project-module/synchronizing-fields-between-project-and-show"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/managing-changes": [
+        {
+            "text": "Enabling a Community Media Theme WITHOUT Making It the Default for All Users",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/managing-changes/enabling-a-community-media-theme-without-making-it-the-default-for-all"
+        },
+        {
+            "text": "Managing Customizations in Features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/managing-changes/managing-customizations-in-features"
+        },
+        {
+            "text": "Using Profile Status Check to Manage Overrides",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/community-media/moderate-starter-kit-msk/managing-changes/using-profile-status-check-to-manage-overrides"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework": [
+        {
+            "text": "Demo Framework 7.x distro modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-7x-distro-modules"
+        },
+        {
+            "text": "Demo Framework Installation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation"
+        },
+        {
+            "text": "Extending Demo Framework",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/extending-demo-framework"
+        },
+        {
+            "text": "Using Demo Framework Scenarios",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/using-demo-framework-scenarios"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation": [
+        {
+            "text": "Demo Framework build.sh usage",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation/demo-framework-buildsh-usage"
+        },
+        {
+            "text": "Demo Framework with Acquia Dev Desktop",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation/demo-framework-with-acquia-dev-desktop"
+        },
+        {
+            "text": "Demo Framework with Apache Ant",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation/demo-framework-with-apache-ant"
+        },
+        {
+            "text": "Demo Framework with Vagrant",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation/demo-framework-with-vagrant"
+        },
+        {
+            "text": "PHP Defaults required for Demo Framework",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation/php-defaults-required-for-demo-framework"
+        },
+        {
+            "text": "Using dice.sh to automate DF builds",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/demo-framework-installation/using-dicesh-to-automate-df-builds"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/extending-demo-framework": [
+        {
+            "text": "Scenario Feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/extending-demo-framework/scenario-feature"
+        },
+        {
+            "text": "Scenario data import",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/extending-demo-framework/scenario-data-import"
+        },
+        {
+            "text": "Theme and other design assets",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/demo-framework/extending-demo-framework/theme-and-other-design-assets"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drustack": [
+        {
+            "text": "Media Guide",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drustack/media-guide"
+        },
+        {
+            "text": "Multilingual Guide",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drustack/multilingual-guide"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drustack/multilingual-guide": [
+        {
+            "text": "Multilingual Guide in Drupal 8",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drustack/multilingual-guide/multilingual-guide-in-drupal-8"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten": [
+        {
+            "text": "Configuration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration"
+        },
+        {
+            "text": "Developing on DVG",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/developing-on-dvg"
+        },
+        {
+            "text": "Installation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/installation"
+        },
+        {
+            "text": "Requirements",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/requirements"
+        },
+        {
+            "text": "Updating DvG",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/updating-dvg"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration": [
+        {
+            "text": "Content type \"Plan\"",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration/content-type-plan"
+        },
+        {
+            "text": "DigiD / SimpleSAMLphp configuration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration/digid-simplesamlphp-configuration"
+        },
+        {
+            "text": "Menus",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration/menus"
+        },
+        {
+            "text": "OWMS taxonomies and Samenwerkende Catalogi XML feed",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration/owms-taxonomies-and-samenwerkende-catalogi-xml-feed"
+        },
+        {
+            "text": "Ogone payment configuration",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration/ogone-payment-configuration"
+        },
+        {
+            "text": "settings.php",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/drupal-voor-gemeenten/configuration/settingsphp"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/events": [
+        {
+            "text": "Installing Events",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/events/installing-events"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/faktura-manage-customer-accounts-and-write-invoices": [
+        {
+            "text": "Difference between \"invoices\" and \"scheduled invoices\"",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/faktura-manage-customer-accounts-and-write-invoices/difference-between-invoices-and-scheduled-invoices"
+        },
+        {
+            "text": "Installation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/faktura-manage-customer-accounts-and-write-invoices/installation"
+        },
+        {
+            "text": "ODT template variables",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/faktura-manage-customer-accounts-and-write-invoices/odt-template-variables"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments": [
+        {
+            "text": "Creating Image Galleries in Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/creating-image-galleries-in-julio"
+        },
+        {
+            "text": "Creating and Managing User Groups in Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/creating-and-managing-user-groups-in-julio"
+        },
+        {
+            "text": "Creating, Promoting and Managing Content in Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/creating-promoting-and-managing-content-in-julio"
+        },
+        {
+            "text": "Customizing the Appearance of Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/customizing-the-appearance-of-julio"
+        },
+        {
+            "text": "Customizing the Home Page of Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/customizing-the-home-page-of-julio"
+        },
+        {
+            "text": "Editing User Group and Site Navigation Menus in Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/editing-user-group-and-site-navigation-menus-in-julio"
+        },
+        {
+            "text": "Enabling and Disabling Feature Sets in Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/enabling-and-disabling-feature-sets-in-julio"
+        },
+        {
+            "text": "Installing Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/installing-julio"
+        },
+        {
+            "text": "Managing Users, Roles, Group Membership, and Directory Pages",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/managing-users-roles-group-membership-and-directory"
+        },
+        {
+            "text": "Using the Administrator Dashboard in Julio",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/using-the-administrator-dashboard-in-julio"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/creating-promoting-and-managing-content-in-julio": [
+        {
+            "text": "Using Advanced Page Options",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/creating-promoting-and-managing-content-in-julio/using"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/managing-users-roles-group-membership-and-directory": [
+        {
+            "text": "Site information and Currently loggedin users.",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/julio-a-distribution-for-schools-school-districts-and-university-departments/managing-users-roles-group-membership-and-directory-0"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news": [
+        {
+            "text": "Basic Usage",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage"
+        },
+        {
+            "text": "Customization and Development",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development"
+        },
+        {
+            "text": "Getting Started",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started"
+        },
+        {
+            "text": "Installation, Hosting and Upgrading",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/installation-hosting-and-upgrading"
+        },
+        {
+            "text": "Support",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/support"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage": [
+        {
+            "text": "Adding and Modifying Feeds",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage/adding-and-modifying-feeds"
+        },
+        {
+            "text": "Broadcasting News with Channels",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage/broadcasting-news-with-channels"
+        },
+        {
+            "text": "Configure the \"About\" Page",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage/configure-the-about-page"
+        },
+        {
+            "text": "Configure the Dashboard",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage/configure-the-dashboard"
+        },
+        {
+            "text": "How to Use Web Widgets",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage/how-to-use-web-widgets"
+        },
+        {
+            "text": "Search and Saved Searches",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage/search-and-saved-searches"
+        },
+        {
+            "text": "Share News Via E-mail or Social Networks",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/basic-usage/share-news-via-e-mail-or-social-networks"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development": [
+        {
+            "text": "Build Managing News for Development",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development/build-managing-news-for-development"
+        },
+        {
+            "text": "Customizing",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development/customizing"
+        },
+        {
+            "text": "Customizing Maps",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development/customizing-maps"
+        },
+        {
+            "text": "Data Architecture Overview",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development/data-architecture-overview"
+        },
+        {
+            "text": "How to Contribute Code",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development/how-to-contribute-code"
+        },
+        {
+            "text": "Implement New Features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/customization-and-development/implement-new-features"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started": [
+        {
+            "text": "Case Studies",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/case-studies"
+        },
+        {
+            "text": "Feature Overview",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/feature-overview"
+        },
+        {
+            "text": "Quick Start Guide",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/quick-start-guide"
+        },
+        {
+            "text": "What is Managing News",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/what-is-managing-news"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/case-studies": [
+        {
+            "text": "Press Clipping Tool",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/case-studies/press-clipping-tool"
+        },
+        {
+            "text": "Public Facing Site",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/case-studies/public-facing-site"
+        },
+        {
+            "text": "Starting Point for Custom Applications (Afghanistan Election Site)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/case-studies/starting-point-for-custom-applications-afghanistan-election-site"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/case-studies/press-clipping-tool": [
+        {
+            "text": "MultiLink - documentation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/getting-started/case-studies/press-clipping-tool/multilink-documentation"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/installation-hosting-and-upgrading": [
+        {
+            "text": "Hosting Requirements and Suggestions",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/installation-hosting-and-upgrading/hosting-requirements-and-suggestions"
+        },
+        {
+            "text": "How to Install",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/installation-hosting-and-upgrading/how-to-install"
+        },
+        {
+            "text": "How to Upgrade",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/installation-hosting-and-upgrading/how-to-upgrade"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/support": [
+        {
+            "text": "FAQ",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/support/faq"
+        },
+        {
+            "text": "Glossary",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/support/glossary"
+        },
+        {
+            "text": "Where to Report Issues",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/managing-news/support/where-to-report-issues"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution": [
+        {
+            "text": "NodeStream 1 (Drupal 6)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-1-drupal-6"
+        },
+        {
+            "text": "NodeStream 2 (Drupal 7)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7"
+        },
+        {
+            "text": "NodeStream 2 beta 3 release notes",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-beta-3-release-notes"
+        },
+        {
+            "text": "NodeStream Features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-features"
+        },
+        {
+            "text": "NodeStream for writers/editors: welcome!",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome"
+        },
+        {
+            "text": "Technical documentation for NodeStream",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/technical-documentation-for-nodestream"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-1-drupal-6": [
+        {
+            "text": "Future plans",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-1-drupal-6/future-plans"
+        },
+        {
+            "text": "Modules and the make file",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-1-drupal-6/modules-and-the-make-file"
+        },
+        {
+            "text": "Some comments on the information architecture",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-1-drupal-6/some-comments-on-the-information-architecture"
+        },
+        {
+            "text": "Synchronization with editorial systems",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-1-drupal-6/synchronization-with-editorial-systems"
+        },
+        {
+            "text": "The topics and topic editors",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-1-drupal-6/the-topics-and-topic-editors"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7": [
+        {
+            "text": "NodeStream development tools",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-development-tools"
+        },
+        {
+            "text": "NodeStream site building guide",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide": [
+        {
+            "text": "Building NodeStream features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/building-nodestream-features"
+        },
+        {
+            "text": "Configuration management",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/configuration-management"
+        },
+        {
+            "text": "Project structure",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/project-structure"
+        },
+        {
+            "text": "Site-building strategies",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/site-building-strategies"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/building-nodestream-features": [
+        {
+            "text": "Replacing the default NodeStream layouts with your own",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/building-nodestream-features/replacing"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/configuration-management": [
+        {
+            "text": "Setting up a profile",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/configuration-management/setting-up-a"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/project-structure": [
+        {
+            "text": "Advanced project structure",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/project-structure/advanced-project"
+        },
+        {
+            "text": "Simple project structure",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/project-structure/simple-project"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/site-building-strategies": [
+        {
+            "text": "Build everything yourself",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/site-building-strategies/build"
+        },
+        {
+            "text": "Content provider features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/site-building-strategies/content"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/site-building-strategies/content": [
+        {
+            "text": "Changing, adding and removing fields",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-2-drupal-7/nodestream-site-building-guide/site-building-strategies/content-0"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome": [
+        {
+            "text": "Feature overview",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview"
+        },
+        {
+            "text": "General content management in NodeStream",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/general-content-management-in-nodestream"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview": [
+        {
+            "text": "Features used during site development only",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/features-used-during-site"
+        },
+        {
+            "text": "Spotlight: The Growth of Video Production Industry in Odisha",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/spotlight-the-growth-of-video"
+        },
+        {
+            "text": "The Article and Blog comment features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-article-and-blog-comment"
+        },
+        {
+            "text": "The Article feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-article-feature"
+        },
+        {
+            "text": "The Contributor feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-contributor-feature"
+        },
+        {
+            "text": "The Image feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-image-feature"
+        },
+        {
+            "text": "The Internationalization feature (for NodeStream)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-internationalization-feature-for"
+        },
+        {
+            "text": "The Page feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-page-feature"
+        },
+        {
+            "text": "The Promo feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-promo-feature"
+        },
+        {
+            "text": "The attachment features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-attachment-features"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-promo-feature": [
+        {
+            "text": "Changing the promo content and creating new promos",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-promo-feature/changing-the-0"
+        },
+        {
+            "text": "Changing the promo layout \u2013 the style",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-promo-feature/changing-the-promo"
+        },
+        {
+            "text": "Front page, navigation and creating new topics",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-promo-feature/front-page"
+        },
+        {
+            "text": "Promo groups",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-promo-feature/promo-groups"
+        },
+        {
+            "text": "Rearranging the topic lists \u2013 the topic editor",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-promo-feature/rearranging-the"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-attachment-features": [
+        {
+            "text": "The Fact feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-attachment-features/the-fact"
+        },
+        {
+            "text": "The Form feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-attachment-features/the-form"
+        },
+        {
+            "text": "The Location feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-attachment-features/the-location"
+        },
+        {
+            "text": "The Poll feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-attachment-features/the-poll"
+        },
+        {
+            "text": "The Video feature",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/feature-overview/the-attachment-features/the-video"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/general-content-management-in-nodestream": [
+        {
+            "text": "The NodeStream section in the administration menu",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/general-content-management-in-nodestream/the"
+        },
+        {
+            "text": "Tools for managing related content",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/nodestream-drupal-platform-distribution/nodestream-for-writerseditors-welcome/general-content-management-in-nodestream/tools-for"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-aid-map": [
+        {
+            "text": "Administrative Boundary Hierarchy",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-aid-map/administrative-boundary-hierarchy"
+        },
+        {
+            "text": "Translating OpenAidMap",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-aid-map/translating-openaidmap"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium": [
+        {
+            "text": "Customizing Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium"
+        },
+        {
+            "text": "Installing or Updating Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium"
+        },
+        {
+            "text": "List of Sites using Open Atrium 2",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/list-of-sites-using-open-atrium-2"
+        },
+        {
+            "text": "Open Atrium Permissions",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/open-atrium-permissions"
+        },
+        {
+            "text": "Webinars summaries",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/webinars-summaries"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium": [
+        {
+            "text": "How to add taxonomy (tagging) to content in Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/how-to-add-taxonomy-tagging-to-content-in-open-atrium"
+        },
+        {
+            "text": "How to create a subtheme for Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/how-to-create-a-subtheme-for-open-atrium"
+        },
+        {
+            "text": "How to remove or change the default OA branding",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/how-to-remove-or-change-the-default-oa-branding"
+        },
+        {
+            "text": "How to set up OA Domains",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/how-to-set-up-oa-domains"
+        },
+        {
+            "text": "Managing configuration changes",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/managing-configuration-changes"
+        },
+        {
+            "text": "Messages, Notifications & Subscriptions",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/messages-notifications-subscriptions"
+        },
+        {
+            "text": "Optimizing cache for Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/optimizing-cache-for-open-atrium"
+        },
+        {
+            "text": "i18n localization procedure for OA",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/customizing-open-atrium/i18n-localization-procedure-for-oa"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium": [
+        {
+            "text": "First time installation of Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/first-time-installation-of-open-atrium"
+        },
+        {
+            "text": "Getting the Open Atrium files",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/getting-the-open-atrium-files"
+        },
+        {
+            "text": "System Requirements for installing Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/system-requirements-for-installing-open-atrium"
+        },
+        {
+            "text": "Troubleshooting Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/troubleshooting-open-atrium"
+        },
+        {
+            "text": "Updating Open Atrium",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/updating-open-atrium"
+        },
+        {
+            "text": "Using the new theme in Atrium 2.60",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/using-the-new-theme-in-atrium-260"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/system-requirements-for-installing-open-atrium": [
+        {
+            "text": "Installing under Aegir",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/system-requirements-for-installing-open-atrium/installing-under-aegir"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/troubleshooting-open-atrium": [
+        {
+            "text": "Display issues with Internet Explorer Browsers IE6 - IE9",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/installing-or-updating-open-atrium/troubleshooting-open-atrium/display-issues-with-internet-explorer-browsers-ie6-ie9"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/open-atrium-permissions": [
+        {
+            "text": "Use case: Public space, public section and write permission via group membership",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/open-atrium-permissions/use-case-public-space-public-section-and-write-permission-via-group-membership"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/webinars-summaries": [
+        {
+            "text": "Access control and Data Privacy",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/webinars-summaries/access-control-and-data-privacy"
+        },
+        {
+            "text": "Best Practices For Updating Your Open Atrium Site",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/webinars-summaries/best-practices-for-updating-your-open-atrium-site"
+        },
+        {
+            "text": "Open Atrium 2.1x, Latest Features! - Dec 11th, 2013",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/webinars-summaries/open-atrium-21x-latest-features-dec-11th-2013"
+        },
+        {
+            "text": "Open Atrium Beta Preview - July 13th, 2013",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/webinars-summaries/open-atrium-beta-preview-july-13th-2013"
+        },
+        {
+            "text": "The New Open Atrium User Experience - Sept 25th, 2014",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-atrium/webinars-summaries/the-new-open-atrium-user-experience-sept-25th-2014"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-restaurant": [
+        {
+            "text": "How to update Open Restaurant",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-restaurant/how-to-update-open-restaurant"
+        },
+        {
+            "text": "Video Guides",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/open-restaurant/video-guides"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid": [
+        {
+            "text": "Configuring OpenAid",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid"
+        },
+        {
+            "text": "Contributing to OpenAid",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/contributing-to-openaid"
+        },
+        {
+            "text": "Installing OpenAid",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/installing-openaid"
+        },
+        {
+            "text": "Theming OpenAid",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/theming-openaid"
+        },
+        {
+            "text": "Updating OpenAid",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/updating-openaid"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid": [
+        {
+            "text": "Atom About",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/atom-about"
+        },
+        {
+            "text": "Atom Blog",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/atom-blog"
+        },
+        {
+            "text": "Atom Marquee",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/atom-marquee"
+        },
+        {
+            "text": "Atom Person",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/atom-person"
+        },
+        {
+            "text": "OpenAid Captcha/Honeypot",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/openaid-captchahoneypot"
+        },
+        {
+            "text": "OpenAid Contact",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/openaid-contact"
+        },
+        {
+            "text": "OpenAid Hero",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/openaid-hero"
+        },
+        {
+            "text": "OpenAid Project",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/openaid-project"
+        },
+        {
+            "text": "Working with Embedded Media",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/configuring-openaid/working-with-embedded-media"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/contributing-to-openaid": [
+        {
+            "text": "OpenAid Feature Modules Becoming Atom Modules",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/openaid/contributing-to-openaid/openaid-feature-modules-becoming-atom-modules"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly": [
+        {
+            "text": "About Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly"
+        },
+        {
+            "text": "Apps, modules and themes built for Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/apps-modules-and-themes-built-for-panopoly"
+        },
+        {
+            "text": "Contributing to Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/contributing-to-panopoly"
+        },
+        {
+            "text": "Developing Distributions with Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-distributions-with-panopoly"
+        },
+        {
+            "text": "Developing Sites with Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly"
+        },
+        {
+            "text": "Installing Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/installing-panopoly"
+        },
+        {
+            "text": "Panopoly FAQ",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq"
+        },
+        {
+            "text": "Panopoly Settings",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-settings"
+        },
+        {
+            "text": "Updating Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/updating-panopoly"
+        },
+        {
+            "text": "Using sites built on Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly"
+        },
+        {
+            "text": "Video tutorials on Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/video-tutorials-on-panopoly"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly": [
+        {
+            "text": "Apps, Modules, Themes and Libraries in Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly/apps-modules-themes-and-libraries-in-panopoly"
+        },
+        {
+            "text": "Distributions and sites using Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly/distributions-and-sites-using-panopoly"
+        },
+        {
+            "text": "Panopoly Feature List",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly/panopoly-feature-list"
+        },
+        {
+            "text": "Panopoly Screenshots",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly/panopoly-screenshots"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly/panopoly-screenshots": [
+        {
+            "text": "Panopoly News Screenshots",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/about-panopoly/panopoly-screenshots/panopoly-news-screenshots"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/contributing-to-panopoly": [
+        {
+            "text": "Panopoly maintainer documentation",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/contributing-to-panopoly/panopoly-maintainer-documentation"
+        },
+        {
+            "text": "Running Panopoly's Behat tests locally (and adding your own!)",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/contributing-to-panopoly/running-panopolys-behat-tests-locally-and-adding-your-own"
+        },
+        {
+            "text": "Running Panopoly's Behat tests on Travis-CI",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/contributing-to-panopoly/running-panopolys-behat-tests-on-travis-ci"
+        },
+        {
+            "text": "Using the Panopoly \"Sprint Kit\"",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/contributing-to-panopoly/using-the-panopoly-sprint-kit"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-distributions-with-panopoly": [
+        {
+            "text": "Panopoly Base Distribution Starter Kit",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-distributions-with-panopoly/panopoly-base-distribution-starter-kit"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly": [
+        {
+            "text": "ADVANCED: Developing Panopoly Apps",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-developing-panopoly-apps"
+        },
+        {
+            "text": "ADVANCED: Theming Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-theming-panopoly"
+        },
+        {
+            "text": "Creating a Basic Content Plugin",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/creating-a-basic-content-plugin"
+        },
+        {
+            "text": "Creating a Basic Style Plugin",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/creating-a-basic-style-plugin"
+        },
+        {
+            "text": "Creating a Basic Views Plugin",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/creating-a-basic-views-plugin"
+        },
+        {
+            "text": "Getting Started with Panopoly Development",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/getting-started-with-panopoly-development"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-developing-panopoly-apps": [
+        {
+            "text": "Step 1: Build Content Types and Entities",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-developing-panopoly-apps/step-1-build-content-types-and-entities"
+        },
+        {
+            "text": "Step 2: Build Content Panes with Views",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-developing-panopoly-apps/step-2-build-content-panes-with-views"
+        },
+        {
+            "text": "Step 3: Summon the Power of Panels",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-developing-panopoly-apps/step-3-summon-the-power-of-panels"
+        },
+        {
+            "text": "Step 4: Export With Features",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-developing-panopoly-apps/step-4-export-with-features"
+        },
+        {
+            "text": "Step 5: Integrate with Apps",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/developing-sites-with-panopoly/advanced-developing-panopoly-apps/step-5-integrate-with-apps"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/installing-panopoly": [
+        {
+            "text": "Adding Panopoly to an Existing Site",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/installing-panopoly/adding-panopoly-to-an-existing-site"
+        },
+        {
+            "text": "Installing Panopoly on Pantheon",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/installing-panopoly/installing-panopoly-on-pantheon"
+        },
+        {
+            "text": "Installing Panopoly on Your Own Server",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/installing-panopoly/installing-panopoly-on-your-own-server"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq": [
+        {
+            "text": "Can I Use Panopoly on Aegir?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/can-i-use-panopoly-on-aegir"
+        },
+        {
+            "text": "How Do I Remove the Demo Content From Panopoly?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/how-do-i-remove-the-demo-content-from-panopoly"
+        },
+        {
+            "text": "How Do I Run the Dev Version of Panopoly?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/how-do-i-run-the-dev-version-of-panopoly"
+        },
+        {
+            "text": "How do I enable Solr search?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/how-do-i-enable-solr-search"
+        },
+        {
+            "text": "How do I get help with Panopoly?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/how-do-i-get-help-with-panopoly"
+        },
+        {
+            "text": "What Are the Panopoly Modules and What Do They Do?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/what-are-the-panopoly-modules-and-what-do-they-do"
+        },
+        {
+            "text": "What Do All the Icons Do When I Click Custom Page?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/what-do-all-the-icons-do-when-i-click-custom-page"
+        },
+        {
+            "text": "What Modules, Themes, and Libraries Does Panopoly Use?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/what-modules-themes-and-libraries-does-panopoly-use"
+        },
+        {
+            "text": "What is the difference between a \u201cLanding Page\u201d and a \u201cContent Page\u201d?",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/panopoly-faq/what-is-the-difference-between-a-landing-page-and-a-content-page"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly": [
+        {
+            "text": "Change Page Layouts",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/change-page-layouts"
+        },
+        {
+            "text": "Configure Panels",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/configure-panels"
+        },
+        {
+            "text": "Content Panes Explained",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained"
+        },
+        {
+            "text": "Video tutorials on Panopoly",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/video-tutorials-on-panopoly"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained": [
+        {
+            "text": "\"Add File\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-file-panel-option"
+        },
+        {
+            "text": "\"Add Image\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-image-panel-option"
+        },
+        {
+            "text": "\"Add Links\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-links-panel-option"
+        },
+        {
+            "text": "\"Add Map\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-map-panel-option"
+        },
+        {
+            "text": "\"Add Spotlight\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-spotlight-panel-option"
+        },
+        {
+            "text": "\"Add Submenu\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-submenu-panel-option"
+        },
+        {
+            "text": "\"Add Table\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-table-panel-option"
+        },
+        {
+            "text": "\"Add Text\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-text-panel-option"
+        },
+        {
+            "text": "\"Add Video\" panel option",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/panopoly/using-sites-built-on-panopoly/content-panes-explained/add-video-panel-option"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/project-kickstart": [
+        {
+            "text": "Libraries / Modules / Themes Included in 7.x",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/project-kickstart/libraries-modules-themes-included-in-7x"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook": [
+        {
+            "text": "About Pushtape",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/about-pushtape"
+        },
+        {
+            "text": "Configuring Pushtape",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/configuring-pushtape"
+        },
+        {
+            "text": "Get Involved",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/get-involved"
+        },
+        {
+            "text": "Installing Pushtape",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/installing-pushtape"
+        },
+        {
+            "text": "Known Issues",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/known-issues"
+        },
+        {
+            "text": "Project History",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/project-history"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/configuring-pushtape": [
+        {
+            "text": "Configuration recipes!",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/configuring-pushtape/configuration-recipes"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/configuring-pushtape/configuration-recipes": [
+        {
+            "text": "Adding additional Media to Tracks and displaying in Albums.",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/pushtape-music-distribution-documentation-handbook/configuring-pushtape/configuration-recipes/adding-additional-media-to-tracks-and"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/spark": [
+        {
+            "text": "Building Spark from Drush Make yourself",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/spark/building-spark-from-drush-make-yourself"
+        },
+        {
+            "text": "Installing Spark with Acquia Dev Desktop",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/spark/installing-spark-with-acquia-dev-desktop"
+        },
+        {
+            "text": "Spark testing instructions",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/spark/spark-testing-instructions"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/transcribr-distribution": [
+        {
+            "text": "Transcription Admin Guide",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/transcribr-distribution/transcription-admin-guide"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/varbase": [
+        {
+            "text": "Building Varbase 8.x-4.x with the composer",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/varbase/building-varbase-8x-4x-with-the-composer"
+        },
+        {
+            "text": "Installing Varbase 7.x-3.x",
+            "href": "https://drupal.org/docs/getting-started/drupal-distributions/distribution-documentation/varbase/installing-varbase-7x-3x"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/multisite-drupal": [
+        {
+            "text": "Set up a multisite",
+            "href": "https://drupal.org/docs/getting-started/multisite-drupal/set-up-a-multisite"
+        },
+        {
+            "text": "Multisite folder structure in Drupal",
+            "href": "https://drupal.org/docs/getting-started/multisite-drupal/multisite-folder-structure-in-drupal"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/sustainability": [
+        {
+            "text": "Contributing to Sustainability in Drupal",
+            "href": "https://drupal.org/docs/getting-started/sustainability/contributing-to-sustainability-in-drupal"
+        },
+        {
+            "text": "Getting Started with Sustainability",
+            "href": "https://drupal.org/docs/getting-started/sustainability/getting-started-with-sustainability"
+        },
+        {
+            "text": "Module & Theme Considerations",
+            "href": "https://drupal.org/docs/getting-started/sustainability/module-theme-considerations"
+        },
+        {
+            "text": "Quantifying Emissions",
+            "href": "https://drupal.org/docs/getting-started/sustainability/quantifying-emissions"
+        },
+        {
+            "text": "Sustainable contribution",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution": [
+        {
+            "text": "Drupal Forge",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge"
+        }
+    ],
+    "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge": [
+        {
+            "text": "Drupal Forge user guide",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge/drupal-forge-user-guide"
+        },
+        {
+            "text": "Drupal Forge volunteer guide",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge/drupal-forge-volunteer-guide"
+        },
+        {
+            "text": "Drupal Forge partner guide",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge/drupal-forge-partner-guide"
+        },
+        {
+            "text": "Drupal Forge sponsor guide",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge/drupal-forge-sponsor-guide"
+        },
+        {
+            "text": "Drupal Forge governance",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge/drupal-forge-governance"
+        },
+        {
+            "text": "Drupal Forge road map",
+            "href": "https://drupal.org/docs/getting-started/sustainability/sustainable-contribution/drupal-forge/drupal-forge-road-map"
+        }
+    ]
+}
