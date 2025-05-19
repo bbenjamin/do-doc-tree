@@ -13,7 +13,10 @@ import apis from './json/drupal_headings_apis.json';
 import curated from './json/drupal_curated_guides_docs_tree.json'
 import user_guide from './json/drupal_headings_user_guide.json'
 import string_user_guide from './json/user_guide.js'
+import contributor_reference from './json/drupal_headings_contributor_reference.json'
 import './App.css'
+
+console.log('confre', contributor_reference)
 
 import ShowUrlTree from './components/ShowUrlTree'
 
@@ -101,7 +104,11 @@ function headHunt(json) {
     structured[theUrl].children = kids
   })
 
-  const arranged = buildHierarchy(structured).filter(item => item.url.split('/').length < 6);
+  let filterCount = 6;
+  if (json['https://drupal.org/community/contributor-guide/reference-information']) {
+    filterCount = 12
+  }
+  const arranged = buildHierarchy(structured).filter(item => item.url.split('/').length < filterCount);
   if (structured['https://drupal.org/docs/user_guide/en/appendix.html']) {
 
   }
@@ -114,6 +121,7 @@ function App() {
   return (
     <>
       <h1>Drupal Docs Overhead View /docs</h1>
+      <b>All hierarchies below stop at 8 levels of depth</b>
       <h2>Main Docs Page</h2>
       <ShowUrlTree tree={headHunt(started)} title='Getting Started' names={urlToLinkName(started)}/>
       <ShowUrlTree tree={headHunt(administering)} title='Administering Drupal' names={urlToLinkName(administering)}/>
@@ -159,6 +167,9 @@ function App() {
         </details>
 
       </div>
+      <h1>Other areas</h1>
+      <h2>Contributor Guide</h2>
+      <ShowUrlTree tree={headHunt(contributor_reference)} title='Contributor Reference' names={urlToLinkName(contributor_reference)}/>
 
     </>
   )

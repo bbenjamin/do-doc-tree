@@ -1,0 +1,746 @@
+{
+    "https://drupal.org/community/contributor-guide/reference-information": [
+        {
+            "text": "Quick information for new contributors",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info"
+        },
+        {
+            "text": "Talking with the community",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk"
+        },
+        {
+            "text": "User interface translation on localize.drupal.org",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org"
+        },
+        {
+            "text": "Google Summer of Code",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code"
+        },
+        {
+            "text": "Planning Drupal events",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan"
+        },
+        {
+            "text": "Guidelines for the Contributor Guide",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/guidelines-contributor-guide"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/quick-info": [
+        {
+            "text": "Getting started contributing",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/getting-started-contributing"
+        },
+        {
+            "text": "Find an event to attend",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/find-an-event-to-attend"
+        },
+        {
+            "text": "Life cycle of an issue",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/life-cycle-of-an-issue"
+        },
+        {
+            "text": "Finding an issue to work on",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/finding-an-issue-to-work-on"
+        },
+        {
+            "text": "Find the issues for a project",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/find-the-issues-for-a-project"
+        },
+        {
+            "text": "Creating or updating an issue report",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/creating-or-updating-an-issue-report"
+        },
+        {
+            "text": "Figuring out what Drupal core code to patch",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/figuring-out-what-drupal-core-code-to-patch"
+        },
+        {
+            "text": "Get help completing your contributor task",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/get-help-completing-your-contributor-task"
+        },
+        {
+            "text": "Common Prerequisites for Contributors",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/common-prerequisites-for-contributors"
+        },
+        {
+            "text": "Setting up an environment to test merge requests",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/setting-up-an-environment-to-test-merge-requests"
+        },
+        {
+            "text": "Tips for contributing code to Drupal Core",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/tips-for-contributing-code-to-drupal-core"
+        },
+        {
+            "text": "Tips for providing support",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/tips-for-providing-support"
+        },
+        {
+            "text": "Tips for contributing to documentation",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/tips-for-contributing-to-documentation"
+        },
+        {
+            "text": "Convincing Senior Management to Give Back to Drupal",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/quick-info/convincing-senior-management-to-give"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/talk": [
+        {
+            "text": "Communication etiquette and guidelines",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/communication-etiquette-and-guidelines"
+        },
+        {
+            "text": "Communication tools and platforms",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/talk/communication-etiquette-and-guidelines": [
+        {
+            "text": "Getting answers to your questions",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/communication-etiquette-and-guidelines-0"
+        },
+        {
+            "text": "Real-time chat etiquette",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/communication-etiquette-and-guidelines/real"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/talk/tools": [
+        {
+            "text": "Slack",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/slack"
+        },
+        {
+            "text": "DrupalChat (Rocketchat)",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/drupalchat-rocketchat"
+        },
+        {
+            "text": "Language-specific communities",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/language-specific-communities"
+        },
+        {
+            "text": "Groups on groups.drupal.org",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/groups-on-groupsdrupalorg"
+        },
+        {
+            "text": "Support channels",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/support-channels"
+        },
+        {
+            "text": "IRC (historical)",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/irc-historical"
+        },
+        {
+            "text": "Blogs",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/blogs"
+        },
+        {
+            "text": "Mastodon/Fediverse",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/mastodonfediverse"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/talk/tools/groups-on-groupsdrupalorg": [
+        {
+            "text": "Overview of groups.drupal.org",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/groups-on-groupsdrupalorg/overview-of"
+        },
+        {
+            "text": "Managing a group",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/groups-on-groupsdrupalorg/managing-a"
+        },
+        {
+            "text": "Adding taxonomy to your group",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/groups-on-groupsdrupalorg/adding"
+        },
+        {
+            "text": "Custom pages for your group",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/talk/tools/groups-on-groupsdrupalorg/custom-pages"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org": [
+        {
+            "text": "Overview of localize.drupal.org",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/overview-of-localizedrupalorg"
+        },
+        {
+            "text": "Translation guidelines for user interface text",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/translation-guidelines-for-user-interface-text"
+        },
+        {
+            "text": "Working with offline translation files",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/working-with-offline"
+        },
+        {
+            "text": "Localize.drupal.org administrator guide",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/localizedrupalorg"
+        },
+        {
+            "text": "Taking over abandoned translation groups",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/taking-over-abandoned"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/working-with-offline": [
+        {
+            "text": "PO and POT files",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/working-with-offline/po-and-pot-files"
+        },
+        {
+            "text": "Editors for PO files",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/working-with-offline/editors-for-po-files"
+        },
+        {
+            "text": "PO/POT file operations",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/working-with-offline/popot-file-operations"
+        },
+        {
+            "text": "Downloading and uploading translation files",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/localize-drupal-org/working-with-offline/downloading-and-uploading-translation-files"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code": [
+        {
+            "text": "For GSoC students: where to start",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/for-gsoc-students-where-to-start"
+        },
+        {
+            "text": "How to write a GSoC proposal",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/how-to-write-a-gsoc-proposal"
+        },
+        {
+            "text": "GSoC proposal template",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/gsoc-proposal-template"
+        },
+        {
+            "text": "General requirements for all GSoC projects",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/general-requirements-for-all"
+        },
+        {
+            "text": "History of Google Summer of Code",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/history-of-google-summer-of-code"
+        },
+        {
+            "text": "Google Summer of Code Archive",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive": [
+        {
+            "text": "Google Summer of Code 2007",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007"
+        },
+        {
+            "text": "Google Summer of Code 2008",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008"
+        },
+        {
+            "text": "Google Summer of Code 2009",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2009"
+        },
+        {
+            "text": "Google Summer of Code 2010",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2010"
+        },
+        {
+            "text": "Google Summer of Code 2011",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2011"
+        },
+        {
+            "text": "Google Summer of Code 2012",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2012"
+        },
+        {
+            "text": "Google Summer of Code 2014",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2014"
+        },
+        {
+            "text": "Google Summer of Code 2015",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2015"
+        },
+        {
+            "text": "Google Summer of Code 2016",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2016"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007": [
+        {
+            "text": "Proposal ideas (proposals that need work)",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work"
+        },
+        {
+            "text": "Proposed Projects",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work": [
+        {
+            "text": "Ajax Everywhere",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/ajax-everywhere"
+        },
+        {
+            "text": "Ajax form validating",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/ajax-form-validating"
+        },
+        {
+            "text": "An idea to help with detection of module incompatibility issues",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/an-idea-to-help-with-detection"
+        },
+        {
+            "text": "Autocomplete/Discover Internal Links to Select List When Adding Content",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/autocompletediscover-internal"
+        },
+        {
+            "text": "Data Base design and SQL generation tool",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/data-base-design-and-sql"
+        },
+        {
+            "text": "Ecommerce Ajax",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/ecommerce-ajax"
+        },
+        {
+            "text": "New Forum Module",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/new-forum-module"
+        },
+        {
+            "text": "Prediction markets",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/prediction-markets"
+        },
+        {
+            "text": "Remote module installer",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/remote-module-installer"
+        },
+        {
+            "text": "Suggestions for Drupal core (from Dries)",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/suggestions-for-drupal-core"
+        },
+        {
+            "text": "User Interface - Personal Pages",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposal-ideas-proposals-that-need-work/user-interface-personal-pages"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects": [
+        {
+            "text": "Better translation support for Drupal contributions",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/better-translation-support-for-drupal-contributions"
+        },
+        {
+            "text": "BitTorrent Tracker and maybe a torrent client, too",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/bittorrent-tracker-and-maybe-a-torrent-client-too"
+        },
+        {
+            "text": "Collaborative Content Translation Interface",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/collaborative-content-translation-interface"
+        },
+        {
+            "text": "Core hierarchical page structuring module",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/core-hierarchical-page-structuring-module"
+        },
+        {
+            "text": "Create project quality metrics system",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/create-project-quality-metrics-system"
+        },
+        {
+            "text": "Design a New Core Theme",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/design-a-new-core-theme"
+        },
+        {
+            "text": "Distributed downloads",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/distributed-downloads"
+        },
+        {
+            "text": "Drawing SVG",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/drawing-svg"
+        },
+        {
+            "text": "Drupal Audio Toolkit",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/drupal-audio-toolkit"
+        },
+        {
+            "text": "Google API Integration",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/google-api-integration"
+        },
+        {
+            "text": "Jabber notification subscriptions",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/jabber-notification-subscriptions"
+        },
+        {
+            "text": "New CCK field types",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/new-cck-field-types"
+        },
+        {
+            "text": "Remote Friends",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/remote-friends"
+        },
+        {
+            "text": "Replace Distributed Authentication System",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/replace-distributed-authentication-system"
+        },
+        {
+            "text": "Streamlined Installation Procedure",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/streamlined-installation-procedure"
+        },
+        {
+            "text": "Testing framework",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/testing-framework"
+        },
+        {
+            "text": "Unified Document Management",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/unified-document-management"
+        },
+        {
+            "text": "Wizard",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/wizard"
+        },
+        {
+            "text": "eBay integration",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2007/proposed-projects/ebay-integration"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008": [
+        {
+            "text": "Google Summer of Code 2008 Ideas List",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list": [
+        {
+            "text": "Alternative Currency Support",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/alternative-currency-support"
+        },
+        {
+            "text": "Chart style plug-ins for Views module",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/chart-style-plug-ins-for-views"
+        },
+        {
+            "text": "Create a \"Drupal pipes\" module",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/create-a-drupal-pipes-module"
+        },
+        {
+            "text": "Develop an automated JavaScript testing framework",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/develop-an-automated-javascript"
+        },
+        {
+            "text": "Encrypted RSS/Atom Feeds",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/encrypted-rssatom-feeds"
+        },
+        {
+            "text": "Global News Content Module - Stories, Photos, Quotes, Connections",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/global-news-content-module"
+        },
+        {
+            "text": "Google Contacts API integration",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/google-contacts-api-integration"
+        },
+        {
+            "text": "Handle node revisions through the Version Control API",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/handle-node-revisions-through-the"
+        },
+        {
+            "text": "Icon Module",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/icon-module"
+        },
+        {
+            "text": "Improve Date/Calendar modules",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/improve-datecalendar-modules"
+        },
+        {
+            "text": "Improve Drupal's Help System",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/improve-drupals-help-system"
+        },
+        {
+            "text": "Integrate CiteProc into Biblio",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/integrate-citeproc-into-biblio"
+        },
+        {
+            "text": "Integrate Drupal with YouTube API",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/integrate-drupal-with-youtube-api"
+        },
+        {
+            "text": "Integration with Magento eCommerce Platform",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/integration-with-magento"
+        },
+        {
+            "text": "Last.fm API integration",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/lastfm-api-integration"
+        },
+        {
+            "text": "MS Word Import module",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/ms-word-import-module"
+        },
+        {
+            "text": "Module/Theme Download Mechanism",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/moduletheme-download-mechanism"
+        },
+        {
+            "text": "More usable form elements",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/more-usable-form-elements"
+        },
+        {
+            "text": "NITF/Atom/NewsML extensions for FeedAPI",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/nitfatomnewsml-extensions-for"
+        },
+        {
+            "text": "Performance Profiling System",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/performance-profiling-system"
+        },
+        {
+            "text": "Security scanner component for SimpleTest module",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/security-scanner-component-for"
+        },
+        {
+            "text": "Subgroups for Organic Groups Rewrite",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/subgroups-for-organic-groups"
+        },
+        {
+            "text": "Theme upload system for Drupal.org",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/theme-upload-system-for-drupalorg"
+        },
+        {
+            "text": "Ubercart Bells & Whistles",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/ubercart-bells-whistles"
+        },
+        {
+            "text": "Usability Test Suite",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/usability-test-suite"
+        },
+        {
+            "text": "Validation API Module for JS/PHP",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/validation-api-module-for-jsphp"
+        },
+        {
+            "text": "Views as Web Widget",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2008/google-summer-of-code-2008-ideas-list/views-as-web-widget"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2009": [
+        {
+            "text": "Google Summer of Code 2009 Ideas List",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2009/google-summer-of-code-2009-ideas-list"
+        },
+        {
+            "text": "Introducing Drupal's Google Summer of Code Students and Projects",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2009/introducing-drupals-google-summer-of-code-students-and-projects"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2010": [
+        {
+            "text": "Google Summer of Code 2010 Ideas List",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/google-summer-of-code/google-summer-of-code-archive/google-summer-of-code-2010/google-summer-of-code-2010-ideas-list"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/event-plan": [
+        {
+            "text": "Types of Events",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/types-of-events"
+        },
+        {
+            "text": "Organizing a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp"
+        },
+        {
+            "text": "Organizing contribution events",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution"
+        },
+        {
+            "text": "Organizing meetups",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/organizing-meetups"
+        },
+        {
+            "text": "Drupal event accessibility playbook",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupal-event-accessibility-playbook"
+        },
+        {
+            "text": "Organizing a Drupal training",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/organizing-a-drupal-training"
+        },
+        {
+            "text": "Planning for Specific Drupal Events",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/planning-for-specific-drupal-events"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp": [
+        {
+            "text": "Structure and types of DrupalCamps",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/structure-and-types-of"
+        },
+        {
+            "text": "Steps for organizing an in-person DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/steps-for-organizing-an-in"
+        },
+        {
+            "text": "Steps for organizing an online DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/steps-for-organizing-an"
+        },
+        {
+            "text": "Determining the target size for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/determining-the-target-size"
+        },
+        {
+            "text": "Finding a venue for an in-person DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/finding-a-venue-for-an-in"
+        },
+        {
+            "text": "Setting the date for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/setting-the-date-for-a"
+        },
+        {
+            "text": "Organizing the volunteers for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/organizing-the-volunteers"
+        },
+        {
+            "text": "Tools for organizing a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/tools-for-organizing-a-drupalcamp"
+        },
+        {
+            "text": "Designing the program for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/designing-the-program-for-a"
+        },
+        {
+            "text": "Organize social activities for an in-person DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/organize-social-activities"
+        },
+        {
+            "text": "Finances, budgeting, and entrance fees for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/finances-budgeting-and-entrance-fees-for-a-drupalcamp"
+        },
+        {
+            "text": "Finding sponsors for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/finding-sponsors-for-a"
+        },
+        {
+            "text": "Recruiting speakers for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/recruiting-speakers-for-a"
+        },
+        {
+            "text": "Publicizing a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/publicizing-a-drupalcamp"
+        },
+        {
+            "text": "Setting up registration for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/setting-up-registration-for"
+        },
+        {
+            "text": "Code of Conduct for DrupalCamps",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/code-of-conduct-for"
+        },
+        {
+            "text": "Arranging for food and drinks for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/arranging-for-food-and-drinks-for-a-drupalcamp"
+        },
+        {
+            "text": "Swag and giveaways for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/swag-and-giveaways-for-a"
+        },
+        {
+            "text": "Signage for an in-person DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/signage-for-an-in-person"
+        },
+        {
+            "text": "Equipment and materials for an in-person DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/equipment-and-materials-for"
+        },
+        {
+            "text": "At the end of a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/at-the-end-of-a-drupalcamp"
+        },
+        {
+            "text": "Case studies of DrupalCamps",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/case-studies-of-drupalcamps"
+        },
+        {
+            "text": "Creating a Community Project and Giving Attributions",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/creating-a-community-project"
+        },
+        {
+            "text": "Sample speaker agreement and session guidelines for a DrupalCamp",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/drupalcamp/sample-speaker-agreement-and"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution": [
+        {
+            "text": "General considerations for contribution events",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/general-considerations-for"
+        },
+        {
+            "text": "Organizer checklist",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/organizer-checklist"
+        },
+        {
+            "text": "Mentoring suggestions",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/mentoring-suggestions"
+        },
+        {
+            "text": "Setting up for new contributors",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/setting-up-for-new"
+        },
+        {
+            "text": "Supplies for large contribution events",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/supplies-for-large-contribution-events"
+        },
+        {
+            "text": "Contribution event participant agenda",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/contribution-event"
+        },
+        {
+            "text": "Agenda for a design-focused contribution event",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/agenda-for-a-design"
+        },
+        {
+            "text": "Agenda for a documentation event",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/agenda-for-a-documentation"
+        },
+        {
+            "text": "Agenda for a patch review event",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/contribution/agenda-for-a-patch-review"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/event-plan/organizing-a-drupal-training": [
+        {
+            "text": "Steps for organizing a training",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/organizing-a-drupal-training/steps-for"
+        },
+        {
+            "text": "Size and format options for training events",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/organizing-a-drupal-training/size-and"
+        },
+        {
+            "text": "Topics, curriculum, trainers, and volunteers for trainings",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/organizing-a-drupal-training/topics"
+        },
+        {
+            "text": "Post-event surveys and badges for trainings",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/organizing-a-drupal-training/post-event"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/event-plan/planning-for-specific-drupal-events": [
+        {
+            "text": "San Francisco Drupal Users Group (SFDUG)",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/planning-for-specific-drupal-events/san-francisco-drupal-users-group-sfdug"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/event-plan/planning-for-specific-drupal-events/san-francisco-drupal-users-group-sfdug": [
+        {
+            "text": "SFDUG - Issue queue summary templates",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/planning-for-specific-drupal-events-2"
+        },
+        {
+            "text": "SFDUG - Tools",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/planning-for-specific-drupal-events-1"
+        },
+        {
+            "text": "SFDUG Monthly meetup checklist",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/event-plan/planning-for-specific-drupal-events-0"
+        }
+    ],
+    "https://drupal.org/community/contributor-guide/reference-information/guidelines-contributor-guide": [
+        {
+            "text": "Contributor Guide Audience (Personas)",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/guidelines-contributor-guide/audience"
+        },
+        {
+            "text": "Contributor Guide content types",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/guidelines-contributor-guide/content-types"
+        },
+        {
+            "text": "Guidelines for new Contribution Area pages",
+            "href": "https://drupal.org/community/contributor-guide/reference-information/guidelines-contributor-guide/areas"
+        }
+    ]
+}
